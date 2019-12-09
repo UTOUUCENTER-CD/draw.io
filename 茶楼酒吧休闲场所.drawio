@@ -1,20 +1,20 @@
-<mxfile host="www.draw.io" modified="2019-12-08T16:16:56.217Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="Kqq5ZLQ4EsUHlXj52BJM" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T13:59:09.806Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="CHRSlFit8DGcpAPxKikf" version="12.3.8" type="github" pages="1">
   <diagram id="BdT-KMvt7vkJmKzZMGRt" name="Page-1">
     <mxGraphModel dx="782" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-164" value="&lt;b&gt;一、&lt;/b&gt;最初经营好茶楼是生存之本。（做好服务，提供牌娱，做好成本核算）。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;茶楼的推广和吸客除了简单的棋牌娱乐之外，应该提供更多有价值的消费体验&lt;br&gt;（尝试引导消费者进行：产生有经济价值的项目研讨会）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 所以要给传统茶需楼配置商务室及项目宣讲所需要的硬件设备，还有宣讲人这类软实力。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="375" width="590" height="60" as="geometry"/>
+          <mxGeometry x="50" y="450" width="590" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-165" value="&lt;b&gt;面向商务的茶楼或酒吧经营方案：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="350" width="200" height="20" as="geometry"/>
+          <mxGeometry x="80" y="420" width="200" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-166" value="&lt;b&gt;三、&lt;/b&gt;当项目不可承接的时候，在茶楼经营到一定时期有资金冗余，同样可以组件软件开发团队。&lt;br&gt;&amp;nbsp; &amp;nbsp; 组件软件开发团队的优势在于保障茶楼后续经营的可持续性，从单纯的茶楼服务性行业，&lt;br&gt;转向技术驱动型的一种新型的能创造价值的休闲会所 ．" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="520" width="520" height="50" as="geometry"/>
+          <mxGeometry x="135" y="595" width="520" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-167" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="50" y="30" width="675" height="305" as="geometry"/>
+          <mxGeometry x="50" y="77" width="675" height="305" as="geometry"/>
         </mxCell>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="h4Tk04VMiY0GWhx75XCe-167" vertex="1">
           <mxGeometry width="650" height="160" as="geometry"/>
@@ -293,7 +293,7 @@
           <mxGeometry x="615" y="172" width="30" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-168" value="&lt;b&gt;二、&lt;/b&gt;&amp;nbsp;基于在茶楼里面来往的商业谈判均离不开各类项目双方的谈判。当项目双方产生好的idea，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 会苦于接下来的项目开展的筹备。起步阶段都是需要从简节约快速形成项目雏形为目的，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;这个过程通常都是采取外包的形式达成在成本核算之下求得最优结果。&lt;b&gt;项目外包与自己筹建的优劣:&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 可以从现在的各行各业看，包括制造业在内，业务项目的外包都通用的一种商业模式，创业初期更是如此..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="447.5" width="690" height="60" as="geometry"/>
+          <mxGeometry x="55" y="522.5" width="690" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-175" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="654" y="223" width="10" height="13" as="geometry"/>
@@ -309,6 +309,75 @@
         </mxCell>
         <mxCell id="h4Tk04VMiY0GWhx75XCe-179" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="619" y="211" width="36" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="167.5" y="690" width="440" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-3" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="20" as="sourcePoint"/>
+            <mxPoint x="320" y="20" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-4" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint"/>
+            <mxPoint x="320" y="20" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-5" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint"/>
+            <mxPoint x="440" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-6" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="180" as="sourcePoint"/>
+            <mxPoint x="440" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-7" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="180" as="sourcePoint"/>
+            <mxPoint x="440" y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-8" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="100" as="sourcePoint"/>
+            <mxPoint x="120" y="20" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-32" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="100" as="sourcePoint"/>
+            <mxPoint x="120" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-33" value="" style="endArrow=none;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="100" as="sourcePoint"/>
+            <mxPoint y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-34" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="100" as="sourcePoint"/>
+            <mxPoint x="320" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-35" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="sourcePoint"/>
+            <mxPoint x="220" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-37" value="3ＣＭ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry x="315.5" y="50" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ut-XlQSdsxT5l0zDzYY2-38" value="８ＣＭ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="ut-XlQSdsxT5l0zDzYY2-39">
+          <mxGeometry x="205" width="50" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
