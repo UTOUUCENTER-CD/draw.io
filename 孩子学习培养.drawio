@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-11T11:42:02.987Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="TzF3vOGV3oCnFo3Xn5MR" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-14T09:02:09.776Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="OcfsnajECSEuv6OtWqnm" version="12.3.9" type="github" pages="1">
   <diagram id="JtAh7YlJ69pbtDSkBTyl" name="Page-1">
-    <mxGraphModel dx="782" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -312,6 +312,15 @@
         </mxCell>
         <mxCell id="RIlo6Lyj0Yrd-4PUd2Lp-83" value="如何让孩子深刻认识到:&lt;br&gt;没有任何事有捷径或轻易取之,&lt;br&gt;万事都是很难的事实." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="684" width="180" height="53" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;思维复习一&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="737" width="80" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-2" value="1`小新在计算‘80-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="829" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="211" y="829" width="20" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
