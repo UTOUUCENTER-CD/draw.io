@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-14T09:02:09.776Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="OcfsnajECSEuv6OtWqnm" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-15T02:48:13.409Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="vB1SNxGEuUPbH_PXA1i1" version="12.3.9" type="github" pages="1">
   <diagram id="JtAh7YlJ69pbtDSkBTyl" name="Page-1">
     <mxGraphModel dx="782" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -313,14 +313,50 @@
         <mxCell id="RIlo6Lyj0Yrd-4PUd2Lp-83" value="如何让孩子深刻认识到:&lt;br&gt;没有任何事有捷径或轻易取之,&lt;br&gt;万事都是很难的事实." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="684" width="180" height="53" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-1" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;思维复习一&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="737" width="80" height="120" as="geometry"/>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-6" value="八单元：认识小数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="830" width="160" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-2" value="1`小新在计算‘80-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="91" y="829" width="120" height="20" as="geometry"/>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-7" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="880" as="sourcePoint"/>
+            <mxPoint x="80" y="880" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="211" y="829" width="20" height="20" as="geometry"/>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-8" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1410" as="sourcePoint"/>
+            <mxPoint x="400" y="880" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-9" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+          <mxGeometry x="80" y="900" width="270" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-10" value="基础知识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="910" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-11" value="重点知识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1149" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-12" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="900" width="270" height="210" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-16" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1160" width="265" height="171" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-17" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1160" width="270" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-19" value="所有题型：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="900" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-21" value="易错题型：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="900" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-22" value="所有题型：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1159" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-23" value="易错题型：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1160" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
