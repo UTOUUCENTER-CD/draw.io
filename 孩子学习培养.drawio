@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-15T06:51:37.195Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="C8u5x-30XbvjUVD14O4K" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-24T17:13:34.252Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="B1SJJEE5jLmo0uXTUQyf" version="12.4.3" type="github" pages="1">
   <diagram id="JtAh7YlJ69pbtDSkBTyl" name="Page-1">
-    <mxGraphModel dx="782" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -313,64 +313,64 @@
         <mxCell id="RIlo6Lyj0Yrd-4PUd2Lp-83" value="如何让孩子深刻认识到:&lt;br&gt;没有任何事有捷径或轻易取之,&lt;br&gt;万事都是很难的事实." style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="542.5" y="684" width="180" height="53" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-6" value="&lt;b&gt;八单元：认识小数&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-6" value="&lt;b&gt;八单元：认识小数&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="330" y="830" width="160" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-7" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-7" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="880" as="sourcePoint"/>
             <mxPoint x="30" y="880" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-8" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=12;" edge="1" parent="1" source="qeIXNJi3axi2YQPxAnWZ-10">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-8" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=12;" parent="1" source="qeIXNJi3axi2YQPxAnWZ-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1410" as="sourcePoint"/>
             <mxPoint x="400" y="880" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-9" value="1、填空题&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;_&lt;u&gt;实数的一种特殊表现形式&lt;/u&gt;_是小数，小数的表现形式&lt;br&gt;&lt;br&gt;_____&lt;br&gt;&lt;br&gt;2、计算题&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;10.2-4.3=&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5.5-2.5=&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.1-1=&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3、应用题&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;爸爸的书桌长度为1.8米，我的书桌长度为1.6米，把这个长度单位米换成厘米，标出各自的长度" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-9" value="1、填空题&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;_&lt;u&gt;实数的一种特殊表现形式&lt;/u&gt;_是小数，小数的表现形式&lt;br&gt;&lt;br&gt;_____&lt;br&gt;&lt;br&gt;2、计算题&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;10.2-4.3=&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5.5-2.5=&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.1-1=&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3、应用题&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;爸爸的书桌长度为1.8米，我的书桌长度为1.6米，把这个长度单位米换成厘米，标出各自的长度" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;align=left;" parent="1" vertex="1">
           <mxGeometry x="30" y="900" width="316" height="230" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-12" value="&lt;br&gt;1、小数点位置&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.01&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3.1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3&amp;nbsp; &amp;nbsp; &amp;nbsp; 0.01&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0.1&lt;br&gt;&lt;br&gt;&lt;br&gt;2、小数点最后的一位数加零，其大小不变。&lt;br&gt;比较大小：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.20&amp;nbsp; &amp;nbsp; 2.2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1.0&amp;nbsp; &amp;nbsp;1&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.321&amp;nbsp; &amp;nbsp; 5.320&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 100&amp;nbsp; &amp;nbsp; 1000&lt;br&gt;3、总结：小数比较大小，第一步比较整数部分、第二部比较小数后面第一位、第二步比较小数点后面第二位，依次往后进行。&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;flipV=0;flipH=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-12" value="&lt;br&gt;1、小数点位置&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2.01&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3.1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3&amp;nbsp; &amp;nbsp; &amp;nbsp; 0.01&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0.1&lt;br&gt;&lt;br&gt;&lt;br&gt;2、小数点最后的一位数加零，其大小不变。&lt;br&gt;比较大小：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.20&amp;nbsp; &amp;nbsp; 2.2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1.0&amp;nbsp; &amp;nbsp;1&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.321&amp;nbsp; &amp;nbsp; 5.320&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 100&amp;nbsp; &amp;nbsp; 1000&lt;br&gt;3、总结：小数比较大小，第一步比较整数部分、第二部比较小数后面第一位、第二步比较小数点后面第二位，依次往后进行。&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; white-space: nowrap&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;flipV=0;flipH=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;align=left;" parent="1" vertex="1">
           <mxGeometry x="453" y="900" width="307" height="230" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-16" value="1、计量货币、长度、面积、温度、重量&lt;br&gt;2、在计量过程中，小数点后面的位数越多，我们就可以明白这个计量值越精确，精度越高。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-16" value="1、计量货币、长度、面积、温度、重量&lt;br&gt;2、在计量过程中，小数点后面的位数越多，我们就可以明白这个计量值越精确，精度越高。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;align=left;" parent="1" vertex="1">
           <mxGeometry x="30" y="1170" width="316" height="220" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-17" value="&lt;div&gt;&lt;span&gt;1、生活中我们经常使用视线测量法，这样的方法叫估量。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2、在使用测量工具进行测量的时候，遇到小数点后面某一位上是零以后，就不再继续进行也算是一种估量。因为把测量工具再作细分，还会在零后面产生更多位的小数（精度是一个接近状态的描述，它将如同整数的最大值是永远达不到。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3、总结：小数是进入微观世界的描述，整数是进入宏观世界的描述。&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;flipH=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;align=left;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-17" value="&lt;div&gt;&lt;span&gt;1、生活中我们经常使用视线测量法，这样的方法叫估量。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2、在使用测量工具进行测量的时候，遇到小数点后面某一位上是零以后，就不再继续进行也算是一种估量。因为把测量工具再作细分，还会在零后面产生更多位的小数（精度是一个接近状态的描述，它将如同整数的最大值是永远达不到。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3、总结：小数是进入微观世界的描述，整数是进入宏观世界的描述。&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;flipH=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;align=left;" parent="1" vertex="1">
           <mxGeometry x="453" y="1169" width="307" height="221" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-19" value="&lt;font color=&quot;#ffffff&quot;&gt;所有题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-19" value="&lt;font color=&quot;#ffffff&quot;&gt;所有题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="900" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-21" value="&lt;font color=&quot;#ffffff&quot;&gt;易错题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-21" value="&lt;font color=&quot;#ffffff&quot;&gt;易错题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="900" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-22" value="&lt;font color=&quot;#ffffff&quot;&gt;所有题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-22" value="&lt;font color=&quot;#ffffff&quot;&gt;所有题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1169" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-23" value="&lt;font color=&quot;#ffffff&quot;&gt;易错题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-23" value="&lt;font color=&quot;#ffffff&quot;&gt;易错题型：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="1170" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="497" y="951.5" width="18" height="18" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="578" y="950" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="649" y="950" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-10" value="&lt;font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;基础知识&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1、小数的由来是计量方法的延伸。&lt;br&gt;&lt;/font&gt;2、小数的表现形式：小数点后面的第一位叫十分位、第二位叫百分位、第三位叫千分位、...它与整数的叫法多了&quot;分&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-10" value="&lt;font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;基础知识&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1、小数的由来是计量方法的延伸。&lt;br&gt;&lt;/font&gt;2、小数的表现形式：小数点后面的第一位叫十分位、第二位叫百分位、第三位叫千分位、...它与整数的叫法多了&quot;分&quot;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="350" y="900" width="100" height="230" as="geometry"/>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-30" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=12;" edge="1" parent="1" target="qeIXNJi3axi2YQPxAnWZ-10">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-30" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=12;" parent="1" target="qeIXNJi3axi2YQPxAnWZ-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1470" as="sourcePoint"/>
             <mxPoint x="400" y="880" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeIXNJi3axi2YQPxAnWZ-11" value="&lt;font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;重点知识&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、小数生活中的应用，由于生活中所有对象都具有一个共同的属性（量）当计量一个物体时，整数不足以表示精确度的时候，小数就诞生了。&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、小数进位制，依然遵循整数的进位方法（十进制）&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="qeIXNJi3axi2YQPxAnWZ-11" value="&lt;font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;重点知识&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、小数生活中的应用，由于生活中所有对象都具有一个共同的属性（量）当计量一个物体时，整数不足以表示精确度的时候，小数就诞生了。&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、小数进位制，依然遵循整数的进位方法（十进制）&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="350" y="1170" width="100" height="220" as="geometry"/>
         </mxCell>
       </root>
