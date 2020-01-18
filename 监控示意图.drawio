@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-18T08:03:55.986Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="XNMFu7GPHghKS4SDx_Aw" version="12.5.5" type="github">
+<mxfile modified="2020-01-18T08:05:39.230Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="unpV8XUxPlx3g4fp4lPH" version="12.5.5" type="github">
   <diagram id="Vu2KoEKFjnMnGP2QOwhJ" name="Page-1">
     <mxGraphModel dx="782" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,17 +46,11 @@
         <mxCell id="gwYr39cwT20HszYJJAF0-34" value="二单元1楼大厅" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="566" y="700" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="gwYr39cwT20HszYJJAF0-37" value="27层居民屋+2层地下，楼高3米，楼顶到楼底29层楼高，29*3=87米" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="121" y="797" width="370" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="gwYr39cwT20HszYJJAF0-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="596" width="100" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="gwYr39cwT20HszYJJAF0-39" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;一楼业主WiFi&lt;/font&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="120" y="611.5" width="90" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="gwYr39cwT20HszYJJAF0-40" value="每个电梯摄像头用线87米" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="120" y="826" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="gwYr39cwT20HszYJJAF0-41" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;direction=west;" parent="1" vertex="1">
           <mxGeometry x="223" y="627" width="30" height="10" as="geometry"/>
@@ -138,6 +132,9 @@
         </mxCell>
         <mxCell id="gwYr39cwT20HszYJJAF0-50" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;direction=east;" parent="zpz4clawRqJDZ8YHJVcv-12" vertex="1">
           <mxGeometry x="5" width="30" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="zpz4clawRqJDZ8YHJVcv-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;2栋业主众筹监控安装示意图&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="730" width="240" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
