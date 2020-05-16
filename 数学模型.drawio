@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2020-05-16T09:52:23.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="tjEAa29k1IO_pmeBzikU" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-16T14:50:37.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="x337wUQ3yv6PBHyxA4S3" version="13.0.1" type="github">
   <diagram id="Pz9Wp0MGv7To2l7jw31U" name="第 1 页">
-    <mxGraphModel dx="1422" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="289" y="543" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-38" value="把李阿姨的钱对折一下就得到了王阿姨的钱数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="544" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="242" y="475" width="158" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-24" value="李阿姨和王阿姨两人一起去买东西，李阿姨带的钱是王阿姨的2倍，李阿姨用去180元，王阿姨用去30元，&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;这时两人的钱就相等了，&lt;/span&gt;&lt;span&gt;问李阿姨和王阿姨各自带了多少钱？&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="480" width="570" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-1" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="76" y="60" as="sourcePoint" />
@@ -21,44 +33,43 @@
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-3" value="学校" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Long_Building.svg;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=none;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="456" y="20" width="76" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-5" value="60米/s——&amp;gt;2分钟，继续这样走下去到学校要迟到4分钟。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="96" y="100" width="320" height="20" as="geometry" />
+        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-5" value="60米/Min——&amp;gt;2分钟，继续这样走下去到学校要迟到4分钟。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="86" y="100" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-6" value="60米/s——&amp;gt;2分钟，改为80米/s这样走下去到学校要早到4分钟。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="86" y="140" width="360" height="20" as="geometry" />
+        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-6" value="60米/Min——&amp;gt;2分钟，改为80米/s这样走下去到学校要早到4分钟。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="81" y="140" width="370" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-7" value="" style="shape=link;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="76" y="81" as="sourcePoint" />
-            <mxPoint x="156" y="81" as="targetPoint" />
+            <mxPoint x="160" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-8" value="60米/分钟（2分钟）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="63" y="81" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-9" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="156" y="80" as="sourcePoint" />
-            <mxPoint x="476" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-14" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="316" y="70" as="sourcePoint" />
+            <mxPoint x="400" y="70" as="sourcePoint" />
             <mxPoint x="476" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-44" value="4分钟=240米" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qv1n9u9stY9VH0lMy7Xa-14">
+          <mxGeometry x="-0.3158" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-15" value="" style="endArrow=classic;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="476" y="84" as="sourcePoint" />
-            <mxPoint x="716" y="84" as="targetPoint" />
+            <mxPoint x="620" y="84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-17" value="持续" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="129" y="107" width="40" height="20" as="geometry" />
+          <mxGeometry x="136" y="107" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-18" value="持续" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="123" y="148" width="40" height="20" as="geometry" />
+          <mxGeometry x="128" y="147" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-19" value="60 × 4 = 240" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="436" y="100" width="80" height="20" as="geometry" />
@@ -68,21 +79,18 @@
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-21" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="116" as="sourcePoint" />
-            <mxPoint x="677" y="116" as="targetPoint" />
+            <mxPoint x="520" y="116.5" as="sourcePoint" />
+            <mxPoint x="600" y="116.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-22" value="" style="endArrow=classic;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="517" y="156" as="sourcePoint" />
-            <mxPoint x="757" y="156" as="targetPoint" />
+            <mxPoint x="660" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-23" value="两位数乘两位数时，把第二个乘数24个位上的4看成了9，结果比正确的积多55，正确的结果是多少？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="260" width="550" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-24" value="李阿姨和王阿姨两人一起去买东西，李阿姨带的钱是王阿姨的2倍，李阿姨用去180元，王阿姨用去30元，&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;这时两人的钱就相等了，&lt;/span&gt;&lt;span&gt;问李阿姨和王阿姨各自带了多少钱？&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="480" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qv1n9u9stY9VH0lMy7Xa-25" value="一批水泥，用小车装载，45辆刚好装完；用大车装载，36辆刚好装完，已知每辆大车比每辆小车多装4吨，问这批水泥有多少吨？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="42" y="670" width="700" height="20" as="geometry" />
@@ -146,13 +154,13 @@
         </mxCell>
         <mxCell id="qcMhjn22wfGFSeCv5ZoT-11" value="" style="endArrow=none;html=1;fontStyle=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="88.5" y="565" as="sourcePoint" />
+            <mxPoint x="40" y="565" as="sourcePoint" />
             <mxPoint x="278.5" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qcMhjn22wfGFSeCv5ZoT-12" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="88.5" y="605" as="sourcePoint" />
+            <mxPoint x="40" y="605" as="sourcePoint" />
             <mxPoint x="168.5" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -230,6 +238,83 @@
         </mxCell>
         <mxCell id="qcMhjn22wfGFSeCv5ZoT-35" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#CDA2BE;" vertex="1" parent="1">
           <mxGeometry x="248" y="355" width="32" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-41" value="先找到花了多少分钟走完如上中间蓝色虚线段 = &lt;b&gt;（60 × 4 + 80 × 4）÷ （80 - 60） =&amp;nbsp; 28（分钟）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="168" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-42" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#0000FF;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="400" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-43" value="花了？分钟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qcMhjn22wfGFSeCv5ZoT-42">
+          <mxGeometry x="-0.0917" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qv1n9u9stY9VH0lMy7Xa-9" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="85" as="sourcePoint" />
+            <mxPoint x="476" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-46" value="每分钟多走20米" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="527" y="136" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-47" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#0000FF;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-48" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#0000FF;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="127" as="sourcePoint" />
+            <mxPoint x="620" y="37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-49" value="&lt;b&gt;（60 × 2 + 60 × 28 + 60 × 4） =&amp;nbsp; 120 + 1680 + 240 = 1800 + 240 = 2040（米）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="200" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-51" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-52" value="&lt;b&gt;= 55 ÷ （29 - 24） =&amp;nbsp; 11&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="330" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-53" value="&lt;b&gt;所以正确的结果是：11&amp;nbsp;× 24 =&amp;nbsp; 264&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="390" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-54" value="王阿姨再花掉30元后的钱是：= 180 - 30 = 150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="575" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-55" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#0000FF;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.5" y="624" as="sourcePoint" />
+            <mxPoint x="169.5" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-56" value="李阿姨带了300，王阿姨带了150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="606" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-60" value="45 - 36 = 9（辆）这是小车比大车多了的车辆数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="710" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-61" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;每辆大车比小车多装4吨，那么36辆小车装应该还剩下（36 × 4）= 144（吨）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;由于45辆小车就可以装完的，所以剩下的144吨就需要9辆小车来装。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;那么每辆小车装（144 ÷ 9）= 16（吨）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;所以这批水泥有（16 × 45）= 80&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+ 64&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-62" value="" style="endArrow=none;html=1;strokeColor=#0000FF;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="493" y="805" as="sourcePoint" />
+            <mxPoint x="543" y="805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-63" value="720" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="499" y="804" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qcMhjn22wfGFSeCv5ZoT-64" value="答：这批水泥有720吨" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="830" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
