@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T15:34:06.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="5ODPRozedTG2PPxBl5c0" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T15:58:31.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="odNV1YqXnLQmrdJanq4-" version="13.1.14" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
     <mxGraphModel dx="1026" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,58 @@
           <mxGeometry x="240" y="940" width="430" height="130" as="geometry" />
         </mxCell>
         <mxCell id="IXA5z_bkFehV0fz8Eh-a-1" value="地摊经济" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1130" width="110" height="40" as="geometry" />
+          <mxGeometry x="20" y="1240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-2" value="地摊需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-3" value="地摊缺陷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-4" value="便捷性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1100" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-5" value="安全性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1170" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-6" value="整洁性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1240" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-7" value="①、便捷的出摊、收摊——可移动式车载摊位&lt;br&gt;②、便捷的货品收纳、展示、管理——结实的车载式货架&lt;br&gt;③、便捷的用电系统——蓄电池的应用" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1080" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-8" value="①、箱式车的行车、停车安全&lt;br&gt;②、车载用电安全&lt;br&gt;③、交易支付安全——在成熟的码商基础上增加漏收漏付的能力&lt;br&gt;④、监控摄像头、WiFi的应用" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1145" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-9" value="①、摊位卫生收集及处理&lt;br&gt;②、移动式摊位对场景的融入性&lt;br&gt;③、杂乱无章的广告牌——采用柔光的LED屏替代" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1225" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-10" value="①、生命周期——地摊经济是权益之计么？政策是长时间支持，还是短期的解决眼前问题？&lt;br&gt;②、地摊与成熟的电商：地摊经济市场如何突破成熟的电商市场。&lt;br&gt;③、地摊货品是传统印象中的伪劣品？&lt;br&gt;④、地摊面向的消费群就是老年人和贪图便宜的、图方便的人群？没有正常的消费群体？&lt;br&gt;⑤、地摊对整洁的城市带来的凌乱不堪的负效应？&lt;br&gt;⑥、无法回去的地摊烟火，是因为人们不在相信地摊经济能PK得了电商的物美价廉、便捷。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="1300" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IXA5z_bkFehV0fz8Eh-a-1" target="IXA5z_bkFehV0fz8Eh-a-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1270" as="sourcePoint" />
+            <mxPoint x="170" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IXA5z_bkFehV0fz8Eh-a-1" target="IXA5z_bkFehV0fz8Eh-a-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1270" as="sourcePoint" />
+            <mxPoint x="220" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IXA5z_bkFehV0fz8Eh-a-2" target="IXA5z_bkFehV0fz8Eh-a-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="1280" as="sourcePoint" />
+            <mxPoint x="230" y="1195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IXA5z_bkFehV0fz8Eh-a-2" target="IXA5z_bkFehV0fz8Eh-a-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1185" as="sourcePoint" />
+            <mxPoint x="374" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
