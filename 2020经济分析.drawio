@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T15:58:41.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="W_uZS7-mcVvTmKdl8szU" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T16:00:52.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="TLXYJrO6JyYg4E0_33IV" version="13.1.14" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
     <mxGraphModel dx="1026" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="IXA5z_bkFehV0fz8Eh-a-9" value="①、摊位卫生收集及处理&lt;br&gt;②、移动式摊位对场景的融入性&lt;br&gt;③、杂乱无章的广告牌——采用柔光的LED屏替代" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1225" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IXA5z_bkFehV0fz8Eh-a-10" value="①、生命周期——地摊经济是权益之计么？政策是长时间支持，还是短期的解决眼前问题？&lt;br&gt;②、地摊与成熟的电商：地摊经济市场如何突破成熟的电商市场。&lt;br&gt;③、地摊货品是传统印象中的伪劣品？&lt;br&gt;④、地摊面向的消费群就是老年人和贪图便宜的、图方便的人群？没有正常的消费群体？&lt;br&gt;⑤、地摊对整洁的城市带来的凌乱不堪的负效应？&lt;br&gt;⑥、无法回去的地摊烟火，是因为人们不在相信地摊经济能PK得了电商的物美价廉、便捷。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="1300" width="500" height="90" as="geometry" />
+        <mxCell id="IXA5z_bkFehV0fz8Eh-a-10" value="①、生命周期——地摊经济是短期的权益之计么？会来回变更么？&lt;br&gt;②、地摊与成熟的电商：地摊经济市场如何突破成熟的电商市场。&lt;br&gt;③、地摊货品是传统印象中的伪劣品？&lt;br&gt;④、地摊面向的消费群就是老年人和贪图便宜的、图方便的人群？没有正常的消费群体？&lt;br&gt;⑤、地摊对整洁的城市带来的凌乱不堪的负效应？&lt;br&gt;⑥、无法回去的地摊烟火。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="1300" width="480" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IXA5z_bkFehV0fz8Eh-a-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IXA5z_bkFehV0fz8Eh-a-1" target="IXA5z_bkFehV0fz8Eh-a-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
