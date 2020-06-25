@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T03:52:07.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="K-6xu1OVHQ0bUvrLuZdR" version="13.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-25T03:52:58.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="p5vWdXV-xcPwvhr0IFS3" version="13.3.3" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
     <mxGraphModel dx="1411" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
           <mxGeometry x="1055" y="191" width="490" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rXQscLowUKTWObVhuTJB-39" value="&lt;b&gt;淘小铺进入的社交属性，是在现时情况下进入社交分享模式，如何寻找他的新鲜感来吸引用户群体呢？&lt;/b&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="250" width="560" height="20" as="geometry" />
+          <mxGeometry x="1014" y="260" width="560" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rXQscLowUKTWObVhuTJB-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="1245" y="290" width="170" height="110" as="geometry" />
