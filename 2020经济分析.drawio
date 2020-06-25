@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T03:52:58.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="p5vWdXV-xcPwvhr0IFS3" version="13.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-25T03:55:15.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="tBt-rkqaG5LUtuf0UJy-" version="13.3.3" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
     <mxGraphModel dx="1411" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="rXQscLowUKTWObVhuTJB-59" value="&lt;div&gt;&lt;div class=&quot;document&quot;&gt;&lt;h6&gt;2020发展主要目标和下一阶段工作总体部署&lt;/h6&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="70" y="298" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rXQscLowUKTWObVhuTJB-60" value="人类社会活动中，经济发展，本质上就是资源的掠夺，" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="520" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
