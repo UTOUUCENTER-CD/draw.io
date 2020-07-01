@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-01T03:18:49.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="ZCJ27QBzzev9ryRe4F-c" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-01T03:26:39.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="OR0VadqvFK7sx-atuxjV" version="13.3.5" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,11 +193,39 @@
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-2" target="AC7Dl-0hJVLVgFuC7Mdc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-2" value="7月：蔬菜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="500" width="139" height="40" as="geometry" />
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-2" value="2020年7~12月：蔬菜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="580" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-3" value="8月：蔬菜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="620" width="139" height="40" as="geometry" />
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-9" value="2020年7月：蔬菜地摊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="500" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-3" target="AC7Dl-0hJVLVgFuC7Mdc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-3" value="2021年1~6月：酒吧茶楼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="665" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-5" value="2021年7~12月：研发中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="750" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-7" value="经济利润：6万" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="640" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-8" value="经济利润：60万" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="720" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1169.5" y="715" as="sourcePoint" />
+            <mxPoint x="1160" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="525" />
+              <mxPoint x="1160" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-12" value="经济利润：2万" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="555" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
