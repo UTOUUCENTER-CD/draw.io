@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-01T03:32:33.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="8aK7VHNjReYDaTDSlM42" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-01T03:38:27.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="mLjibsnQcoIOzJP-3A6-" version="13.3.5" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,44 +188,68 @@
           <mxGeometry x="1060" y="241" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-1" value="节点：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1041" y="468" width="50" height="20" as="geometry" />
+          <mxGeometry x="970" y="468" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-2" target="AC7Dl-0hJVLVgFuC7Mdc-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-2" value="2020年7~12月：蔬菜" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="580" width="149" height="40" as="geometry" />
+          <mxGeometry x="1014" y="580" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-9" value="2020年7月：蔬菜地摊" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="500" width="149" height="40" as="geometry" />
+          <mxGeometry x="1014" y="500" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-3" target="AC7Dl-0hJVLVgFuC7Mdc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-3" value="2021年1~6月：酒吧茶楼" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="665" width="149" height="40" as="geometry" />
+          <mxGeometry x="1014" y="665" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-5" value="2021年7~12月：研发中心" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="750" width="149" height="40" as="geometry" />
+          <mxGeometry x="1014" y="750" width="149" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-7" value="经济利润：6万" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="640" width="90" height="20" as="geometry" />
+          <mxGeometry x="1084" y="640" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-8" value="经济利润：60万" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1154" y="720" width="100" height="20" as="geometry" />
+          <mxGeometry x="1083" y="720" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;strokeWidth=2;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1169.5" y="715" as="sourcePoint" />
-            <mxPoint x="1160" y="580" as="targetPoint" />
+            <mxPoint x="1098.5" y="715" as="sourcePoint" />
+            <mxPoint x="1089" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="525" />
-              <mxPoint x="1160" y="525" />
+              <mxPoint x="1089" y="525" />
+              <mxPoint x="1089" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-12" value="经济利润：2万" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="555" width="90" height="20" as="geometry" />
+          <mxGeometry x="1084" y="555" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-9" target="AC7Dl-0hJVLVgFuC7Mdc-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="540" as="sourcePoint" />
+            <mxPoint x="1220" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-9" target="AC7Dl-0hJVLVgFuC7Mdc-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173" y="530" as="sourcePoint" />
+            <mxPoint x="1220" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-15" value="少样爆品蔬菜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="403" width="95" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-16" value="蔬菜预算统计表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="453" width="95" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-17" value="针对销售情况调整菜品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="500" width="95" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-18" value="做好利润最好的菜品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="548" width="95" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
