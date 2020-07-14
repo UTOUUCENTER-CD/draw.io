@@ -1,4 +1,4 @@
-<mxfile modified="2020-07-14T09:35:16.011Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="_E9Mbxcu0qXGkd-aY9ys" version="13.4.2" type="github">
+<mxfile modified="2020-07-14T09:36:41.181Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="8zG8gfChJyR_Rbx3Z4H_" version="13.4.2" type="github">
   <diagram id="Vu2KoEKFjnMnGP2QOwhJ" name="Page-1">
     <mxGraphModel dx="2249" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,10 +211,10 @@
         <mxCell id="ENxmUGUhNbRzOpSNmtiX-7" value="&lt;b style=&quot;font-size: 18px&quot;&gt;创收圈子：&lt;/b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;人&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font&gt;流量（创业者、消费者）&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="190" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ENxmUGUhNbRzOpSNmtiX-8" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;小区成员&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ENxmUGUhNbRzOpSNmtiX-8" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;创业培训&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="240" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ENxmUGUhNbRzOpSNmtiX-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;小区商业&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ENxmUGUhNbRzOpSNmtiX-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;商业引入&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="240" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
