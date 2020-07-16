@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T13:39:36.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="DIy1X_Xa6aLeL6j0c_a4" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-16T03:26:46.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="QX4LPZghR4Q34E-EUa4c" version="13.4.3" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
-    <mxGraphModel dx="1422" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,7 +251,7 @@
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-18" value="做好利润最好的菜品" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1225" y="548" width="95" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="2020.07月以后，一切将更加艰难，如何应对这艰难的日子：&lt;br&gt;①、线下经济向线上转移，这需要布局最后1Km的物流（美团外卖、饿了么外卖）。&lt;br&gt;②、线上商城商品：蔬菜、药品、电子设备、&lt;br&gt;③、线上视频课程及" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="2" value="2020.07月以后，一切将更加艰难，如何应对这艰难的日子：&lt;br&gt;①、线下经济向线上转移，这需要布局最后1Km的物流（美团外卖、饿了么外卖）。&lt;br&gt;②、线上商城商品：蔬菜、药品、电子设备、&lt;br&gt;③、线上视频课程及公众号输出" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1194" y="595" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
