@@ -1,11 +1,11 @@
-<mxfile modified="2020-07-19T09:07:56.433Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="WN5KQtYnxONwczf0UAnv" version="13.4.6" type="github">
+<mxfile modified="2020-07-19T09:08:58.192Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Ri1N2LLmsGjHSaORxLpM" version="13.4.6" type="github">
   <diagram id="Vu2KoEKFjnMnGP2QOwhJ" name="Page-1">
     <mxGraphModel dx="2663" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="czKqEtyLvmXwKxngjN77-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-1118" y="385" width="240" height="325" as="geometry" />
+          <mxGeometry x="-1118" y="385" width="240" height="305" as="geometry" />
         </mxCell>
         <mxCell id="gwYr39cwT20HszYJJAF0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="30" width="120" height="550" as="geometry" />
@@ -415,8 +415,8 @@
             <mxPoint x="-1074.5" y="592.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1It-18gbYwk9k0PvTJx-51" value="&lt;span style=&quot;font-weight: 400&quot;&gt;做好了这一部分，可以支撑左右两边的需求能力。但是现在基本上是没有这一部分的行为。所以我们迫切需要成立自己的&lt;/span&gt;业委会&lt;span style=&quot;font-weight: 400&quot;&gt;！&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1114.5" y="625" width="233" height="85" as="geometry" />
+        <mxCell id="L1It-18gbYwk9k0PvTJx-51" value="&lt;span style=&quot;font-weight: 400&quot;&gt;✍������&amp;nbsp; &amp;nbsp;做好了这一部分，可以支撑左右两边的需求能力。但是现在基本上是没有这一部分的行为。所以我们迫切需要成立自己的&lt;br&gt;&lt;/span&gt;业委会&lt;span style=&quot;font-weight: 400&quot;&gt;！&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-1114.5" y="625" width="233" height="65" as="geometry" />
         </mxCell>
         <mxCell id="L1It-18gbYwk9k0PvTJx-53" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1500" y="130" width="320" height="80" as="geometry" />
