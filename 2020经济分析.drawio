@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T14:12:09.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="ux1xJGKqL69xfuzdOF0w" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-30T05:03:54.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="wPQmHfoKFerNKux_UpKM" version="13.6.5" type="github">
   <diagram id="1MwcNvDsCMdtUdcm8Kb8" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-3" value="2021年1~6月：酒吧茶楼" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1014" y="665" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y5afSU_I8UgC6zaysEze-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-5" target="y5afSU_I8UgC6zaysEze-2">
+        <mxCell id="y5afSU_I8UgC6zaysEze-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AC7Dl-0hJVLVgFuC7Mdc-5" target="y5afSU_I8UgC6zaysEze-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AC7Dl-0hJVLVgFuC7Mdc-5" value="2021年7~12月：研发中心" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
@@ -257,7 +257,7 @@
         <mxCell id="2" value="2020.07月以后，一切将更加艰难，如何应对这艰难的日子：&lt;br&gt;①、线下经济向线上转移，这需要布局最后1Km的物流（美团外卖、饿了么外卖）。&lt;br&gt;②、线上商城商品：蔬菜、药品、电子设备、&lt;br&gt;③、线上视频课程及公众号输出" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="1183" y="590" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y5afSU_I8UgC6zaysEze-2" value="2022年7~12月：教育" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="y5afSU_I8UgC6zaysEze-2" value="2022年7~12月：教育" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1014" y="840" width="149" height="40" as="geometry" />
         </mxCell>
       </root>
