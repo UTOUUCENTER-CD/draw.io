@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T07:40:11.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="peLfNYIsDTnc3dZ5tHTp" version="13.7.6" type="github"><diagram id="Nf25iYnUFrOJCkZ64i39" name="第 1 页">1ZhLb6MwEIB/jY9FGDDgY8ij1WpXqtTDtkcaXIIEOCJOk/TX7xgMBHCbVg1N9hLNTGyDv3l4DLKn2f62CNerPzxiKbLMaI/sGbIsz7fgVxoOlcGhTmWIiySqTLg1PCRvTBlNZd0mEdt0BgrOU5Gsu8Ylz3O2FB1bWBR81x32wtPuU9dhzAaGh2WYDq1/k0isKqtvea39jiXxqn4ydmn1TxbWg9VONqsw4rsjkz1H9rTgXFRStp+yVLKruVTzFu/827xYwXLxmQn57u3wlAUmoSS5Y79m07U3u1GrvIbpVm1Yvaw41AQKvs0jJhcxkR3sVolgD+twKf/dgcvBthJZChoGUS3HCsH2774nbnYPUcN4xkRxgCH1BEcBUxFDlLpr8bumsq2O0Du2MobK5XGzdEsFBAXmC5CsIaS5jwIHTTw0dxGdo8C9ODaLnsTmWBpso1FzNNQI8l0UeBIf9ZC/KPEtEJ1eHB92T+LDOnzeWPjcD4LOclN4fPBcgBRL6UxhWHARioTnoFLzPFxJLywtkwzANhB/JC49DVgISlOylQJGE/N7GM+AzfW72Jri1qmCQ2pkLGr1eaxJZ/N6sphg2sGGTU0a67i5o3HTnLCy+kEeT6Xgl9yAJAQdwJSCoyLxOs4V28FdpP4QqUXpEGlzjp+fqeZA7mNieTSR7R9oOc9ZFwvbJ+JREZTyk5QNorTZ/uiv2aFWcnj1x3oBqRzNkmo7rdTqeVG4WZXuav3BokHP2fMGbIVviyX7RGCJsIiZODlw6N8j/5EPKknBUjgTXrsvrHOpesI9T2Arbfj063//wKw2qmYdt6+9hZxeW9j01fVCFYjBQmWENdv+RtDZ2nMDEhmSdE4RtUuByIwOLn+AWGYXl+1qKqHO7+NlLTmdtXLLCVy+fofPLL3nm0R1I89cCJ51IdVjJ2kSyzGCS4qh0pbAiRVggGvXWq6e7WN5QTVeUs6LdRrmRgTCQ5pESR7fpuFmI5O1zGHDIuM0Q65j1GHUVFPf8D3dGWXYRFNTR3OOpt38T5xzcy7v+Ngg3ZyxXGPYrWLrRx2ju0Z5ZdkhZf/gIIpV2fEnsiL5FPnVhWCKgokcHARlRwFTFmgyl4PhCjYhpWWm2o9TVQv/TLPRa3ttT9Ns6KoWHs0BVMsfkEJ7JvlbEnhD+9Jl38VXdm/wNfiu7ttJ/5OTc/GPJ1h3S6XychpMr/eWapNhudRFm0e+jA3U9lNp1dO135vt+T8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-10T07:40:52.629Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="vg7BWYRDd9hNWc81UfsE" version="13.7.6" type="github">
+  <diagram id="Nf25iYnUFrOJCkZ64i39" name="第 1 页">
+    <mxGraphModel dx="782" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nwzyYmB0595iHeJDCp7D-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="50" width="600" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-2" value="货架" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="50" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-4" value="冷藏柜" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="50" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-6" value="货架" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="590" y="205" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-7" value="水池" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="430" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-10" value="冰柜" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="519" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-11" value="蔬菜堆头架" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="341" y="180" width="299" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-12" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="nwzyYmB0595iHeJDCp7D-11" target="nwzyYmB0595iHeJDCp7D-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-13" value="收银台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorSlidingGlass;dx=0.25;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="64.13" y="188.87" width="160.35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorSlidingGlass;dx=0.25;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="81.5" y="326.5" width="125" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-14" value="电脑及手机维修工作台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="370" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-9" value="绞肉机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="430" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-8" value="货架" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="450" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nwzyYmB0595iHeJDCp7D-17" value="鱼池" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="355" width="60" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
