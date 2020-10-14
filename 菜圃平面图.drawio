@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T08:06:30.012Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="G-WNOs5NRHKT1I5a_oV9" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T03:48:10.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="1Rn5YsciITBrafK20emE" version="13.7.9" type="github">
   <diagram id="Nf25iYnUFrOJCkZ64i39" name="第 1 页">
-    <mxGraphModel dx="782" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,23 +40,53 @@
         <mxCell id="nwzyYmB0595iHeJDCp7D-17" value="鱼池" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="355" width="60" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Er02y2Thm-W4wve5660Y-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorSlidingGlass;dx=0.25;rotation=90;" vertex="1" parent="1">
+        <mxCell id="Er02y2Thm-W4wve5660Y-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorSlidingGlass;dx=0.25;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="47" y="172" width="194" height="10" as="geometry" />
         </mxCell>
         <mxCell id="nwzyYmB0595iHeJDCp7D-13" value="收银台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="140" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Er02y2Thm-W4wve5660Y-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="Er02y2Thm-W4wve5660Y-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="350" y="420" width="41" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="Er02y2Thm-W4wve5660Y-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Er02y2Thm-W4wve5660Y-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="350" width="420" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Er02y2Thm-W4wve5660Y-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" vertex="1" parent="Er02y2Thm-W4wve5660Y-5">
+        <mxCell id="Er02y2Thm-W4wve5660Y-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;" parent="Er02y2Thm-W4wve5660Y-5" vertex="1">
           <mxGeometry width="420" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Er02y2Thm-W4wve5660Y-3" value="电脑手机维修工作台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Er02y2Thm-W4wve5660Y-5">
+        <mxCell id="Er02y2Thm-W4wve5660Y-3" value="电脑手机维修工作台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Er02y2Thm-W4wve5660Y-5" vertex="1">
           <mxGeometry x="113.5909090909091" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iucjZI9LGjL3_A4zwne5-1" value="塑封机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="710" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iucjZI9LGjL3_A4zwne5-2" value="送菜到家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="630" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iucjZI9LGjL3_A4zwne5-3" value="蔬果类推广平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iucjZI9LGjL3_A4zwne5-4" value="蔬果配送方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iucjZI9LGjL3_A4zwne5-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iucjZI9LGjL3_A4zwne5-2" target="iucjZI9LGjL3_A4zwne5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="600" as="sourcePoint" />
+            <mxPoint x="230" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iucjZI9LGjL3_A4zwne5-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iucjZI9LGjL3_A4zwne5-2" target="iucjZI9LGjL3_A4zwne5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="660" as="sourcePoint" />
+            <mxPoint x="280" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iucjZI9LGjL3_A4zwne5-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iucjZI9LGjL3_A4zwne5-2" target="iucjZI9LGjL3_A4zwne5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="670" as="sourcePoint" />
+            <mxPoint x="290" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
