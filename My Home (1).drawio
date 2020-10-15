@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T13:19:39.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="dC_kPWjcFqMv4cbZH2eR" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T13:20:46.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Fl6TsyIHr3bQ6P74SboD" version="13.8.0" type="github">
   <diagram id="pnRXbSAsWbdZZA9hHzEn" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,32 +280,20 @@
         <mxCell id="Aeb1J4XX-xa-QJd8k3CI-139" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;shadow=0;strokeColor=#FFFFFF;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="223" y="307" width="124" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="zgsh-HRRBRmctU79bV9W-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="450" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zgsh-HRRBRmctU79bV9W-8" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="892.94" y="455" width="20" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="zgsh-HRRBRmctU79bV9W-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="450" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zgsh-HRRBRmctU79bV9W-10" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="436.5" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zgsh-HRRBRmctU79bV9W-13" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
           <mxGeometry x="1030" y="273.7" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="zgsh-HRRBRmctU79bV9W-14" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
-          <mxGeometry x="970" y="260" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="870" y="211.9" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="zgsh-HRRBRmctU79bV9W-15" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" parent="1" vertex="1">
           <mxGeometry x="900" y="262" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
         <mxCell id="zgsh-HRRBRmctU79bV9W-16" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" parent="1" vertex="1">
-          <mxGeometry x="1084" y="290" width="42.599999999999994" height="54" as="geometry" />
+          <mxGeometry x="1060" y="320.5" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
         <mxCell id="zgsh-HRRBRmctU79bV9W-19" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" parent="1" vertex="1">
-          <mxGeometry x="860" y="322" width="42" height="42.599999999999994" as="geometry" />
+          <mxGeometry x="950" y="348.4" width="42" height="42.599999999999994" as="geometry" />
         </mxCell>
         <mxCell id="Vu0no6PkMsiXkVen8RK5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="555" y="580" width="240" height="170" as="geometry" />
@@ -337,7 +325,7 @@
         <mxCell id="Vu0no6PkMsiXkVen8RK5-20" value="D" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="753.5" y="640" width="24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Vu0no6PkMsiXkVen8RK5-21" value="A`B`C`D谁最先知道自己头上的帽子颜色？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;b&gt;A`B`C`D谁最先知道自己头上的帽子颜色？&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="555" y="544" width="240" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Vu0no6PkMsiXkVen8RK5-22" value="C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
