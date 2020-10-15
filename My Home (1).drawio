@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T02:27:27.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="NATzBXl4yDkkvMcWAWVh" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T13:19:39.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="dC_kPWjcFqMv4cbZH2eR" version="13.8.0" type="github">
   <diagram id="pnRXbSAsWbdZZA9hHzEn" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,6 +306,53 @@
         </mxCell>
         <mxCell id="zgsh-HRRBRmctU79bV9W-19" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" parent="1" vertex="1">
           <mxGeometry x="860" y="322" width="42" height="42.599999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="555" y="580" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="750" as="sourcePoint" />
+            <mxPoint x="615" y="580" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-15" value="一面不透明的墙" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vu0no6PkMsiXkVen8RK5-14">
+          <mxGeometry x="0.1294" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="720" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-18" value="A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="565" y="694" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-19" value="B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="635" y="690" width="31" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-20" value="D" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="753.5" y="640" width="24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-21" value="A`B`C`D谁最先知道自己头上的帽子颜色？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="555" y="544" width="240" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-22" value="C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="670" width="29" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Vu0no6PkMsiXkVen8RK5-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="644" as="sourcePoint" />
+            <mxPoint x="615" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vu0no6PkMsiXkVen8RK5-24" value="视线方向（只能朝向）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vu0no6PkMsiXkVen8RK5-23">
+          <mxGeometry x="0.1445" relative="1" as="geometry">
+            <mxPoint x="7" y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
