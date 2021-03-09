@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T07:06:44.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.2" etag="K90xgNmnBTcKb1WkOWdC" type="github"><diagram id="USduiFW1vZuBxQgyPT1P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-09T07:14:44.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="8uroaz2z_sLVmO-UisTC" version="14.4.2" type="github">
+  <diagram id="USduiFW1vZuBxQgyPT1P" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CBC6938KvRNYRx0MSELG-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;关于京东商城出售的云米冰箱质量问题：&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;1、云米冰箱打造智能家居的概念，实质是一块LCD显示屏+一块低端的含带WiFi模块的PCB板子，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 再在其主芯片上写上一个很low的应用程序，提供音视频娱乐+各类广告，经过一年的使用，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 其APP已经在产品购买后的不久，从手机上卸载。&lt;br&gt;2、&amp;nbsp;在一年的使用过程中，发现噪音是逐渐逐渐增大。比刚买两个月的时间里&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="5" width="530" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
