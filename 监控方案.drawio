@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T09:00:37.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="bI4z0Q9C4MXDNmRwk99L" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T09:08:32.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="aTvJKXSzHQTbunkqTV_C" version="14.9.6" type="github">
   <diagram id="z7jN5JkHHwS-RsI0m88Z" name="Page-1">
     <mxGraphModel dx="1246" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,14 +112,17 @@
         <mxCell id="6lECuDE7IN-nMr9HLpAg-68" value="" style="shape=mxgraph.signs.tech.telephone_4;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontColor=#FFFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="624" y="2035" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6lECuDE7IN-nMr9HLpAg-69" value="&lt;font color=&quot;#000000&quot;&gt;线材计算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="50" width="335" height="40" as="geometry" />
+        <mxCell id="6lECuDE7IN-nMr9HLpAg-69" value="&lt;font color=&quot;#000000&quot;&gt;线材计算：1200+240+72=1512米线材&lt;br&gt;每箱线300米，需要按6箱线计算。&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="990" y="10" width="335" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6lECuDE7IN-nMr9HLpAg-70" value="&lt;font color=&quot;#000000&quot;&gt;层高：4米&lt;br&gt;5层共12个点位：12*5*4&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="90" width="155" height="40" as="geometry" />
+        <mxCell id="6lECuDE7IN-nMr9HLpAg-70" value="&lt;font color=&quot;#000000&quot;&gt;层高：4米&lt;br&gt;5层共12个点位：12*5*4&lt;br&gt;240米高度数&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="990" y="50" width="155" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6lECuDE7IN-nMr9HLpAg-71" value="&lt;font color=&quot;#000000&quot;&gt;楼宽度：48米当50米计算&lt;br&gt;2层共12个点位：12*5*4&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="90" width="180" height="40" as="geometry" />
+        <mxCell id="6lECuDE7IN-nMr9HLpAg-71" value="&lt;font color=&quot;#000000&quot;&gt;楼宽度：48米当50米计算&lt;br&gt;2层共12个点位：12*50*2&lt;br&gt;1200米长度&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="50" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6lECuDE7IN-nMr9HLpAg-72" value="&lt;font color=&quot;#000000&quot;&gt;大厅进深度11.208米当12米计算，6个点位：12*6=72米&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="990" y="94" width="335" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
