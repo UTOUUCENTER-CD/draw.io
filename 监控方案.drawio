@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T11:41:51.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="VT-TIBLgWtoTWqayZ6YI" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T11:43:11.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="-sheQpfDSBhPkhKaCLmi" version="14.9.8" type="github">
   <diagram id="z7jN5JkHHwS-RsI0m88Z" name="Page-1">
     <mxGraphModel dx="1618" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="6lECuDE7IN-nMr9HLpAg-46" value="&lt;font color=&quot;#ffffff&quot;&gt;摄像头5-1&lt;/font&gt;" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFFFFF;rotation=0;" parent="6lECuDE7IN-nMr9HLpAg-78" vertex="1">
           <mxGeometry x="256.53846153846155" y="400.3277461644667" width="22.30769230769231" height="10.967883456560733" as="geometry" />
         </mxCell>
-        <mxCell id="6lECuDE7IN-nMr9HLpAg-47" value="&lt;font color=&quot;#ffffff&quot;&gt;摄像头5-2&lt;/font&gt;" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFFFFF;rotation=-45;" parent="6lECuDE7IN-nMr9HLpAg-78" vertex="1">
+        <mxCell id="6lECuDE7IN-nMr9HLpAg-47" value="&lt;font color=&quot;#ffffff&quot;&gt;带拾音器摄像头5-2&lt;/font&gt;" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFFFFF;rotation=-45;" parent="6lECuDE7IN-nMr9HLpAg-78" vertex="1">
           <mxGeometry x="640.0007692307693" y="362.42409579478453" width="22.30769230769231" height="10.967883456560733" as="geometry" />
         </mxCell>
         <mxCell id="6lECuDE7IN-nMr9HLpAg-48" value="&lt;font color=&quot;#ffffff&quot;&gt;摄像头5-4&lt;/font&gt;" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFFFFF;rotation=0;flipV=0;flipH=1;" parent="6lECuDE7IN-nMr9HLpAg-78" vertex="1">
