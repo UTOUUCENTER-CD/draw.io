@@ -1,17 +1,23 @@
-<mxfile modified="2021-12-05T03:15:05.741Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="xLt2kiObBicjXDT6u98v" version="15.9.1" type="github">
+<mxfile modified="2021-12-05T08:31:52.323Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gGiCdU0YM7rgZQ5BYqYf" version="15.9.1" type="github">
   <diagram id="hw-b7QnuWXzrcuchFDwp" name="Page-1">
     <mxGraphModel dx="2249" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sfhrzqRfL-zKUJOUxF8y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="-1110" width="700" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
-          <mxGeometry x="-758" y="-733" width="350" height="115" as="geometry" />
+          <mxGeometry x="-758" y="-733" width="378" height="115" as="geometry" />
         </mxCell>
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCD28;" parent="1" vertex="1">
           <mxGeometry x="-755" y="-860" width="400" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCD28;" parent="1" vertex="1">
           <mxGeometry x="-755" y="-1000" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sfhrzqRfL-zKUJOUxF8y-14" value="&lt;b&gt;首先，为了统一描述的标准，我们把要做的所有事务简称“产品”，&lt;br&gt;把完成具体事务的过程称为“产品研发过程&lt;/b&gt;&lt;b&gt;”&lt;/b&gt;&lt;b&gt;（有时候也叫“&lt;/b&gt;&lt;b&gt;一个项目&lt;/b&gt;&lt;b&gt;”）。&lt;br&gt;&lt;br&gt;各阶段主要活动及输出：&lt;/b&gt;&lt;br&gt;&lt;br&gt;1、对接需求——&amp;gt;会计项目转会计准则（或者审计项目转审计流程）&lt;br&gt;2、可行性评估——&amp;gt; 疑难问题收集&lt;br&gt;3、立项——&amp;gt;&amp;nbsp;&lt;b&gt;PRDV0.1版本&lt;/b&gt;&lt;br&gt;4、组建核心PDT团队——&amp;gt;人力成本预算表&lt;br&gt;5、产品&amp;amp;项目宣讲——&amp;gt; 团队成员对项目理解的手稿&lt;br&gt;6、初步时间规划及评审——&amp;gt; 项目经理提交一级计划及问题集&lt;br&gt;7、需求评审及确定&lt;br&gt;8、功能模块评审并确定——&amp;gt; 评审报告提交并存储&lt;br&gt;&lt;br&gt;&lt;br&gt;1、时间规划并更新——&amp;gt; 一级计划补充文档&lt;br&gt;2、PDT团队组建&lt;br&gt;3、版本包规划及评审——&amp;gt; 评审报告提交并存储&lt;br&gt;4、技术方案设计及评审——&amp;gt; 评审稿提交并存储&lt;br&gt;5、详细开发任务分配和计划、评审——&amp;gt; Project时间管理表（二级计划表）&lt;br&gt;6、专家验证用例设计评审并确定——&amp;gt; 评审报告(验证用例的提交&amp;amp;存储&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1、人资后补预备——&amp;gt;报备书&lt;br&gt;2、会计准则框架的搭建（通常由团队项目经理完成）&lt;br&gt;3、流程设计、评审&lt;br&gt;4、属性定义——&amp;gt;重要的节点性标注文档&lt;br&gt;5、案例编写、碎片文档收纳(案例整合)——&amp;gt;提交及修改说明&lt;br&gt;6、团队向企业交付对接——&amp;gt;向Openplant提交可复用案例&lt;br&gt;7、内部版本证明报告（专家组评审）。&lt;br&gt;&lt;br&gt;&lt;br&gt;1、专家组评审报告验证——&amp;gt;提交并修复&lt;br&gt;2、缺陷修复验证——&amp;gt;提交修复说明及补充&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3、验收报告（或重点批注）&lt;br&gt;4、内外验收（法务、会计等）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1、人员溢出回归各&lt;b&gt;自资源线（组织结构中的各功能性部门）&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 案例积累——&amp;gt;向OpenPlant提交中间件或案例模块&lt;br&gt;2、发布评审并决策&lt;br&gt;3、产品交付结案&lt;br&gt;4、项目总结&lt;br&gt;5、反馈收集并建立需求池——&amp;gt;产品&amp;amp;项目经理向需求池提交对应的文档" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="-755" y="-1071" width="420" height="730" as="geometry" />
         </mxCell>
         <mxCell id="mtA4ZGPTwMAcJMfqiiAh-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-745" y="-180" width="700" height="810" as="geometry" />
@@ -156,9 +162,6 @@
         <mxCell id="mtA4ZGPTwMAcJMfqiiAh-56" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;敏捷式集成开发流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-545" y="-170" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sfhrzqRfL-zKUJOUxF8y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-770" y="-1110" width="700" height="810" as="geometry" />
-        </mxCell>
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sfhrzqRfL-zKUJOUxF8y-3" target="sfhrzqRfL-zKUJOUxF8y-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -192,11 +195,8 @@
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sfhrzqRfL-zKUJOUxF8y-13" target="sfhrzqRfL-zKUJOUxF8y-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sfhrzqRfL-zKUJOUxF8y-13" value="开发阶段" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sfhrzqRfL-zKUJOUxF8y-13" value="开发阶段" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;gradientColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="-350" y="-720" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sfhrzqRfL-zKUJOUxF8y-14" value="&lt;b&gt;首先，为了统描述标准的统一，我们把要做的所有事务简称“产品”，&lt;br&gt;把完成具体事务的过程称为“产品开发过程&lt;/b&gt;&lt;b&gt;”&lt;/b&gt;&lt;b&gt;（有时候也叫“&lt;/b&gt;&lt;b&gt;一个项目&lt;/b&gt;&lt;b&gt;”）。&lt;br&gt;&lt;br&gt;各阶段主要活动及输出：&lt;/b&gt;&lt;br&gt;&lt;br&gt;1、对接需求——&amp;gt;会计项目转会计准则（或者审计项目转审计流程）&lt;br&gt;2、可行性评估——&amp;gt; 疑难问题收集&lt;br&gt;3、立项——&amp;gt;&amp;nbsp;&lt;b&gt;PRDV0.1版本&lt;/b&gt;&lt;br&gt;4、组建核心PDT团队——&amp;gt;人力成本预算表&lt;br&gt;5、产品&amp;amp;项目宣讲——&amp;gt; 团队成员对项目理解的手稿&lt;br&gt;6、初步时间规划及评审——&amp;gt; 项目经理提交一级计划及问题集&lt;br&gt;7、需求评审及确定&lt;br&gt;8、功能模块评审并确定——&amp;gt; 评审报告提交并存储&lt;br&gt;&lt;br&gt;&lt;br&gt;1、时规划更新——&amp;gt; 一级计划补充文档&lt;br&gt;2、PDT团队组建&lt;br&gt;3、版本包规划及评审——&amp;gt; 评审报告提交并存储&lt;br&gt;4、技术方案设计及评审——&amp;gt; 评审稿提交并存储&lt;br&gt;5、详细开发任务分配和计划、评审——&amp;gt; Project时间管理表（二级计划表）&lt;br&gt;6、测试用例设计评审并确定——&amp;gt; 评审报告(测试用例的提交&amp;amp;存储&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1、人资后补预备——&amp;gt;报备书&lt;br&gt;2、会计准则框架的搭建（通常由团队项目经理完成）&lt;br&gt;3、流程设计、评审&lt;br&gt;4、属性定义——&amp;gt;重要的节点性标注文档&lt;br&gt;5、案例编写、碎片文档的整合（联调）——&amp;gt;任务提交及bug修改说明&lt;br&gt;6、团队向企业交付对接——&amp;gt;向Openplant提交可复用案例例&lt;br&gt;7、内部版本证明报告（专家组评审）。&lt;br&gt;&lt;br&gt;&lt;br&gt;1、专家组评审报告验证——&amp;gt;提交bug并修复&lt;br&gt;2、缺陷修复验证——&amp;gt;提交修复说明及补充&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;3、验收报告（或重点批注）&lt;br&gt;4、内外验收&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1、人员溢出回归各自资源线&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 案例积累——&amp;gt;向OpenPlant提交中间件或案例模块&lt;br&gt;2、发布评审并决策&lt;br&gt;3、产品交付结案&lt;br&gt;4、项目总结&lt;br&gt;5、反馈收集并建立需求池——&amp;gt;产品&amp;amp;项目经理向需求池提交对应的文档" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="-755" y="-1071" width="420" height="730" as="geometry" />
         </mxCell>
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-15" value="验证阶段" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-500" y="-490" width="80" height="28" as="geometry" />
@@ -294,7 +294,7 @@
           <mxGeometry x="205" y="-450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-40" value="判断条件：&lt;br&gt;需求池内容达到版本更新，&lt;br&gt;则判断为yes，否则为no" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="-3" y="-1040" width="160" height="40" as="geometry" />
+          <mxGeometry x="7" y="-1020" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sfhrzqRfL-zKUJOUxF8y-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;敏捷式协同办公流程标准&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-570" y="-1100" width="210" height="20" as="geometry" />
