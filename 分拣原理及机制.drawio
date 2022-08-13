@@ -1,1 +1,40 @@
-<mxfile host="www.draw.io" modified="2019-11-29T08:09:05.516Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="SH3kc3CTPMXrjPEfUZxn" version="12.3.2" type="github" pages="1"><diagram id="sGuRpIaUXXtASe1WJgzy" name="Page-1">zVfbjpswEP2aeYzEJYB5tLPQqlKrbvNQqW80eIEWMAWnSfbrOzZOgA1ZbdXuJlIEw/GMHZ+52eCuqv27NmnyjyLlJThWugf3DhwnIA4+FXDoAc+yeyBri7SHRsC6eOQGtAy6LVLeTRSlEKUsmim4EXXNN3KCJW0rdlO1B1FOV22SjJ8B601SnqNfi1TmPUqcYMDf8yLLjyvbftiPVMlR2eyky5NU7EaQG4G7aoWQvVTtV7xU3B156e3iC6OnP9byWr7EIK5+bL7dL7L1p5/+l6+f760PZbMws/xOyq3ZMEQeEALEh8gHwoC6CglDoEQJdAk0gAgVlhAa604ejnS1YlunXK1ogct2eSH5ukk2anSH8YFYLqsSv2wUzdq8lXx/cVP2iSoMMS4qLtsDqhwNlobdw5Pv3eAsJzBYPnLUUS8x8ZGdph4oRMGw+BeMOi9idAlsBdSCKARiAbGVDiNAUSeAkCp2lVUEYawRy5iHK2DUTMgQidU8qP/UD8ionJKdlEVWo7xBZnmLgOK9wECnZqAq0lSZs5Z3xWPyXU+lvNiIopaaJo+Bd6cch9Ntpej6bP1Prlw6E0+G5460vRlHOq/lyOWMIy+77dYSwfGvnQj+DH+jADYVBcmLgEWmtJDg5oh0rWsTac+UlKcsZUhTc3H3pjmanB5a0j/UWXJtVoLn0tPX7Ske4uz1o+oZ152zOmLNf0vSwplI8kvVKbomqScU+b+26mTCVCdZmOaBfcYq+YPEl6bF0sQtup45NVoLTd/JGqVMv5VL0BO9EKufKgYRUKr6G71To6qteVpwh/IaMlMeiKutsGDEuhnqHkjZcQPIR78Hs+CNeXw/9fY4bew3LSbu7RWT0xRXKybefDFhEOrTL15i+l5FqJIxYPHJwqvFmHtbVcWeu0UEOt91UiOJKpcDlcvY7ccnXHUcsG6Nx9fPVfwcLn56bHR7dqM/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-13T09:06:22.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mLJ7sM_wCZRwkpxX4ZsF" version="20.2.3" type="github">
+  <diagram id="sGuRpIaUXXtASe1WJgzy" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-1" value="分拣器大脑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="140" y="140" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-2" value="分拣传送带的原理机制：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-4" value="传送带" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="140" y="260" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-6" value="机器设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="140" y="300" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-12" value="" style="group;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="140" y="180" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-7" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="FmjcZQ-gSNk6RWPQ0Jlp-12" vertex="1">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-9" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;扫描枪等光、图像识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="FmjcZQ-gSNk6RWPQ0Jlp-12" vertex="1">
+          <mxGeometry x="60" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-13" value="" style="group;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="140" y="220" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-5" value="仓储节点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="FmjcZQ-gSNk6RWPQ0Jlp-13" vertex="1">
+          <mxGeometry width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmjcZQ-gSNk6RWPQ0Jlp-11" value="物品目的地" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="FmjcZQ-gSNk6RWPQ0Jlp-13" vertex="1">
+          <mxGeometry x="60" width="210" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
