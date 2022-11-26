@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T09:36:45.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kXfVM-Pv2Q4cykehEtWE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T01:37:56.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d__5fAYIT4Jpfoy1UEon" version="20.5.3" type="github">
   <diagram id="FsugTDZhsFtz22bxQlfl" name="第 1 页">
     <mxGraphModel dx="620" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -718,6 +718,12 @@
         </mxCell>
         <mxCell id="EvxiiptyXCckD52X8nOG-110" value="$$\lim_{n \to \infty} P \lbrace\mid\frac{n_A}{n} - p \mid &amp;lt; \varepsilon \rbrace = {1} 或 \lim_{n \to \infty} P \lbrace\mid \frac{n_A}{n} - p \mid \geq \varepsilon \rbrace = {0}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#0000FF;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="744" y="960" width="910" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-111" value="$$a^2 + b^2 =&amp;nbsp; c^2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-112" value="若：a、b分别为直角三角形的对边与邻边，c表示斜边&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 三者之间的关系如下：" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="390" width="380" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
