@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T03:44:25.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IpxDFBUyebzGhblrhr7T" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T09:09:42.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Rl8s2hGAv5advU-__tea" version="20.5.3" type="github">
   <diagram id="FsugTDZhsFtz22bxQlfl" name="第 1 页">
     <mxGraphModel dx="690" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -713,14 +713,38 @@
         <mxCell id="EvxiiptyXCckD52X8nOG-107" value="&lt;b&gt;大数定律：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1014" y="930" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvxiiptyXCckD52X8nOG-110" value="$$\lim_{n \to \infty} P \lbrace\mid\frac{n_A}{n} - p \mid &amp;lt; \varepsilon \rbrace = {1} 或 \lim_{n \to \infty} P \lbrace\mid \frac{n_A}{n} - p \mid \geq \varepsilon \rbrace = {0}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#0000FF;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="940" width="910" height="30" as="geometry" />
+        <mxCell id="EvxiiptyXCckD52X8nOG-110" value="$$\lim_{n \to \infty} P \lbrace\mid\frac{n_A}{n} - p \mid &amp;lt; \varepsilon \rbrace =&lt;br&gt;&amp;nbsp;{1} 或 &lt;br&gt;\lim_{n \to \infty} P \lbrace\mid \frac{n_A}{n} &lt;br&gt;- p \mid \geq \varepsilon \rbrace = {0}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#0000FF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="920" width="430" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EvxiiptyXCckD52X8nOG-111" value="$$a^2 + b^2 =&amp;nbsp; c^2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1233" y="420" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EvxiiptyXCckD52X8nOG-112" value="若：a、b分别为直角三角形的对边与邻边，c表示斜边&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 三者之间的关系如下：" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="1051" y="390" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-115" value="&lt;b&gt;极限的和差：&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="980" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-116" value="$$ \lim_{x\to\alpha}(f(x)+g(x)) = \lim_{x\to\alpha}&lt;br&gt;f(x) + \lim_{x\to\alpha}&lt;br&gt;g(x)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1086" y="980" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-117" value="$$\lim_{x\to\alpha}(f(x)-g(x)) = &lt;br&gt;\lim_{x\to\alpha}f(x)-\lim_{x\to\alpha}g(x)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="1035" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-119" value="$$\lim_{x\to\alpha}f(x)g(x) = &lt;br&gt;\lim_{x\to\alpha}f(x)\times\lim_{x\to\alpha}g(x)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="1085" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-120" value="$$\lim_{x\to\alpha}\frac{f(x)}{g(x)} =&lt;br&gt;\frac{\lim_{x\to\alpha}f(x)}{\lim_{x\to\alpha}g(x)}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="1135" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-121" value="&lt;b&gt;极限的积商：&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="1070" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-122" value="$$对于所有充分接近&lt;br&gt;\alpha的x,有&lt;br&gt;g(x) \leq f(x) \leq h(x)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1185" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EvxiiptyXCckD52X8nOG-123" value="&lt;b&gt;三明治定理：&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1182.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
