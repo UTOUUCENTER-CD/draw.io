@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T06:30:01.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dNEKU1Hk6ayhCU57rDeL" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T06:34:28.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8g9SO1Ox5HEipiYYoSVj" version="20.6.0" type="github">
   <diagram id="FsugTDZhsFtz22bxQlfl" name="第 1 页">
     <mxGraphModel dx="762" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1134,11 +1134,14 @@
         <mxCell id="JizAkbYYsaQCN_tu9lTJ-60" value="&lt;b&gt;定理1（加法定理）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="25.5" y="2170" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JizAkbYYsaQCN_tu9lTJ-61" value="$$\text {上述$\it E(t)$之定义域是$R$；&lt;br&gt;$-\infty \leq t \leq +\infty$，}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="176" y="2170" width="280" height="50" as="geometry" />
+        <mxCell id="JizAkbYYsaQCN_tu9lTJ-61" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;$$\text {上述$\it E(t)$之定义域是$R$；&lt;br&gt;$-\infty \leq t \leq +\infty$，}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="171" y="2162" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JizAkbYYsaQCN_tu9lTJ-62" value="且在定义域内有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="450" y="2179" width="130" height="30" as="geometry" />
+        <mxCell id="JizAkbYYsaQCN_tu9lTJ-62" value="&lt;b&gt;且在定义域内有:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2172" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JizAkbYYsaQCN_tu9lTJ-63" value="$$ E(t_1 + t_2) = E(t_1)E(t_2),\rm t_1,\rm t_2, \in R. \tag 4$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2202" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
