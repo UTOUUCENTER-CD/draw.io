@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T09:31:40.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0ZlMkdluW_K3xpAADCSH" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T02:07:36.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cLmrb4jdNXYa6Dtwk2Gq" version="20.8.23" type="github">
   <diagram id="FsugTDZhsFtz22bxQlfl" name="第 1 页">
-    <mxGraphModel dx="765" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="765" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1242,49 +1242,49 @@
         <mxCell id="tJncDyTEGaPNQ0XSam_a-14" value="&lt;b&gt;volatile-lru&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="tJncDyTEGaPNQ0XSam_a-13" vertex="1">
           <mxGeometry x="11.5" y="-3" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-1" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-720" width="170" height="59" as="geometry" />
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-1" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-720" width="220" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-2" value="无生命周期&lt;br&gt;随机取未使用的数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-1">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-2" value="无生命周期&lt;br&gt;随机取未使用的数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-1" vertex="1">
           <mxGeometry y="19" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-3" value="&lt;b&gt;allkeys -&amp;nbsp;random&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-1">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-3" value="&lt;b&gt;allkeys -&amp;nbsp;random&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-1" vertex="1">
           <mxGeometry x="5" y="-4" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-5" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-790" width="174" height="59" as="geometry" />
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-5" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-790" width="220" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-6" value="无生命周期&lt;br&gt;取&lt;b&gt;最近最久&lt;/b&gt;未使用的数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-5">
-          <mxGeometry x="-6" y="19" width="180" height="40" as="geometry" />
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-6" value="无生命周期&lt;br&gt;取&lt;b&gt;最近最久&lt;/b&gt;未使用的数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-5" vertex="1">
+          <mxGeometry x="20" y="19" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-7" value="&lt;b&gt;allkeys-lru&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-5">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-7" value="&lt;b&gt;allkeys-lru&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-5" vertex="1">
           <mxGeometry x="11.5" y="-3" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-8" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-8" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="90" y="-720" width="220" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-9" value="有生命周期&lt;br&gt;随机取过期数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-8">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-9" value="有生命周期&lt;br&gt;随机取过期数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-8" vertex="1">
           <mxGeometry x="48" y="19" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-10" value="&lt;b&gt;volatile-random&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-8">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-10" value="&lt;b&gt;volatile-random&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-8" vertex="1">
           <mxGeometry x="10" y="-4" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-11" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-643" width="220" height="59" as="geometry" />
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-11" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-650" width="220" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-12" value="有生命周期&lt;br&gt;取马上就要过期的数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-11">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-12" value="有生命周期&lt;br&gt;取马上就要过期的数据释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-11" vertex="1">
           <mxGeometry x="28" y="19" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-13" value="&lt;b&gt;volatile-ttl&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-11">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-13" value="&lt;b&gt;volatile-ttl&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-11" vertex="1">
           <mxGeometry x="25" y="-4" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-14" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-643" width="170" height="59" as="geometry" />
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-14" value="" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#ea7171;fontSize=12;gradientDirection=west;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-650" width="220" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-15" value="引用计数器进行释放&lt;br&gt;当遇到内存溢出，返回error值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-14">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-15" value="引用计数器进行释放&lt;br&gt;当遇到内存溢出，返回error值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-14" vertex="1">
           <mxGeometry x="-10" y="19" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7_HPfAG5bD9lMv-6egEi-16" value="&lt;b&gt;noeviction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" vertex="1" parent="7_HPfAG5bD9lMv-6egEi-14">
+        <mxCell id="7_HPfAG5bD9lMv-6egEi-16" value="&lt;b&gt;noeviction&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#666666;" parent="7_HPfAG5bD9lMv-6egEi-14" vertex="1">
           <mxGeometry x="16" y="-4" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
