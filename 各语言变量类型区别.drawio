@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T02:14:26.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="761o7HxzPfdTgPjQpNI-" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T07:42:08.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zg4UykPf0LHtM0acvQzK" version="21.1.1" type="github">
   <diagram id="FsugTDZhsFtz22bxQlfl" name="第 1 页">
     <mxGraphModel dx="869" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1554,7 +1554,7 @@
           <mxGeometry x="1070" y="-870" width="59" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jHdcIqeBOzbf3aRzFCkx-13" value="货币" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1073" y="-816" width="59" height="35" as="geometry" />
+          <mxGeometry x="1307" y="-915" width="59" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jHdcIqeBOzbf3aRzFCkx-15" value="资源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1074.5" y="-755" width="59" height="35" as="geometry" />
@@ -1577,8 +1577,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHdcIqeBOzbf3aRzFCkx-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;经济活动环境&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHdcIqeBOzbf3aRzFCkx-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;经济活动主题&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130.5" y="-870" width="94" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jHdcIqeBOzbf3aRzFCkx-20" value="资源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1224.5" y="-870" width="59" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jHdcIqeBOzbf3aRzFCkx-21" value="人力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310.5" y="-825" width="59" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
