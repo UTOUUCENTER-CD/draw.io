@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T07:56:49.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="D6Nssk3TZcG1UQWMJatK" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T08:17:49.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="liW6Veug1Fzv3i0N1iuW" version="21.3.8" type="github">
   <diagram name="第 1 页" id="I5FgWsDHJZ8hdMLuHsBY">
-    <mxGraphModel dx="729" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="729" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="eaX9Ms1q94o2it5L9uL4-4" value="人类思想启蒙与进化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="330" y="30" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eaX9Ms1q94o2it5L9uL4-5" value="物理学&lt;br&gt;生命的起源与人类之谜" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-5" value="物理学&lt;br&gt;自然环境与宇宙探索" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eaX9Ms1q94o2it5L9uL4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eaX9Ms1q94o2it5L9uL4-6" target="eaX9Ms1q94o2it5L9uL4-22">
@@ -39,7 +39,7 @@
             <mxPoint x="430" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eaX9Ms1q94o2it5L9uL4-6" value="经济学&lt;br&gt;生命的起源与人类之谜" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-6" value="经济学&lt;br&gt;经于民济于世" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eaX9Ms1q94o2it5L9uL4-9" value="反复论证数学出现了多个分支：&lt;br&gt;基础数学、数量、结构、空间、变化、应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -83,6 +83,24 @@
         </mxCell>
         <mxCell id="eaX9Ms1q94o2it5L9uL4-28" value="达尔文进化论：&lt;br&gt;生命的无数次试错，换来了身体的迭代" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="427.5" y="420" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-31" value="&lt;b&gt;所谓政治正确：&lt;/b&gt;是根据当下现有资源，利用最先进的生产力，高效率产出。&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;什么是高效率？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-32" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="472" width="150" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-33" value="公正" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="569" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-34" value="高效" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="479" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-35" value="修正" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="649" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-36" value="政治经济学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="569" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
