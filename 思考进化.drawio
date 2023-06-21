@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T08:17:49.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="liW6Veug1Fzv3i0N1iuW" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T08:38:06.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dVd5_hcECUwRGFUcrX5B" version="21.3.8" type="github">
   <diagram name="第 1 页" id="I5FgWsDHJZ8hdMLuHsBY">
     <mxGraphModel dx="729" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,17 +90,23 @@
         <mxCell id="eaX9Ms1q94o2it5L9uL4-32" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="472" width="150" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="eaX9Ms1q94o2it5L9uL4-33" value="公正" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="150" y="569" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eaX9Ms1q94o2it5L9uL4-34" value="高效" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="150" y="479" width="97.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eaX9Ms1q94o2it5L9uL4-35" value="修正" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="150" y="649" width="97.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="eaX9Ms1q94o2it5L9uL4-36" value="政治经济学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="569" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;高效：&lt;/b&gt;①、保证可续持的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;“集体公正&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;②、保证随时间推移可灵活修正性。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;③、政治变化具有可逆的双向性。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;国家政治的正确方向是保证国家系统内部稳定，外部安全强大。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;该系统的人为运营过程中，存在的错误，都能够人为更新（拨乱反正）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;而不是一味的要求无错误，或者用别的系统来横向比较，都是误导系统&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;没有bug的系统是不存在的，系统运营的目的是让bug不可喧宾夺主。修正&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;系统bug是进化过程的常态。而非一个策略可完美解决。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="410" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-40" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="475" width="110" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-41" value="高效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-33" value="公正" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="545" width="97.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaX9Ms1q94o2it5L9uL4-35" value="可修正" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="640" width="97.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
