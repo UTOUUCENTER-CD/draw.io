@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-05T02:24:25.794Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="04Fuc6I3VWUmXYofNsH5" version="21.6.6" type="github">
+<mxfile modified="2023-08-05T03:06:20.827Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2mj1KfJ7Zok5S4X6Lo4C" version="21.6.6" type="github">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1503" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1539,7 +1539,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J039G_M1f-D1EtfRBh9d-166" value="大门牙找钢蛋做无息贷款（10元）&lt;br&gt;钢蛋拿自己的20去珊珊手上做无损抵押贷出10元借出给大门牙（余下10元银行给了钢蛋欠条凭证&amp;lt;欠条1&amp;gt;）。&lt;br&gt;大门牙获得10元真实的货币，欠了钢蛋10元（欠条2）。&lt;br&gt;大门牙用省下的10元买下了珊珊的欠条1。&lt;br&gt;最后：珊珊余额为：20元、钢蛋余额：10元、大门牙余额：-10欠条1+欠条2" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="J039G_M1f-D1EtfRBh9d-166" value="大门牙找钢蛋做无息贷款（10元）&lt;br&gt;钢蛋拿自己的20去珊珊手上做无损抵押贷出10元借出给大门牙（余下10元银行给了钢蛋欠条凭证&amp;lt;&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;欠条1&lt;/b&gt;&lt;/font&gt;&amp;gt;）。&lt;br&gt;大门牙获得10元真实的货币，欠了钢蛋10元（&lt;b&gt;欠条2&lt;/b&gt;）。&lt;br&gt;大门牙用省下的10元买下了珊珊的&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;欠条1&lt;/font&gt;&lt;/b&gt;。&lt;br&gt;最后：珊珊余额为：20元、钢蛋余额：10元、大门牙余额：-10欠条1+欠条2" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="43" y="-437" width="600" height="90" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-169" value="20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1572,10 +1572,10 @@
         <mxCell id="J039G_M1f-D1EtfRBh9d-177" value="余额：10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="238" y="-588" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J039G_M1f-D1EtfRBh9d-179" value="余额：0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="J039G_M1f-D1EtfRBh9d-179" value="余额：20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="116" y="-588" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J039G_M1f-D1EtfRBh9d-181" value="余额：10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="J039G_M1f-D1EtfRBh9d-181" value="余额：0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="362" y="-582" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-182" value="启动资金：0元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
