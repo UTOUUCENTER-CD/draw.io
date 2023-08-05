@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-04T07:19:25.715Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jH6L8gg8m6FpH0rlnLyA" version="21.6.6" type="github">
+<mxfile modified="2023-08-05T01:24:08.343Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qLkDOV7Q89kE1d5ef0n3" version="21.6.6" type="github">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="2261" dy="1907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1450,8 +1450,8 @@
         <mxCell id="J039G_M1f-D1EtfRBh9d-130" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$ I=neSv $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-452" y="-678" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J039G_M1f-D1EtfRBh9d-131" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;定义:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;单位时间内通过导体任一横截面的电量叫做电流强度。可表示为&lt;b&gt;：&lt;/b&gt;&lt;br&gt;&lt;br&gt;也可以取极限&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;趋向于&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;时的表示形式&lt;b&gt;：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;假设一均匀直导线，&lt;/b&gt;其&lt;b&gt;横截面积&lt;/b&gt;为&amp;nbsp; &amp;nbsp; &amp;nbsp;，单位体积内&lt;b&gt;自由电子数密度&lt;/b&gt;为&amp;nbsp; &amp;nbsp; &amp;nbsp;，&lt;b&gt;电子速度&lt;/b&gt;为&amp;nbsp; &amp;nbsp; 且方向与导线的横截面垂直。&lt;br&gt;&lt;br&gt;则可推出在&amp;nbsp; &amp;nbsp; &amp;nbsp; 内流过横截面&amp;nbsp; &amp;nbsp; 的电量&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;，相应&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 便成为电流强度更一般的公式。&lt;br&gt;&lt;br&gt;需要引入&lt;b&gt;电流密度&lt;/b&gt;的概念，所以此时相应的电流强度的适用的范围更广更具普遍性。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="-770" width="650" height="150" as="geometry" />
+        <mxCell id="J039G_M1f-D1EtfRBh9d-131" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;定义:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;单位时间内通过导体任一横截面的电量叫做电流强度。可表示为&lt;b&gt;：&lt;/b&gt;&lt;br&gt;&lt;br&gt;也可以取极限&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;趋向于&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;时的表示形式&lt;b&gt;：&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;假设一均匀直导线，&lt;/b&gt;其&lt;b&gt;横截面积&lt;/b&gt;为&amp;nbsp; &amp;nbsp; &amp;nbsp;，单位体积内&lt;b&gt;自由电子数密度&lt;/b&gt;为&amp;nbsp; &amp;nbsp; &amp;nbsp;，&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;单个电子带电量&lt;/font&gt;&lt;/b&gt;为&amp;nbsp; &amp;nbsp; &amp;nbsp;，&lt;b&gt;电子速度&lt;/b&gt;为&amp;nbsp; &amp;nbsp; ，且方向与导线的横截面垂直。&lt;br&gt;&lt;br&gt;则可推出在&amp;nbsp; &amp;nbsp; &amp;nbsp; 内流过横截面&amp;nbsp; &amp;nbsp; 的电量&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;，相应&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 便成为电流强度更一般的公式。&lt;br&gt;&lt;br&gt;需要引入&lt;b&gt;电流密度&lt;/b&gt;的概念，所以此时相应的电流强度的适用的范围更广更具普遍性。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-768" width="777" height="146" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-132" value="$$\Delta{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-731" y="-736" width="90" height="30" as="geometry" />
@@ -1460,13 +1460,13 @@
           <mxGeometry x="-451" y="-769" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-134" value="$$S$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-612" y="-707" width="60" height="30" as="geometry" />
+          <mxGeometry x="-611" y="-706" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-135" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;$$n$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-426.5" y="-708" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-136" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;$$v$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-339" y="-708" width="60" height="30" as="geometry" />
+          <mxGeometry x="-212" y="-707" width="53" height="28" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-138" value="$$\Delta{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-743" y="-677" width="90" height="30" as="geometry" />
@@ -1488,6 +1488,69 @@
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-145" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;strokeColor=#0000FF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-186" y="-599" width="26" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-146" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 13px;&quot;&gt;$$e$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-299" y="-707" width="54" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-150" value="银行&lt;br&gt;（珊珊）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="162.75" y="-599" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="J039G_M1f-D1EtfRBh9d-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="-570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-151" value="贷款公司&lt;br&gt;（钢蛋）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="285.75" y="-598" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-152" value="客户&lt;br&gt;（大门牙）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="411.25" y="-599" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-157" value="启动资金20元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="249" y="-754" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-158" value="启动资金10元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="126" y="-754" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-159" value="银行&lt;br&gt;（珊珊）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="154.5" y="-733" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-161" value="信贷公司&lt;br&gt;（钢蛋）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="-732" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-163" value="投资公司&lt;br&gt;（大门牙）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="403" y="-733" width="30" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-164" value="第一次交易" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="47" y="-574" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-165" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J039G_M1f-D1EtfRBh9d-152" target="J039G_M1f-D1EtfRBh9d-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="-380" as="sourcePoint" />
+            <mxPoint x="390" y="-430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="-620" />
+              <mxPoint x="340" y="-620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-166" value="大门牙找钢蛋无息贷款（10元）&lt;br&gt;钢蛋拿自己的20去珊珊手上做无损抵押贷出10元借出给大门牙。&lt;br&gt;珊珊欠了钢蛋10元。&lt;br&gt;大门牙替珊珊" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="133" y="-390" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-169" value="20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="218" y="-585" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-172" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J039G_M1f-D1EtfRBh9d-150" target="J039G_M1f-D1EtfRBh9d-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="-420" as="sourcePoint" />
+            <mxPoint x="370" y="-470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="-470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J039G_M1f-D1EtfRBh9d-173" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="343" y="-534" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
