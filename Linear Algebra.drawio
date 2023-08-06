@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-06T09:11:36.817Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RiODqx82HChSGMEamY09" version="21.6.6" type="github">
+<mxfile modified="2023-08-06T09:28:07.916Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="U7h08GlLjbkd4iRPMtJd" version="21.6.6" type="github">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="1503" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1503" dy="1902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1671,29 +1671,35 @@
         <mxCell id="J039G_M1f-D1EtfRBh9d-222" value="？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-784" y="-72" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fIwjZUUsD1b9r1vBbnUI-1" value="&lt;div&gt;当两个系统，我们通过它们各自的代表知道其状态，由于它们之间存在已知的力，进入临时的物理相互作用。&lt;/div&gt;&lt;div&gt;当经过一段时间的相互影响之后，系统再次分开，然后，它们不再能够以前面的方式描述，也就是将其自身的&lt;/div&gt;&lt;div&gt;代表赋予它们中的每一个。我无&lt;span style=&quot;background-color: initial;&quot;&gt;法认为一个具有量子力学的特征，而另一个完全背离了经典思想理论。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通过相互作用[量子状态]，两个代表纠缠在一起。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-751" y="49" width="600" height="70" as="geometry" />
+        <mxCell id="fIwjZUUsD1b9r1vBbnUI-1" value="&lt;div&gt;&lt;b&gt;当两个系统，我们通过它们各自的代表知道其状态，由于它们之间存在已知的力，进入临时的物理相互作用。&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;当经过一段时间的相互影响之后，系统再次分开，然后，它们不再能够以前面的方式描述，也就是将其自身的&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;代表赋予它们中的每一个。我无&lt;span style=&quot;background-color: initial;&quot;&gt;法认为一个具有量子力学的特征，而另一个完全背离了经典思想理论。&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;通过相互作用[量子状态]，两个代表纠缠在一起。&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="49" width="594" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fIwjZUUsD1b9r1vBbnUI-3" value="系统1&lt;br&gt;被观察对象&lt;br&gt;并确定了其状态" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-722" y="159" width="101" height="101" as="geometry" />
+          <mxGeometry x="-731" y="212.5" width="101" height="101" as="geometry" />
         </mxCell>
         <mxCell id="fIwjZUUsD1b9r1vBbnUI-5" value="系统2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-434" y="159" width="101" height="101" as="geometry" />
+          <mxGeometry x="-443" y="212.5" width="101" height="101" as="geometry" />
         </mxCell>
         <mxCell id="fIwjZUUsD1b9r1vBbnUI-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="fIwjZUUsD1b9r1vBbnUI-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-570" y="340" as="sourcePoint" />
-            <mxPoint x="-530" y="210" as="targetPoint" />
+            <mxPoint x="-579" y="393.5" as="sourcePoint" />
+            <mxPoint x="-539" y="263.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fIwjZUUsD1b9r1vBbnUI-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="fIwjZUUsD1b9r1vBbnUI-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-611" y="220" as="sourcePoint" />
-            <mxPoint x="-250" y="210" as="targetPoint" />
+            <mxPoint x="-620" y="273.5" as="sourcePoint" />
+            <mxPoint x="-259" y="263.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fIwjZUUsD1b9r1vBbnUI-10" value="系统1与系统2，从最初的系统（母系统）分离出来。观察系统1，可以获得系统2具有与系统1相同的属性（属性继承）&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-749" y="300" width="640" height="30" as="geometry" />
+        <mxCell id="fIwjZUUsD1b9r1vBbnUI-10" value="&lt;b&gt;系统1与系统2，&lt;/b&gt;从最初的系统（母系统）分离出来。观察系统1，可以获得系统2具有与系统1相同的属性（属性继承于母系统）&lt;br&gt;但是系统1、2不在具有母系统的完整性。&lt;br&gt;如果，我们用量子力学的特征来描述系统1，而用经典思想理论来描述系统2，并且把它们的属性都纠缠到一起（属性继承）&lt;br&gt;&lt;b&gt;这样：既不道德，也无说服力。&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="140" width="687" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fIwjZUUsD1b9r1vBbnUI-11" value="——薛定谔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-299" y="107" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fIwjZUUsD1b9r1vBbnUI-12" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Entangled&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-551" y="211" width="76" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
