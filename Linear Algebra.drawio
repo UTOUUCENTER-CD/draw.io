@@ -1,10 +1,10 @@
-<mxfile modified="2023-08-25T06:09:17.465Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gwGRFUqaz_N_qIVkLEOM" version="21.6.9" type="github">
+<mxfile modified="2023-09-05T09:30:19.745Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mXKPDyVrVnyuP2xeBA5X" version="21.6.9" type="github">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="2261" dy="1951" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1529" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TaGg-zwawleFwm7IipBf-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-818" y="2040.5" width="814" height="289.5" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-129" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -1438,7 +1438,7 @@
         <mxCell id="J039G_M1f-D1EtfRBh9d-124" value="&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;超导的零电阻实现原理：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-794" y="-398" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J039G_M1f-D1EtfRBh9d-125" value="&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;物质的组成结构：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 物质由原子（原子有原子核及内部电子）及外部电子（自由电子）构成，金属物质导电，依赖于外部的自由电子。&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;非超导通电后的内部状态：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;常温稳定态下由带正点的原子核形成规律排布的晶格，处于晶格上的原子并非静态而是在做颤动，自由电子也在颤动。&lt;br&gt;当给导体施加电压的时候，电子开始朝一个方向运动，电子经过晶格时会对栅格上的原子产生一个引力，&lt;br&gt;栅格向电子收缩变形的过程被称为&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;“声子”。声子不仅束缚了电子前进，另外还存在&lt;/b&gt;前进的电子撞上晶格上的原子并反弹撞上正朝前&lt;br&gt;运动的的电子，同时晶格上的原子也颤动得更剧烈，如此碰撞电子前进的路线出现拥挤、撞击、产生了能量（焦耳热的来源）。&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#99004d&quot;&gt;超导材料制作思路：&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;改变导体晶格上的原子颤动幅度，使其尽可能幅度小（甚至禁止状态），让电子在前进的轨迹上获得一个不受任何干扰的轨迹通道，&lt;br&gt;能够把能量&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;“高纯度”&lt;/font&gt;&lt;/b&gt;从一端传到另一端&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;（量子纠缠既然存在，为什么不能让“库伯对”来承载能量传递呢？）&lt;/font&gt;&lt;/b&gt;。&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;宏观制作方式：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;方法一：&amp;nbsp;&lt;/b&gt;使用物理干涉，加压，冷却导体，以便固定晶格上的原子，使电子得到干净的前进轨迹。&lt;br&gt;&lt;b&gt;&lt;br&gt;方法二：&amp;nbsp;&lt;/b&gt;利用物质化学特性（不同原子之间的作用力约束——“共价键”），向导体参入杂质，不同原子之间形成共价键，稳固原子的颤动，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;这样也能获得干净的电子路径。&lt;br&gt;&lt;b&gt;方法三：&amp;nbsp;&lt;/b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;分离“库伯对”，制造“量子纠缠”。?&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;方法四：&amp;nbsp;&lt;/b&gt;同步原子与电子碰撞频率采集焦耳热能，并实时转化为电能返回导体（违背了能量守恒定律，也就是说采集的热能驱动不了&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;热转电所需要的能量）。&lt;br&gt;&lt;b&gt;&lt;br&gt;方法五：&lt;/b&gt;。。。向非超导材料里面充入人类的超导意识？&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;难点就在于固定晶格上的原子，宏观对象可以常温常压下随意控制，控制微观原子的理论是存在的，向掷骰子的上帝烧香拜赐能量吧！&lt;font style=&quot;font-size: 15px;&quot;&gt;������������������&lt;/font&gt;。&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="J039G_M1f-D1EtfRBh9d-125" value="&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;物质的组成结构：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 物质由原子（原子有原子核及内部电子）及外部电子（自由电子）构成，金属物质导电，依赖于外部的自由电子。&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;非超导通电后的内部状态：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;常温稳定态下由带正点的原子核形成规律排布的晶格，处于晶格上的原子并非静态而是在做颤动，自由电子也在颤动。&lt;br&gt;当给导体施加电压的时候，电子开始朝一个方向运动，电子经过晶格时会对栅格上的原子产生一个引力，&lt;br&gt;栅格向电子收缩变形的过程被称为&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;“声子”。声子不仅束缚了电子前进，另外还存在&lt;/b&gt;前进的电子撞上晶格上的原子并反弹撞上正朝前&lt;br&gt;运动的的电子，同时晶格上的原子也颤动得更剧烈，如此碰撞电子前进的路线出现拥挤、撞击、产生了能量（焦耳热的来源）。&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#99004d&quot;&gt;超导材料制作思路：&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;改变导体晶格上的原子颤动幅度，使其尽可能幅度小（甚至禁止状态），让电子在前进的轨迹上获得一个不受任何干扰的轨迹通道，&lt;br&gt;能够把能量&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;“高纯度”&lt;/font&gt;&lt;/b&gt;从一端传到另一端&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;（量子纠缠既然存在，为什么不能让“库伯对”来承载能量传递呢？）&lt;/font&gt;&lt;/b&gt;。&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 15px;&quot;&gt;宏观制作方式：&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;方法一：&amp;nbsp;&lt;/b&gt;使用物理干涉，加压，冷却导体，以便固定晶格上的原子，使电子得到干净的前进轨迹。&lt;br&gt;&lt;b&gt;&lt;br&gt;方法二：&amp;nbsp;&lt;/b&gt;利用物质化学特性（不同原子之间的作用力约束——“共价键”），向导体参入杂质，不同原子之间形成共价键，稳固原子的颤动，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;这样也能获得干净的电子路径。&lt;br&gt;&lt;b&gt;方法三：&amp;nbsp;&lt;/b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;分离“库伯对”，制造“量子纠缠”。?&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;方法四：&amp;nbsp;&lt;/b&gt;同步原子与电子碰撞频率采集焦耳热能，并实时转化为电能返回导体（违背了能量守恒定律，也就是说采集的热能驱动不了&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;热转电所需要的能量）。&lt;br&gt;&lt;b&gt;&lt;br&gt;方法五：&lt;/b&gt;。。。向非超导材料里面充入人类的超导意识？&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;难点就在于固定晶格上的原子，宏观对象可以常温常压下随意控制，控制微观原子的理论是存在的，向掷骰子的上帝烧香拜赐能量吧！&lt;font style=&quot;font-size: 15px;&quot;&gt;������������������&lt;/font&gt;。&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-762" y="-373" width="800" height="361" as="geometry" />
         </mxCell>
         <mxCell id="J039G_M1f-D1EtfRBh9d-126" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;声子&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1757,116 +1757,119 @@
         <mxCell id="2Ni8vPROLzONSNAh5iZ8-54" value="归属感居住权&lt;br&gt;（租赁可解决）" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-464" y="742" width="110.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-2" value="硬件（Hardware）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-2" value="硬件（Hardware）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-809.62" y="2269" width="194" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-3" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-3" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="-809.62" y="2227" width="194" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-5" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-5" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-809.62" y="2186" width="55" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-8" value="硬件（Hardware）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-8" value="硬件（Hardware）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-562.12" y="2270" width="224.12" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-9" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-9" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="-562.12" y="2228" width="224.12" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-13" value="虚拟机（VM）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-13" value="虚拟机（VM）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="-562.12" y="2157.5" width="108.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-14" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-14" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="-562.12" y="2124.5" width="108.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-15" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-15" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-562.12" y="2090" width="108.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-16" value="虚拟机（VM）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-16" value="虚拟机（VM）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="-443.62" y="2157.5" width="105.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-17" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-17" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="-443.62" y="2124.5" width="105.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-18" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-18" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-443.62" y="2090" width="105.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-23" value="硬件（Hardware）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-23" value="硬件（Hardware）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-283.87" y="2270" width="272.87" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-24" value="容器运行时（ContainerRuntime）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-24" value="容器运行时（ContainerRuntime）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-283.87" y="2195" width="272.87" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-25" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-25" value="操作系统（OS）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="-283.87" y="2231" width="272.87" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-26" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-26" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-740" y="2186" width="55" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-27" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-27" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-670.62" y="2186" width="55" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-28" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-28" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-561" y="2054" width="44" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-29" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-29" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-503.38" y="2054" width="44.38" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-30" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-30" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-442" y="2054" width="45" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-31" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-31" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-383" y="2054" width="45" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-32" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-32" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-284.12" y="2126" width="85.12" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-33" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-33" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-191.62" y="2126" width="86.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-34" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-34" value="可执行文件/库&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Executable/Lib）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-98.62" y="2126" width="86.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-35" value="容器（Container）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-35" value="容器（Container）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-98.62" y="2159.5" width="86.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-36" value="容器（Container）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-36" value="容器（Container）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-191.62" y="2160" width="86.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-37" value="容器（Container）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-37" value="容器（Container）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-284.12" y="2160" width="85.12" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-38" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-38" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-284.12" y="2089" width="83.12" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-39" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-39" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-189.62" y="2089" width="80.62" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-40" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-40" value="应用（APP）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-101" y="2089" width="90" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-41" value="管理程序（Hypervisor）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-41" value="管理程序（Hypervisor）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-562.12" y="2193" width="224.12" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" edge="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-612" y="2240" as="sourcePoint" />
             <mxPoint x="-569" y="2240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" edge="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-331" y="2244" as="sourcePoint" />
             <mxPoint x="-286" y="2244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-44" value="&lt;b&gt;传统部署&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-44" value="&lt;b&gt;传统部署&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-753" y="2303" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-45" value="&lt;b&gt;虚拟化部署&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-45" value="&lt;b&gt;虚拟化部署&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-487" y="2304" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TaGg-zwawleFwm7IipBf-46" value="&lt;b&gt;容器部署&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TaGg-zwawleFwm7IipBf-46" value="&lt;b&gt;容器部署&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-173" y="2304" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rAahTt1pqDWf2aFhAJcL-1" value="&lt;div&gt;让我们假设我们正在目睹一场真正的选举。”&lt;/div&gt;&lt;div&gt;“我们现在站在船坞上，那里有150名水手聚集，其中有三名候选人。&lt;/div&gt;&lt;div&gt;第一位候选人是民主党员，第二位是共产党员，第三位是保守派人士。&lt;/div&gt;&lt;div&gt;选票的结果是，60张投给了共产党员，50张投给了民主党员，&lt;/div&gt;&lt;div&gt;而只有40张投给了保守派人士。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;现在，让我来告诉你这件事是不可能得到合理的结果的。”&lt;/div&gt;&lt;div&gt;“共产党人想赢的话，他必须答应民主党人的某些条件，&lt;/div&gt;&lt;div&gt;因为他只有60张选票，他必须再说服至少16人投自己的票。&lt;/div&gt;&lt;div&gt;可是，问题是他能遵守自己的承诺吗？当然，这对另外两名候选人也是一样的。&lt;span style=&quot;background-color: initial;&quot;&gt;”&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;“由任何一位作为船长，出海时，他将会不时地发现，相当多的水手基本上是在对抗他的命令。&lt;/div&gt;&lt;div&gt;因此，船上总是有背叛的危险。”&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-796" y="1148" width="520" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
