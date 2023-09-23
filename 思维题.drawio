@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T07:09:58.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Nar7NltkoVvR2SapGjqv" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T07:10:50.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="n7em0oReV0_qGkrRmekO" version="21.7.5" type="github">
   <diagram id="T32T4fMNgFnPz1BYaEK8" name="Page-1">
     <mxGraphModel dx="716" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -772,7 +772,7 @@
         <mxCell id="BUq9l-fqNE7oKNiD4jng-5" value="人生、价值观情感" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="100" y="1410" width="119" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BUq9l-fqNE7oKNiD4jng-11" value="①、生命在环境上，使用&lt;b&gt;人生观、价值观&lt;/b&gt;情感（最原始的驱动力来自于基因遗传——即“品性”）&lt;br&gt;&lt;div style=&quot;&quot;&gt;去理解知识体系，习得之后提升人生观、价值观（追求与未知探索）&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;②、理性的论据，源自结构性知识体系，使用&lt;b&gt;“人生观、价值观”&lt;/b&gt;情感推论自己认可的结论&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;并按照获取结论的步骤去行动。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BUq9l-fqNE7oKNiD4jng-11" value="①、生命在环境上，使用&lt;b&gt;人生观、价值观&lt;/b&gt;情感（最原始的驱动力来自于基因遗传——即“品性”）&lt;br&gt;&lt;div style=&quot;&quot;&gt;去理解知识体系，习得之后提升&lt;b&gt;人生观、价值观&lt;/b&gt;（追求与未知探索）&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;②、理性的论据，源自结构性知识体系，使用&lt;b&gt;“人生观、价值观”&lt;/b&gt;情感推论自己认可的结论&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;并按照获取结论的步骤去行动。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="239" y="1355" width="520" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BUq9l-fqNE7oKNiD4jng-12" value="①、生命对环境的感知，依赖于环境辐射出来的，可被神经元感知元件捕获（神经元感知），&lt;br&gt;并在神经元之间进行信息的交流、信息处理。&lt;br&gt;&lt;br&gt;②、神经元把信息处理结果反馈给生命组织结构，形成&lt;b&gt;“世界观”&lt;/b&gt;情感。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
