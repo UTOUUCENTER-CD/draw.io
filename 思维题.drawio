@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T07:39:18.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fAnFX9k00ovTJthJIejy" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T07:45:07.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="r3SG7t1e7PRsIEwp2lnA" version="21.7.5" type="github">
   <diagram id="T32T4fMNgFnPz1BYaEK8" name="Page-1">
-    <mxGraphModel dx="1434" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="733" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -778,8 +778,8 @@
         <mxCell id="BUq9l-fqNE7oKNiD4jng-12" value="&lt;b&gt;情感的形成：&lt;/b&gt;&lt;br&gt;①、生命对环境的感知，依赖于环境辐射出来的，可被神经元感知元件捕获（神经元感知），&lt;br&gt;并在神经元之间进行信息的交流、信息处理。&lt;br&gt;&lt;br&gt;②、神经元把信息处理结果反馈给生命组织结构，形成&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;“世界观”&lt;/font&gt;&lt;/b&gt;情感。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="243" y="1554" width="510" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="BUq9l-fqNE7oKNiD4jng-13" value="&lt;b&gt;理性论据与情感偏见的形成逻辑示意图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="12" y="1488" width="230" height="30" as="geometry" />
+        <mxCell id="BUq9l-fqNE7oKNiD4jng-13" value="&lt;b&gt;理性与情感形成的逻辑示意图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="32" y="1490" width="174" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BUq9l-fqNE7oKNiD4jng-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -787,9 +787,9 @@
             <mxPoint x="30" y="1575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BUq9l-fqNE7oKNiD4jng-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.074;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BUq9l-fqNE7oKNiD4jng-13">
+        <mxCell id="BUq9l-fqNE7oKNiD4jng-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="1500" as="sourcePoint" />
+            <mxPoint x="29" y="1501" as="sourcePoint" />
             <mxPoint x="29" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
