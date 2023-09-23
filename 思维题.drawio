@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T07:01:13.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="l0IrgTar3igv7ZKDtY_c" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T07:06:41.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XhyiYTliYVjErbkOP8Mb" version="21.7.5" type="github">
   <diagram id="T32T4fMNgFnPz1BYaEK8" name="Page-1">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -799,7 +799,7 @@
         <mxCell id="BUq9l-fqNE7oKNiD4jng-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;理性论据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="76" y="1427" width="112" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BUq9l-fqNE7oKNiD4jng-17" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;情感偏见的形成：&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;①、发现了环境里的“新物种”&lt;/div&gt;&lt;div style=&quot;&quot;&gt;②、被理论数据欺骗。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;③、错误的情感冲突。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;这里有除了“理性数据”与“情感偏见”二者形成过程具备自身的逻辑以外（这是自然赋予而非后天的能力），&lt;/div&gt;&lt;div style=&quot;&quot;&gt;试问：有哪一个是所谓的“他们很少借助逻辑？”。逻辑是结果产生的过程链路（顺序、规则）。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;“他们很少借助逻辑”这句话的谬论在于：&lt;br&gt;①、强盗逻辑是把逻辑当作工具？用逻辑可以去自洽结果。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;②、掩盖参数推导想要的结果。（常常出现在误导不明真相者跟着起哄。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="BUq9l-fqNE7oKNiD4jng-17" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;情感偏见的形成：&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;①、发现了环境里的“新物种”&lt;/div&gt;&lt;div style=&quot;&quot;&gt;②、被理论数据欺骗。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;③、错误的情感冲突。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;这里有除了“理性数据”与“情感偏见”二者形成过程具备自身的逻辑以外（这是自然赋予而非后天的能力），&lt;/div&gt;&lt;div style=&quot;&quot;&gt;试问：有哪一个是所谓的“他们很少借助逻辑？”。逻辑是结果产生的过程链路（顺序、规则）。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;“他们很少借助逻辑”这句话的谬论在于：&lt;br&gt;①、强盗逻辑是把逻辑当作工具？用逻辑可以去自洽结果。&lt;/div&gt;&lt;div style=&quot;&quot;&gt;②、掩盖参数推导想要的结果。（常常出现在误导不明真相者跟着起哄）。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="247" y="1450" width="580" height="140" as="geometry" />
         </mxCell>
       </root>
