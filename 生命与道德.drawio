@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T13:38:55.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wkO8PdEW2OAbYcYVQsoJ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T13:41:57.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4WwqB98VLaoy-m9CP1T8" version="21.7.5" type="github">
   <diagram id="CZGxiTV1HHT-Hle2AOIO" name="Page-1">
     <mxGraphModel dx="1434" dy="1919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,11 +150,11 @@
             <mxPoint x="10" y="22.676056338028168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zMtAbFJLzHjJMqz4dgE3-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;宏观&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="zMtAbFJLzHjJMqz4dgE3-36" vertex="1">
-          <mxGeometry x="113" width="50" height="20" as="geometry" />
+        <mxCell id="zMtAbFJLzHjJMqz4dgE3-32" value="&lt;b&gt;&lt;font color=&quot;#008a00&quot; style=&quot;font-size: 18px&quot;&gt;宏观&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="zMtAbFJLzHjJMqz4dgE3-36" vertex="1">
+          <mxGeometry x="111" y="-7" width="54" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="zMtAbFJLzHjJMqz4dgE3-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;微观&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="zMtAbFJLzHjJMqz4dgE3-36" vertex="1">
-          <mxGeometry x="460" width="50" height="20" as="geometry" />
+        <mxCell id="zMtAbFJLzHjJMqz4dgE3-33" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 18px&quot;&gt;微观&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="zMtAbFJLzHjJMqz4dgE3-36" vertex="1">
+          <mxGeometry x="458" y="-7" width="54" height="34" as="geometry" />
         </mxCell>
         <mxCell id="zMtAbFJLzHjJMqz4dgE3-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;strokeColor=#B20000;strokeWidth=5;" parent="zMtAbFJLzHjJMqz4dgE3-36" vertex="1">
           <mxGeometry x="-7" y="138.03" width="690" height="112.97" as="geometry" />
@@ -397,8 +397,8 @@
         <mxCell id="zMtAbFJLzHjJMqz4dgE3-98" value="要领：清晰、易懂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="492" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aU6ZqE62vAwaajKzGN5h-2" value="至于文艺复兴带来的工业革命，使得欧美的科技得以领先于全球，并驱动全人类的发展！&lt;br&gt;特别是美国，科技、文化、经济、军事、做到了全球第一，&lt;br&gt;让美元称霸了全球，这得益于&lt;b&gt;“布林顿森林体系”&lt;/b&gt;的设计，其本质就是美元优先&lt;br&gt;的经济霸权策划！一个出生就是现代化支撑的国度，策划和布局不出一套完整的体系，&lt;br&gt;是不是愧对于这个&lt;b&gt;“现代化国家”&lt;/b&gt;的称号？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="43" y="-245" width="486" height="84" as="geometry" />
+        <mxCell id="aU6ZqE62vAwaajKzGN5h-2" value="至于文艺复兴带来的工业革命，使得欧美的科技得以领先于全球，并驱动了全人类的发展！（）&lt;br&gt;特别是美国，科技、文化、经济、军事、做到了全球第一，&lt;br&gt;让美元称霸了全球，这得益于&lt;b&gt;“布林顿森林体系”&lt;/b&gt;的设计，其本质就是美元优先&lt;br&gt;的经济霸权策划！一个出生就是现代化支撑的国度，策划和布局不出一套完整的体系，&lt;br&gt;是不是愧对于这个&lt;b&gt;“现代化国家”&lt;/b&gt;的称号？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="43" y="-245" width="522" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
