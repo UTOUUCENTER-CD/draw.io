@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T13:18:15.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RdA1uzErunQU6fGsScTJ" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T13:19:41.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6TcwUSO0_2SEAU4U6xct" version="21.7.5" type="github">
   <diagram id="CZGxiTV1HHT-Hle2AOIO" name="Page-1">
     <mxGraphModel dx="1434" dy="1919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
           <mxGeometry x="460" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zMtAbFJLzHjJMqz4dgE3-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;strokeColor=#B20000;strokeWidth=5;" parent="zMtAbFJLzHjJMqz4dgE3-36" vertex="1">
-          <mxGeometry y="138.03" width="690" height="112.97" as="geometry" />
+          <mxGeometry x="-7" y="138.03" width="690" height="112.97" as="geometry" />
         </mxCell>
         <mxCell id="zMtAbFJLzHjJMqz4dgE3-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;生命系统的结构层次与情绪关系&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="zMtAbFJLzHjJMqz4dgE3-36" vertex="1">
           <mxGeometry x="414" y="222.99985915492957" width="270" height="20" as="geometry" />
