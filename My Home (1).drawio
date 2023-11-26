@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:45:06.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Pan3pHVOyVrp3VNKhyrr" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T14:54:43.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="55ooQR9TQNB3LxKCkLtD" version="22.1.4" type="github">
   <diagram id="pnRXbSAsWbdZZA9hHzEn" name="Page-1">
     <mxGraphModel dx="1434" dy="750" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y1bAYvEq-iXjjlH8sCQS-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="36" y="771" width="218" height="97" as="geometry" />
+          <mxGeometry x="36" y="771" width="252" height="118" as="geometry" />
         </mxCell>
         <mxCell id="VstGQJNC6byZTC00AhCn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="40" width="280" height="280" as="geometry" />
@@ -318,21 +318,30 @@
         </mxCell>
         <mxCell id="Y1bAYvEq-iXjjlH8sCQS-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeColor=#CDA2BE;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="136" y="853.75" as="sourcePoint" />
-            <mxPoint x="196" y="853.75" as="targetPoint" />
+            <mxPoint x="132" y="853.75" as="sourcePoint" />
+            <mxPoint x="192" y="853.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="197" y="853.75" />
+              <mxPoint x="193" y="853.75" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y1bAYvEq-iXjjlH8sCQS-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;音频线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="191" y="842.75" width="54" height="26" as="geometry" />
+          <mxGeometry x="191" y="840.75" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Y1bAYvEq-iXjjlH8sCQS-74" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;示意图线路说明：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="34" y="775.75" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Y1bAYvEq-iXjjlH8sCQS-77" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;150寸硬屏幕布的大小尺寸规格：长约3.32米；高约1.87米&lt;br&gt;&lt;br&gt;150寸视觉广度的观影距离：人眼距离屏幕最佳距离为5.8米&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="1051" width="327" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1bAYvEq-iXjjlH8sCQS-79" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.394;exitY=0.856;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.661;entryY=0.856;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129.89200000000005" y="878.008" as="sourcePoint" />
+            <mxPoint x="188.09799999999996" y="878.008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1bAYvEq-iXjjlH8sCQS-80" value="两端距离" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="187" y="866" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
