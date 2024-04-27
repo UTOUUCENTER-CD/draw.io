@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T05:07:57.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Uh4wW6avn6anoOcQOoiE" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T05:18:15.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KiV85x_tSakC-AM_DQ8S" version="24.3.0" type="github">
   <diagram id="c8HK3SkO3hzYToyx8a8B" name="第 1 页">
     <mxGraphModel dx="848" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -328,8 +328,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTvr1buMmliFcoUenAwP-24" value="音频线需要更改的标准样式如图所示&lt;div&gt;需要更改的原因在于：&lt;/div&gt;&lt;div&gt;1、室内与室外可以达到各自控制的目的。&lt;/div&gt;&lt;div&gt;2、这样更改的难度在于：&lt;br&gt;①、如果走的桥架，更改起来应该是比较方便的&lt;br&gt;（如同弱电井补网线到吧台一样，只需要从桥架补一根音频线下到吧台，&lt;br&gt;桥架内部拆并音频线就可以解决）&lt;/div&gt;&lt;div&gt;②、如果音频线被埋进了装修包装材料内确实&lt;br&gt;无法修改。但是也可以采取重新布一根音频线&lt;/div&gt;&lt;div&gt;到室外对应位置。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="887" y="1254" width="410" height="160" as="geometry" />
+        <mxCell id="wTvr1buMmliFcoUenAwP-24" value="音频线需要更改的标准样式如图所示&lt;div&gt;需要更改的原因在于：&lt;/div&gt;&lt;div&gt;1、室内与室外可以达到各自控制的目的。&lt;/div&gt;&lt;div&gt;2、这样更改的难度问题：&lt;br&gt;①、如果走的桥架，更改起来应该是比较方便的&lt;br&gt;（如同弱电井补网线到吧台一样，只需要从桥架补一根音频线下到吧台，&lt;br&gt;桥架内部拆并音频线就可以解决）&lt;/div&gt;&lt;div&gt;②、如果音频线被埋进了装修包装材料内确实&lt;br&gt;无法修改。但是也可以采取重新布一根音频线&lt;/div&gt;&lt;div&gt;到室外对应位置。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="887" y="1256" width="402" height="156" as="geometry" />
         </mxCell>
         <mxCell id="wTvr1buMmliFcoUenAwP-25" value="桥架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1064.5" y="1217" width="50" height="30" as="geometry" />
