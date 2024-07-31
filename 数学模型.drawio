@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T07:33:29.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9k64Vk6WkUaq6SuGQ0Ul" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.6">
   <diagram id="Pz9Wp0MGv7To2l7jw31U" name="第 1 页">
-    <mxGraphModel dx="1106" dy="729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -747,6 +747,9 @@
             <mxPoint x="1250" y="228" as="sourcePoint" />
             <mxPoint x="1184" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4yVuyQKhHW6pSS-PHOPs-1" value="&lt;b&gt;数据库存储原理：&lt;/b&gt;数据结构为“树形结构”&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;数据结构，决定了数据查询的方法——“&lt;span style=&quot;background-color: initial;&quot;&gt;索引&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="687.85" y="18.5" width="351" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
