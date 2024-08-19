@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.7">
   <diagram id="Pz9Wp0MGv7To2l7jw31U" name="第 1 页">
-    <mxGraphModel dx="712" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="712" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1053,42 +1053,96 @@
         </mxCell>
         <mxCell id="JmwRQMiVwgMIiogxBnDa-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1290" y="830" as="sourcePoint" />
-            <mxPoint x="1640" y="830" as="targetPoint" />
+            <mxPoint x="1735.65" y="327.5" as="sourcePoint" />
+            <mxPoint x="2085.65" y="327.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JmwRQMiVwgMIiogxBnDa-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1401" y="955" as="sourcePoint" />
-            <mxPoint x="1405" y="605" as="targetPoint" />
+            <mxPoint x="1820.65" y="425.5" as="sourcePoint" />
+            <mxPoint x="1824.65" y="75.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JmwRQMiVwgMIiogxBnDa-3" value="&lt;font color=&quot;#9999ff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;$$q_{i}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1342" y="803" width="130" height="40" as="geometry" />
+          <mxGeometry x="1760.65" y="304.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JmwRQMiVwgMIiogxBnDa-4" value="$$$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1336" y="978" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JmwRQMiVwgMIiogxBnDa-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1291.35" y="573" width="350" height="33" as="geometry" />
+          <mxGeometry x="1707" y="26.5" width="350" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;设拉式方程为：&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 其中&amp;nbsp; &amp;nbsp; &amp;nbsp; 表示对时间&amp;nbsp; &amp;nbsp; &amp;nbsp; 的导数&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-13">
-          <mxGeometry y="3" width="350" height="30" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;设拉式方程为：&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-13">
+          <mxGeometry x="124" y="5" width="102" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-10" value="$$L=L(q_{i}\,,\dot{q_{i}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-13">
-          <mxGeometry x="52" y="2" width="160" height="30" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-15" value="$$\delta\int^{t_2}_{t_1}Ldt=0\Rightarrow\frac{d}{dt} \frac{\partial L}{\partial \dot{q_i}}-\frac{\partial L}{\partial \dot{q}_i}=0\tag{2}$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1828.65" y="86.5" width="693" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\dot{q}_{i}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-13">
-          <mxGeometry x="153" width="120" height="30" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-19" value="$$p_i\equiv \frac{\partial L}{\partial \dot{q_i}}\tag{3}$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1991" y="146" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-12" value="$$t$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-13">
-          <mxGeometry x="267" y="2" width="50" height="30" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1821" y="123.5" width="140" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-14" value="十日终焉" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="828" width="70" height="30" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-20" value="定义广义动量&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;为：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-22">
+          <mxGeometry y="2" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-15" value="$$\delta\int^{t_2}_{t_1}Ldt=0\Rightarrow\frac{d}{dt} \frac{\partial L}{\partial \dot{q_i}}-\frac{\partial L}{\partial \dot{q}_i}=0$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="614" width="660" height="30" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-21" value="$$p_i$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-22">
+          <mxGeometry x="59" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-23" value="由此可以定义哈密顿函数为：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="195" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-24" value="$$H\equiv \Sigma p_i\dot{q_i}-L= H(p_i\,,\dot{q_i})\tag{4}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1831.65" y="230" width="332" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;勒让德变换：&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;「它在热力学中是经常用到的，例如把吉布斯热力学势变成亥姆霍兹自由能」&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1680" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-26" value="$$H=p_i\dot{q_i}-L\tag{5}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1958" y="285" width="166" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1823.65" y="256.5" width="359" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-27" value="我们采用重复的下标或上标表示求和的惯例，于是&amp;nbsp; &amp;nbsp; &amp;nbsp;可简写为：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-29">
+          <mxGeometry y="1" width="359" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-28" value="$$H$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-29">
+          <mxGeometry x="253.5" width="53" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-10" value="$$L=L(q_{i}\,,\dot{q_{i}}) \tag{1}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1934" y="44" width="197" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2091" y="40" width="196" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\dot{q}_{i}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-31">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-12" value="$$t$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-31">
+          <mxGeometry x="115" y="2" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-30" value="&lt;span style=&quot;text-align: left;&quot;&gt;其中&amp;nbsp; &amp;nbsp; &amp;nbsp; 表示对时间&amp;nbsp; &amp;nbsp; &amp;nbsp; 的导数&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-31">
+          <mxGeometry x="17" y="5" width="178" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-32" value="由拉式方程及&amp;nbsp; &amp;nbsp; &amp;nbsp;的定义，可以推出哈氏方程为：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="335" width="275" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-34" value="$$H$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1897" y="334" width="53" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-35" value="$$\dot{p_i}= - \frac{\partial H}{\partial q_i}\,,\dot{q_i}=\frac{\partial H}{\partial p_i}\tag{6}$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1919.5" y="367" width="488" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-36" value="由（1）和（4）式，得：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1844" y="403" width="151" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-39" value="$$\,,(\frac{\partial H)}{\partial q_i}=p_i(\frac{\partial \dot{q_i}}{\partial q_i})_p-(\frac{\partial L}{\partial q_i})_p&lt;span style=&quot;background-color: initial;&quot;&gt;$$&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1735.5" y="572" width="594" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-41" value="&lt;div&gt;$$\&lt;span style=&quot;background-color: initial;&quot;&gt;left.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\begin{array}{l}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(\frac{\partial L}{\partial q_i})_p=(\frac{\partial L}{\partial q_i})\dot{q}+(\frac{\partial L}{\partial \dot{q_i}})_q(\frac{\partial \dot{q_i}}{\partial q_i})_p\,,\\&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(\frac{\partial H}{\partial q_i})_p=p_i(\frac{\partial\dot{q_i}{\partialq_i})_p-(\frac{\partial L}{\partial q_i})_p)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\end{array}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\right\}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=\tag{7}}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2057" y="707" width="1596" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
