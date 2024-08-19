@@ -1138,11 +1138,20 @@
         <mxCell id="JmwRQMiVwgMIiogxBnDa-36" value="由（1）和（4）式，得：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1844" y="403" width="151" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-39" value="$$\,,(\frac{\partial H)}{\partial q_i}=p_i(\frac{\partial \dot{q_i}}{\partial q_i})_p-(\frac{\partial L}{\partial q_i})_p&lt;span style=&quot;background-color: initial;&quot;&gt;$$&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1735.5" y="572" width="594" height="26" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1844" y="444" width="811" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JmwRQMiVwgMIiogxBnDa-41" value="&lt;div&gt;$$\&lt;span style=&quot;background-color: initial;&quot;&gt;left.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\begin{array}{l}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(\frac{\partial L}{\partial q_i})_p=(\frac{\partial L}{\partial q_i})\dot{q}+(\frac{\partial L}{\partial \dot{q_i}})_q(\frac{\partial \dot{q_i}}{\partial q_i})_p\,,\\&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(\frac{\partial H}{\partial q_i})_p=p_i(\frac{\partial\dot{q_i}{\partialq_i})_p-(\frac{\partial L}{\partial q_i})_p)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\end{array}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\right\}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=\tag{7}}&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2057" y="707" width="1596" height="26" as="geometry" />
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-42" value="$$(\frac{\partial L}{\partial q_i})_p=(\frac{\partial L}{\partial q_i})_\dot{q}+(\frac{\partial L}{\partial \dot{q_i}})_q(\frac{\partial \dot{q_i}}{\partial q_i})_p\,,$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-46">
+          <mxGeometry width="811" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-43" value="$$(\frac{\partial H}{\partial q_i})_p = p_i(\frac{\partial\dot{q_i}}{\partial q_i})_p-(\frac{\partial L}{\partial q_i})_p$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-46">
+          <mxGeometry x="29" y="44" width="601" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-44" value="" style="labelPosition=right;align=left;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#1A1A1A;direction=north;rotation=-180;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-46">
+          <mxGeometry x="225" y="4.5" width="19" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-45" value="$$\tag{7}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-46">
+          <mxGeometry x="204.6500000000001" y="24.25" width="79" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
