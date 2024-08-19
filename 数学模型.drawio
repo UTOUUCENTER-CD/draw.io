@@ -1148,7 +1148,7 @@
           <mxGeometry x="29" y="44" width="601" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JmwRQMiVwgMIiogxBnDa-44" value="" style="labelPosition=right;align=left;strokeWidth=2;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#1A1A1A;direction=north;rotation=-180;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-46">
-          <mxGeometry x="225" y="4.5" width="19" height="65.5" as="geometry" />
+          <mxGeometry x="225" y="2.5" width="12" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="JmwRQMiVwgMIiogxBnDa-45" value="$$\tag{7}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-46">
           <mxGeometry x="204.6500000000001" y="24.25" width="79" height="26" as="geometry" />
