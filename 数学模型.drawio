@@ -1153,6 +1153,15 @@
         <mxCell id="JmwRQMiVwgMIiogxBnDa-45" value="$$\tag{7}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JmwRQMiVwgMIiogxBnDa-46">
           <mxGeometry x="204.6500000000001" y="24.25" width="79" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-47" value="$$(\frac{\partial H}{\partial q_i})_p = -(\frac{\partial L}{\partial q_i})_\dot{q} = -\dot{p_i}\tag{8}$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1899.5" y="566" width="513" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-48" value="$$(\frac{\partial H}{\partial p_i})_q=\dot{q_i}+p_i(\frac{\partial \dot{q_i}}{\partial p_i})_q-(\frac{\partial L}{\partial \dot{q_i}})_q(\frac{\partial\dot{q_i}}{\partial p_i})_q= \dot{q_i}$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1844" y="626" width="927" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JmwRQMiVwgMIiogxBnDa-49" value="考虑到（7）、（3）、（2）式，得：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1828.65" y="529" width="218" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
