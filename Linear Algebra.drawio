@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.10">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="1539" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1299" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-28" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=60;rotation=-45;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="323.5" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-26" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=60;rotation=75;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="358.5" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-25" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="348.5" width="320" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="0q_VKCNldQ06o-cLyj46-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-795.5" y="2457" width="742" height="316" as="geometry" />
         </mxCell>
@@ -3731,10 +3740,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v83-kN0CUJdm0u1aHZvP-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$x$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="434.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="2038" y="509" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v83-kN0CUJdm0u1aHZvP-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$y$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="511.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="2400" y="451" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v83-kN0CUJdm0u1aHZvP-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$z$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2160" y="162" width="60" height="30" as="geometry" />
@@ -3748,8 +3757,17 @@
         <mxCell id="v83-kN0CUJdm0u1aHZvP-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$b$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2310" y="94" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v83-kN0CUJdm0u1aHZvP-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="496" width="14" height="14" as="geometry" />
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="2158" y="415" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="2177" y="356.5" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="2154" y="388" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-29" value="两个平面相交于一条线，三个平面相交于一个点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="248" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
