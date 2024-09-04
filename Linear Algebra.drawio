@@ -3700,8 +3700,8 @@
             <mxPoint x="1730.7439999999997" y="206.98799999999983" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v83-kN0CUJdm0u1aHZvP-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$2\cdot col2$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" parent="1" vertex="1">
-          <mxGeometry x="1741.74" y="271" width="80" height="30" as="geometry" />
+        <mxCell id="v83-kN0CUJdm0u1aHZvP-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$+ 2\cdot col2$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" parent="1" vertex="1">
+          <mxGeometry x="1736.74" y="271" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v83-kN0CUJdm0u1aHZvP-2" value="$$\Rightarrow x\begin{bmatrix}2\\-1\end{bmatrix}+y\begin{bmatrix}-1 \\2\end{bmatrix}=\begin{bmatrix}0\\3\end{bmatrix}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="876" y="105" width="660" height="30" as="geometry" />
@@ -3822,6 +3822,9 @@
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$1\cdot col1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=25;" vertex="1" parent="1">
           <mxGeometry x="1718" y="344" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-20" value="走过1个列1和2个列2后结果是b点坐标（0,3）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1733.74" y="186" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
