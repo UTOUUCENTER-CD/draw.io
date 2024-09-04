@@ -3788,7 +3788,7 @@
           <mxGeometry x="31.25999999999999" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1540.74" width="79.25999999999999" height="40" as="geometry" />
+          <mxGeometry x="1461.74" y="9" width="79.25999999999999" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-7" value="向量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-11">
           <mxGeometry y="6" width="50" height="30" as="geometry" />
@@ -3797,7 +3797,7 @@
           <mxGeometry x="9.259999999999991" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1134" y="139" width="198.26" height="40" as="geometry" />
+          <mxGeometry x="1142" y="136" width="198.26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-10" value="&lt;b&gt;意义：&lt;/b&gt;两个向量的组合，获得" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-15">
           <mxGeometry x="-36" y="6" width="180" height="30" as="geometry" />
