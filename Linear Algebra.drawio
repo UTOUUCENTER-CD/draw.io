@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.10">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="1124" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3787,11 +3787,35 @@
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$(x,y)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-6">
           <mxGeometry x="31.25999999999999" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-7" value="向量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1466" y="14" width="50" height="30" as="geometry" />
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1540.74" width="79.25999999999999" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$b$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1476" y="8" width="70" height="40" as="geometry" />
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-7" value="向量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-11">
+          <mxGeometry y="6" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$b$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-11">
+          <mxGeometry x="9.259999999999991" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1134" y="139" width="198.26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-10" value="&lt;b&gt;意义：&lt;/b&gt;两个向量的组合，获得" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-15">
+          <mxGeometry x="-36" y="6" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-12" value="" style="group" vertex="1" connectable="0" parent="JO-8jmB5GWX4fxZR1ZBz-15">
+          <mxGeometry x="119" width="79.25999999999999" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-13" value="向量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-12">
+          <mxGeometry y="6" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$b$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-12">
+          <mxGeometry x="9.259999999999991" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JO-8jmB5GWX4fxZR1ZBz-16" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#2D6736;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1138" y="143" as="sourcePoint" />
+            <mxPoint x="1288" y="143" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
