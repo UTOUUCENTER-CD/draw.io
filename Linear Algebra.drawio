@@ -3449,7 +3449,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XEsACChK9BfZYaW0XsUR-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;方程组：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1229.76" y="16" width="100" height="40" as="geometry" />
+          <mxGeometry x="1188.76" y="-1" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XEsACChK9BfZYaW0XsUR-21" value="$$\left\{\begin{array}{}2x - y = 0\\[3ex] -x+2y=3 \end{array}\right.\Rightarrow\begin{bmatrix}2 &amp;amp; -1\\-1 &amp;amp; 2\end{bmatrix}\begin{bmatrix}x \\y\end{bmatrix}=\begin{bmatrix}0\\3\end{bmatrix}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="877" y="46" width="1010" height="30" as="geometry" />
@@ -3770,7 +3770,7 @@
           <mxGeometry x="2307" y="191" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1431" y="4" width="131.51999999999998" height="40" as="geometry" />
+          <mxGeometry x="1379" y="4" width="131.51999999999998" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-1" value="矩阵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JO-8jmB5GWX4fxZR1ZBz-3" vertex="1">
           <mxGeometry y="6" width="50" height="30" as="geometry" />
@@ -3791,7 +3791,7 @@
           <mxGeometry x="31.25999999999999" y="-5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-11" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1524.74" y="11" width="79.25999999999999" height="40" as="geometry" />
+          <mxGeometry x="1464.74" y="11" width="79.25999999999999" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-7" value="向量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JO-8jmB5GWX4fxZR1ZBz-11" vertex="1">
           <mxGeometry y="6" width="50" height="30" as="geometry" />
@@ -3880,16 +3880,19 @@
         <mxCell id="L2YlWeXeo_lA9_SMWuYD-4" value="Can I Solve Ax=b for every b？Do the Linear combs of The columns fill 3-D Sapce?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2371" y="145" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1441" y="7.990000000000009" width="20" height="30.00999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="4LVaFTkc0yZ02M-xhnuJ-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1500" y="38" as="sourcePoint" />
-            <mxPoint x="1520" y="38" as="targetPoint" />
+            <mxPoint y="30.00999999999999" as="sourcePoint" />
+            <mxPoint x="20" y="30.00999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.193;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.193;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4LVaFTkc0yZ02M-xhnuJ-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1508" y="38" as="sourcePoint" />
-            <mxPoint x="1508.0300000000002" y="7.990000000000009" as="targetPoint" />
+            <mxPoint x="8" y="30.00999999999999" as="sourcePoint" />
+            <mxPoint x="8.0300000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
