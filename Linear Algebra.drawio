@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="2261" dy="1907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1761" dy="1905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3778,7 +3778,7 @@
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-6" value="" style="group" parent="JO-8jmB5GWX4fxZR1ZBz-3" vertex="1" connectable="0">
           <mxGeometry x="33.25999999999999" y="-14" width="101.25999999999999" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JO-8jmB5GWX4fxZR1ZBz-6">
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="JO-8jmB5GWX4fxZR1ZBz-6" vertex="1">
           <mxGeometry x="10" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JO-8jmB5GWX4fxZR1ZBz-4" value="分量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="JO-8jmB5GWX4fxZR1ZBz-6" vertex="1">
@@ -3874,16 +3874,16 @@
         <mxCell id="L2YlWeXeo_lA9_SMWuYD-4" value="Can I Solve Ax=b for every b？Do the Linear combs of The columns fill 3-D Sapce?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2371" y="145" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1441" y="7.990000000000009" width="20" height="30.00999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="4LVaFTkc0yZ02M-xhnuJ-5">
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-1" value="" style="endArrow=none;html=1;rounded=0;" parent="4LVaFTkc0yZ02M-xhnuJ-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="30.00999999999999" as="sourcePoint" />
             <mxPoint x="20" y="30.00999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.193;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4LVaFTkc0yZ02M-xhnuJ-5">
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.193;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="4LVaFTkc0yZ02M-xhnuJ-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8" y="30.00999999999999" as="sourcePoint" />
             <mxPoint x="8.0300000000002" as="targetPoint" />
@@ -3892,8 +3892,38 @@
         <mxCell id="XEsACChK9BfZYaW0XsUR-60" value="$$col 2\begin{bmatrix}-1\\2\end{bmatrix}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1608.0000000000002" y="208" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-6" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Gilbert Strang&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#333333&quot;&gt;——MIT18.06&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4LVaFTkc0yZ02M-xhnuJ-6" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Gilbert Strang&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#333333&quot;&gt;——MIT18.06&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1864" y="449" width="153" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-778.75" y="-296" width="241.75" height="241.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-744.69" y="-264.5" width="172.5" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-698.5" y="-218.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-4" value="个人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-681" y="-189.25" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-5" value="社区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-138.25" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-6" value="社会" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-618.5" y="-108.25" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;HAI = human of AI&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-731.5" y="-54.25" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-8" value="个人：如何使用AI平台成就自己" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="-225" width="185" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-9" value="社区：如何使用AI平台赋能社区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="-186" width="185" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHph1fE2VlT6RkVQTXdt-10" value="社会：如何使用AI平台获取社会能量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-526.5" y="-144" width="209" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
