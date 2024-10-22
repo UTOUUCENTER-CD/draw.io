@@ -1237,18 +1237,6 @@
         <mxCell id="poB4tTFHMOQO7qDuUM3r-7" value="&lt;div style=&quot;&quot;&gt;3、搜索到网站后，能初步分析和判断，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;按关键字将内容进行归类；&lt;span style=&quot;background-color: initial;&quot;&gt;（按精确匹配或模糊匹配分），&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;需要搜索某种产品的物化性质、结构式、应用、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;生产经营企业信息等，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;就要进行分析，进入下一层&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（有可能再进入下一层），&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;把相关的所有信息全部保存下来。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="945" y="1867.5" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="poB4tTFHMOQO7qDuUM3r-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="938.85" y="1962.5" width="351.15" height="69.5" as="geometry" />
-        </mxCell>
-        <mxCell id="poB4tTFHMOQO7qDuUM3r-9" value="&lt;div style=&quot;&quot;&gt;4、可以按照我方要求，主动设置文件夹、word文件格式，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;并整理文件资料、&lt;span style=&quot;background-color: initial;&quot;&gt;存储独立文件，如照片、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PDF文件和其它独立格式文件。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="944" y="1965.5" width="330" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="poB4tTFHMOQO7qDuUM3r-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="938.85" y="2040" width="351.15" height="69.5" as="geometry" />
-        </mxCell>
-        <mxCell id="poB4tTFHMOQO7qDuUM3r-12" value="&lt;div style=&quot;&quot;&gt;5、一周内可以达成6000个生物品种的查询筛选整理工作。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="945" y="2050" width="330" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="poB4tTFHMOQO7qDuUM3r-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="938.85" y="2120" width="351.15" height="69.5" as="geometry" />
         </mxCell>
@@ -1277,10 +1265,43 @@
           <mxGeometry x="1315" y="1714.5" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="poB4tTFHMOQO7qDuUM3r-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="1790" width="235" height="160" as="geometry" />
+          <mxGeometry x="1295" y="1790" width="235" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="poB4tTFHMOQO7qDuUM3r-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;搜索器的搜索深度&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;是否要超越百度、google？&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1835.5" width="220" height="50" as="geometry" />
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;搜索器的搜索深度&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;是否要超越百度、google？&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;且要求具备规避高频&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;访问网站数据的风险&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1805.5" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="938" y="1960" width="351.15" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="poB4tTFHMOQO7qDuUM3r-26">
+          <mxGeometry width="351.15" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-12" value="&lt;div style=&quot;&quot;&gt;5、一周内可以达成6000个生物品种的查询筛选整理工作。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="poB4tTFHMOQO7qDuUM3r-26">
+          <mxGeometry x="6.149999999999977" y="10" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="938.85" y="2041" width="351.15" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="poB4tTFHMOQO7qDuUM3r-27">
+          <mxGeometry width="351.15" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-9" value="&lt;div style=&quot;&quot;&gt;4、可以按照我方要求，主动设置文件夹、word文件格式，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;并整理文件资料、&lt;span style=&quot;background-color: initial;&quot;&gt;存储独立文件，如照片、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PDF文件和其它独立格式文件。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="poB4tTFHMOQO7qDuUM3r-27">
+          <mxGeometry x="5.149999999999977" y="3" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2041" width="235" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;①、数据分析、整理、处理&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（存储、自定义等）&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;②、自动数据横向比对，&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;这属于AI文字识别与内容理解&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;内容——&lt;/font&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;（LLM）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1295.5" y="2079.5" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-30" value="我对项目的理解" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1315.5" y="1627" width="172.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1535.5" y="1712.5" width="244.5" height="637.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poB4tTFHMOQO7qDuUM3r-32" value="本人承诺能实现的技术范畴：&lt;div&gt;1、关于搜索器正常的搜索栏&lt;/div&gt;&lt;div&gt;（用户可以输入任何自定义内容&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、关于搜索器的具体功能：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;①、搜索深度与百度google类似，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;可以达到所需要求，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;只是内容是一次性&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;呈现&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;②、关于规避网站高频数据访问约束，只&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;能在正常的技术范畴内实现，不可以违背&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;网站的约束规范、甚至想当然的破解或&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;绕过对方的拦击。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3、关于数据分析、整理、处理&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;此部分属于大数据内容&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;甲方需要提供足够&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;的存储容量以外，还要具备自身的相关专业&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;人员对数据做分析。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4、所谓内容的横向比对，这属于AI的LLM&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（大预言模型）部分，要搜索器自及识别&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文字的基础上还要对内容的理解。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;以上内容均可以实现，但是需要再次声明，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;所有技术实现均不可违背网站内容提供方的&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1541" y="1734.5" width="250" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
