@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.8.3">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="2261" dy="1907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2261" dy="1907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4152,6 +4152,45 @@
         </mxCell>
         <mxCell id="MxjO52uD2NfQTiDTRRN9-25" value="&lt;font color=&quot;#3333ff&quot; face=&quot;幼圆&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;替别人撰写回忆录：一部个人传记的开始到下一个人的可持续&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1064" y="1933" width="504" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#1A1A1A;strokeColor=#FFCCCC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="868" y="1537" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-31" value="如何替别人写回忆录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="889" y="1550" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#660000;strokeColor=#FFCCCC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="868" y="1589" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-33" value="全方位了解时代背景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="889" y="1603" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#990000;strokeColor=#FFCCCC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="867.5" y="1639" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-35" value="激发口述人回忆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900.5" y="1653" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#CC0000;strokeColor=#FFCCCC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="866.5" y="1691" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-37" value="结合时代背景去了解人物&lt;div&gt;活动的内心世界&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875.5" y="1697" width="150" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#FF0000;strokeColor=#FFCCCC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="866.5" y="1743" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#FF6666;strokeColor=#FFCCCC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="866" y="1793" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-41" value="如何替别人写回忆录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="887" y="1807" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rounded_frame;dx=10;whiteSpace=wrap;fillColor=#FF9999;strokeColor=#FFCCCC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1844" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxjO52uD2NfQTiDTRRN9-43" value="如何替别人写回忆录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="886" y="1858" width="126" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
