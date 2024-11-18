@@ -615,13 +615,13 @@
         <mxCell id="hXu8te6Rf9w8vzPjnkAa-51" value="改进策略分析" style="rounded=1;whiteSpace=wrap;html=1;arcSize=35;shadow=1;fontStyle=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1571.13" y="911.5" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hXu8te6Rf9w8vzPjnkAa-52" value="增强内部治理" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;shadow=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hXu8te6Rf9w8vzPjnkAa-52" value="增强内部治理" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;shadow=1;fontStyle=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1443.63" y="985.5" width="100" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="hXu8te6Rf9w8vzPjnkAa-53" value="推动研发创新" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;shadow=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hXu8te6Rf9w8vzPjnkAa-53" value="推动研发创新" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;shadow=1;fontStyle=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1548.63" y="985.5" width="150" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="hXu8te6Rf9w8vzPjnkAa-54" value="提升经营效率" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;shadow=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hXu8te6Rf9w8vzPjnkAa-54" value="提升经营效率" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;shadow=1;fontStyle=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1706.13" y="985.5" width="100" height="31" as="geometry" />
         </mxCell>
         <mxCell id="hXu8te6Rf9w8vzPjnkAa-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;width=17;endSize=4.03;endWidth=20;shadow=1;" edge="1" parent="1">
