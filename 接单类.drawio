@@ -760,23 +760,26 @@
         <mxCell id="hXu8te6Rf9w8vzPjnkAa-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;论文框架图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1890" y="1041" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rlErt2SrBx3pcJWpQ9cU-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;第四平台&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="62" y="1195" width="100" height="40" as="geometry" />
+        <mxCell id="rlErt2SrBx3pcJWpQ9cU-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;第三平台&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="67" y="1180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rlErt2SrBx3pcJWpQ9cU-3" value="第一大平台&lt;div&gt;互联网&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="147" y="1280" width="70" height="70" as="geometry" />
+          <mxGeometry x="109.5" y="1220" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rlErt2SrBx3pcJWpQ9cU-7" value="第二大平台&lt;div&gt;互联网&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1280" width="70" height="70" as="geometry" />
+        <mxCell id="rlErt2SrBx3pcJWpQ9cU-7" value="第二大平台&lt;div&gt;社交媒体&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="1220" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rlErt2SrBx3pcJWpQ9cU-8" value="第三大平台&lt;div&gt;互联网&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="476" y="1280" width="70" height="70" as="geometry" />
+        <mxCell id="rlErt2SrBx3pcJWpQ9cU-8" value="第三大平台&lt;div&gt;镜像世界&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="1220" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rlErt2SrBx3pcJWpQ9cU-9" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=14;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="226" y="1305" width="74" height="20" as="geometry" />
+          <mxGeometry x="188.5" y="1245" width="74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rlErt2SrBx3pcJWpQ9cU-10" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=14;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1305" width="74" height="20" as="geometry" />
+          <mxGeometry x="357.5" y="1245" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rlErt2SrBx3pcJWpQ9cU-11" value="互联网时代：解决了信息的传递。&lt;div&gt;社交媒体时代：连接了人与人之间的关系。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;在信息有了依存与传递能力之后，人们开始便捷的获取信息，信息茧房的门被冲破。&lt;/div&gt;&lt;div&gt;人与人之间被连接之后，形成了个性化爱好的圈子文化。这得益于信息基础建设的&lt;/div&gt;&lt;div&gt;完成。随着跨学科的知识的应用、人类精神世界的广泛探索驱使之下，必然应该诞生&lt;/div&gt;&lt;div&gt;打破圈子之间壁垒的现象出现。原因在于：&lt;/div&gt;&lt;div&gt;①、没有孤立存在的技术、文化、人性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;任何单一的技术、文化，并不是孤立存在的，必定应该是有向外拖延而形成自身的稳定性。&lt;/div&gt;&lt;div&gt;②、就算是在某一领域里面最尖端的专家，也有他的领域天花板&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1310" width="530" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
