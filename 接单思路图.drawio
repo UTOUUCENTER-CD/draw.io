@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="yO9kTaUimBpitbpSiqBW">
-    <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,6 +125,282 @@
         </mxCell>
         <mxCell id="OHiCeLRjC_9lza5a5SpA-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="340" y="281" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-35" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;四台相同型号的汽车式起重机联合抬吊被吊物：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;现在需要将吊物向正南方向平移.若四台起重机吊臂均转动&amp;nbsp; &amp;nbsp; 角,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;(也就是回转操作.回转&amp;nbsp; &amp;nbsp;角),此时吊物会向南平移,同时吊绳&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;会发生倾斜,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;这种平移操作会加大吊绳受力产生一个多余&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的水平分力。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2、为了保证平移过程中吊绳始终垂直（在吊臂回转过程中，不让吊绳产生额外的拉力）,吊臂在回转操作的同时,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;应该伸长吊臂,如下图了,吊物向南移动,吊臂末端应沿虚线&lt;/div&gt;&lt;div&gt;移动,保证吊绳垂直.&lt;/div&gt;&lt;div&gt;国&lt;/div&gt;&lt;div&gt;上图2的四台吊机是分布均匀,是理想中的站位位置,&lt;/div&gt;&lt;div&gt;一→南&lt;/div&gt;&lt;div&gt;而实际情况中,各台吊机的站位可能稍微有点歪,&lt;/div&gt;&lt;div&gt;图了&lt;/div&gt;&lt;div&gt;如下图4,稍微歪一点,图4中,吊机2、3站位好,&lt;/div&gt;&lt;div&gt;吊机1、4本应该站位与虚线对齐,&lt;/div&gt;&lt;div&gt;实际情况中,4台吊机的位置都不是在理想&lt;/div&gt;&lt;div&gt;3&lt;/div&gt;&lt;div&gt;的坐标上,那么,在这种情况下,要保证吊臂&lt;/div&gt;&lt;div&gt;末端沿图了所示虚线平移,怎么去规划路径?&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1010" width="610" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="685" as="sourcePoint" />
+            <mxPoint x="210" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="103" y="686" as="sourcePoint" />
+            <mxPoint x="210" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-40" value="1号吊车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF99,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="90" y="685" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="705" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="124" y="705" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="665" as="sourcePoint" />
+            <mxPoint x="210" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="785" as="sourcePoint" />
+            <mxPoint x="190" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="786" as="sourcePoint" />
+            <mxPoint x="190" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-46" value="3号吊车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="87" y="785" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="87" y="805" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="121" y="805" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383" y="685" as="sourcePoint" />
+            <mxPoint x="280" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="386" y="686" as="sourcePoint" />
+            <mxPoint x="280" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-52" value="2号吊车" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="329" y="685" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="705" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="705" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="665" as="sourcePoint" />
+            <mxPoint x="279" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-58" value="4号吊车" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="323" y="785" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="805" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="805" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-62" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="190" y="665" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189" y="765" as="sourcePoint" />
+            <mxPoint x="189" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="765" as="sourcePoint" />
+            <mxPoint x="259" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383" y="786" as="sourcePoint" />
+            <mxPoint x="260" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="785" as="sourcePoint" />
+            <mxPoint x="260" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="895" as="sourcePoint" />
+            <mxPoint x="210" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-65" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="733" as="sourcePoint" />
+            <mxPoint x="470" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-66" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="886" as="sourcePoint" />
+            <mxPoint x="273" y="526" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;东&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="715" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;南&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="885" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;西&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="463" y="714" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-70" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;北&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="485" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="650" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="651" as="sourcePoint" />
+            <mxPoint x="740" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-74" value="1号吊车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF99,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="610" y="641" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-75" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="779" as="sourcePoint" />
+            <mxPoint x="740" y="779" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-76" value="3号吊车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF99,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="610" y="770" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-77" value="2号吊车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF99,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="890" y="641" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-78" value="3号吊车" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF99,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="890" y="770" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="779" as="sourcePoint" />
+            <mxPoint x="890" y="779" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-80" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="651" as="sourcePoint" />
+            <mxPoint x="890" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-81" value="&lt;b&gt;&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;被&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;吊&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;物&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=10;" vertex="1" parent="1">
+          <mxGeometry x="205" y="675" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-84" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="709" as="sourcePoint" />
+            <mxPoint x="1022" y="709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-85" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="870" as="sourcePoint" />
+            <mxPoint x="770" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-86" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;东&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="689" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-87" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;南&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="870" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;西&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="689" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-89" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;北&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;图1 平视图&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="194" y="910" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-91" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;图2 俯视图&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="727" y="910" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.614;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="880" as="sourcePoint" />
+            <mxPoint x="784" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-93" value="被吊物水平平移&lt;div&gt;（朝着正南方向移动）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="769" y="840" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-94" value="被吊物水平平移&lt;div&gt;（朝着正南方向移动）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="809" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-95" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669" y="781" as="sourcePoint" />
+            <mxPoint x="740" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-96" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OHiCeLRjC_9lza5a5SpA-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="820" as="sourcePoint" />
+            <mxPoint x="750" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-97" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;entryX=-0.043;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-74" target="OHiCeLRjC_9lza5a5SpA-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679" y="791" as="sourcePoint" />
+            <mxPoint x="720" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-98" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.014;exitY=0.331;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OHiCeLRjC_9lza5a5SpA-71" target="OHiCeLRjC_9lza5a5SpA-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="690" as="sourcePoint" />
+            <mxPoint x="740" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#FFFFFF;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="692" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-83" value="&lt;b&gt;&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;被&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;吊&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(237, 237, 237);&quot;&gt;物&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="720" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-100" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\theta$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="970" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-101" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$\theta$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="773" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-102" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$\theta$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="645" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-104" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$\theta$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="819" y="644" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;$$\theta$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="772" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiCeLRjC_9lza5a5SpA-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\theta$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="960" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
