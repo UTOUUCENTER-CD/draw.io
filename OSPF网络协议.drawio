@@ -19,9 +19,9 @@
             <mxPoint x="35" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2NH7Hiz65AOmqFvsyPIB-85" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;加密数据传输&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" vertex="1" connectable="0" parent="2NH7Hiz65AOmqFvsyPIB-77">
+        <mxCell id="2NH7Hiz65AOmqFvsyPIB-85" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;加密数据传输&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=60;" vertex="1" connectable="0" parent="2NH7Hiz65AOmqFvsyPIB-77">
           <mxGeometry x="0.1158" y="-1" relative="1" as="geometry">
-            <mxPoint x="22" y="-3" as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2NH7Hiz65AOmqFvsyPIB-70" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#fff6cc, #ededed);fillColor=light-dark(#fff6cc, #ededed);" vertex="1" parent="1">
@@ -524,10 +524,10 @@
           <mxGeometry x="1230" y="794" width="69" height="14" as="geometry" />
         </mxCell>
         <mxCell id="2NH7Hiz65AOmqFvsyPIB-68" value="医院内部服务器" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEwAAAA+CAYAAACBff3hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHHSURBVHhe7ZxRTsMwEEQDH+WEcAB6LjgAnBB+oBtlkbuxHY8dB9uZJ1kkTeo2T7MbtxJ9mDa4vH78LJun4fv9JehldeCMgmJYeXc7lBVGxT3OezcoK43ZWoqsr7fnZaseT9fPZatNJGV/CSNpUBiAVCKFgVAYCIWBUBgIvKyoceuvOffeMGEg2QkrXci6aWLCBobCQCgMhMJAuKwAYcJA+H0YCBMGwh4GwoSB8KMRCBMGQmEgFAZCYSDdLCtKbzIh0OvpImG1ZOXQ/Eej/3rdEN30MLkotHxqwKYPcnhJ2pS488ZKUo/Jfm7SQteAzHeqhOWKdmFJghwuTMrCHUeyx+t1s6xwe9jeIKXaZdMXti4Seb+IsC57WKosOc+OUrosydiF2+P2fbvzKLH5LEPdJV0Jsm1lCb7HELoUpjLssGhy5K875Fw9hjLcOkyFWEJSUbpt+r4Rw3fO1nN8DJewEJowN2U5iRtOmEhISVsuQzd9fSx2DGXIkhQZoZ4lI1eWMGwPEymuOBVVIkvgd/o3fK8b4jR3yb1oXpiWUy3QuZsvydZgSYJQGAD/5zuDuYcJKX3szKx+t8L+Agjxs5LEpN3DIBUxTb/Ydy8Qu/rx0wAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="1424" y="770" width="76" height="62" as="geometry" />
+          <mxGeometry x="1412" y="794" width="76" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2NH7Hiz65AOmqFvsyPIB-69" value="外部网络" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEwAAAA+CAYAAACBff3hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALgSURBVHhe7ZpRchMxDIbTPMAJ4QBwLjgAnBBeyvztqiiKZEu2ZW8bfzM7yWxsyfpWTrdJLpsYT8fjG5++/Xo+nj48f39+vfPzdmKLsuHirsfjpgBvphdhu7v87A5zQk113d0VY3dYkC0syNMZtuSfH1+OZ//5/P338ew84PZiujBNjpfVEqcKq4mSMkrjV4mbJkwW31LwGbZturARoiQZMb1AWNpfyazCEIfH0jovkxRhvAhZ4ChWSTvFbcV7IeU9bPYW0cjoaJAmrGfBJDwaQ74NZDD0TX9EZ/EYI+JlcJr/JTVBEWlZXSUZIqy3G/h8FM6Lb42NefwYxfIO48VwUS3SSl3G5dHRwlJhfNFasT2dhrn80GgRt0xYTRbBX4sWx+HyZL5I3CXCvLIIPqZHGkeKQ1xP7G5hlMRTOIjKIjKkgcgawNQOa5VFZEqj2LW4XXf6MjiS4pwmQ5PlKdobi7DyeyjFBaE7fQSThxc+VlsIzmkH0PLQayCyjho8roVLmLUoXpyVrCarFR4rQ5oVsygMk2TB/KiRJYvgMUdKI7SYpjA5OFpwryyaX5ubIa2Us7olMTlacFQWxssDePNG19eDKiy6YAmfR7FKYDwdRCS3J8co7oSNSh6VRtA87xw+LiK5FXNLjkieLS1TlrWG6ntYL1nSMmWVuBFGi8i6WiAijZBzVskC6R1GaNJwrlQwva7NBaW5vfA1cqYJA1bhHjB+lqwSU4WBFmly3CpZYLowEJF2JllgiTDgkbZKFuXV8t0IowG1qz6KkrTVsiyWdRihSVsli2PlNIXVTI/E6jScnymLcpdy3gmzFp+NXORMUcBbq/mZvrzSXmZKtuhZb2lu8TN9PvEMEkaDmiKyiOq3RpqsyBU8Gz31uH9Q9xE7DEQvfNMvEN+zvN6d0STskQl9kbt5ZQsLckWbHc83DnaHBdnCnNBOfBG2t6WfG1H7FuMe2UxmZz26PH3XXS7/ABCi/TEwhVncAAAAAElFTkSuQmCC;" vertex="1" parent="1">
-          <mxGeometry x="1537" y="880" width="76" height="62" as="geometry" />
+          <mxGeometry x="1360" y="910" width="76" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2NH7Hiz65AOmqFvsyPIB-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NH7Hiz65AOmqFvsyPIB-70" target="2NH7Hiz65AOmqFvsyPIB-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -557,13 +557,13 @@
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2NH7Hiz65AOmqFvsyPIB-73" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.405;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NH7Hiz65AOmqFvsyPIB-70" target="2NH7Hiz65AOmqFvsyPIB-68">
+        <mxCell id="2NH7Hiz65AOmqFvsyPIB-73" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.405;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2NH7Hiz65AOmqFvsyPIB-70" target="2NH7Hiz65AOmqFvsyPIB-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1330" y="780" as="sourcePoint" />
             <mxPoint x="1380" y="730" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1370" y="710" />
-              <mxPoint x="1380" y="780" />
+              <mxPoint x="1390" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -611,14 +611,14 @@
             <mxPoint x="1530" y="930" as="sourcePoint" />
             <mxPoint x="1580" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1650" y="860" />
+              <mxPoint x="1570" y="850" />
               <mxPoint x="1640" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2NH7Hiz65AOmqFvsyPIB-88" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;数据解密&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-103;" vertex="1" connectable="0" parent="2NH7Hiz65AOmqFvsyPIB-87">
+        <mxCell id="2NH7Hiz65AOmqFvsyPIB-88" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;数据解密&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;" vertex="1" connectable="0" parent="2NH7Hiz65AOmqFvsyPIB-87">
           <mxGeometry x="-0.063" y="1" relative="1" as="geometry">
-            <mxPoint x="-3" y="-19" as="offset" />
+            <mxPoint x="-28" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2NH7Hiz65AOmqFvsyPIB-90" value="&lt;font style=&quot;color: rgb(230, 208, 222); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;加密传输过程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
