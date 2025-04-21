@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.2.10">
   <diagram id="Vu2KoEKFjnMnGP2QOwhJ" name="Page-1">
-    <mxGraphModel dx="2206" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -674,7 +674,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zLap7a-VZZi6VVsZSWyX-30" value="建议敷埋的下水管" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="750" width="120" height="30" as="geometry" />
+          <mxGeometry x="-316" y="744" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zLap7a-VZZi6VVsZSWyX-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;水表房&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-316" y="556" width="72" height="34" as="geometry" />
