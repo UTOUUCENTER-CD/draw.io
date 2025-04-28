@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="WLgGop0ci2irTizPN0dP">
-    <mxGraphModel dx="3066" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3223" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y8JMiBK0xlIENQvyGJEt-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Area 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" parent="BiYMYhaf8bEkxf2rN7Kd-55" vertex="1">
-          <mxGeometry x="106.99999999999955" y="-26" width="70" height="30" as="geometry" />
+          <mxGeometry x="99.99999999999955" y="-26" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="woJf9mHt_na4QCH6TA4I-6" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#A680B8;entryX=0.931;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3936,6 +3936,23 @@
         </mxCell>
         <mxCell id="8C29IrL5bEE2ChdwDgKr-29" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;PACS数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4158.81" y="2244.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8C29IrL5bEE2ChdwDgKr-33" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=light-dark(#66B2FF,#EDEDED);startFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiYMYhaf8bEkxf2rN7Kd-57" target="8C29IrL5bEE2ChdwDgKr-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3610" y="2570" as="sourcePoint" />
+            <mxPoint x="3420" y="2640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8C29IrL5bEE2ChdwDgKr-31" value="DHCP服务器" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADkAAAAvCAYAAABZl2IDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP1SURBVGhD7Zp7TBNJHMe/u4CIAipQtATjo74Oo2gkd56JeBKfEYqJmgZjYig+L5o7TYyJJmhighcfOc9w5KL4+gcEfAJq0IjGt0ZPjS98ROUQfFEEjRYo7DozHZqA0HbBXreFT/rrzv5mN91vfzO/mdldAZwwY84sCXIBINp8noskixASKvcaTtA9kX6FGHOzJAiF3iGQIgpUT0hyTjbdE8IW5cVLEo2gdyKKQoJAoijz/VaJ6BOAe9vi+V7HeFtTi6jV////yZqrt9Ml0lvoFCKdTjwfzRa8qTZzr3KGaYPdlnicFpl7tRTLM29wr3JMe+Z5jsj3mXN5jXNkFD3Fhry7bhWpuE+KgqDIyMftdCUeSsvmmpY0htc4x8WS9zh1u9yz+mR78QiRZaYv+PdFFfcqJzEmUv0iay2NbKxsL+HB3buaqytRnF0nDNcosoGaQH6m+1AcSRoRJfxd9ASpuR42GfBEuiYDlE41Tr7+YMa9smruVc600Vr1i/wedFqRSrN1W4Sm5PHSt7gs8fRffpT9MDXDjovc2zqDVhzjJdegiuxqtyl9B1TRXAeSSL5Mn42syy9xqeQdr7FPRsqPvGTFXnN1mcitBQ9haZBYWdcvCIafBzgUGbvxDB44mcFb9mW39MmdJx9je+EjZkeu/8e99nHV4yaXRdJc38hL5OLJ1fv7ig4jKZMraZCs0XeEn0/z+LglkgHdfGxGBTpDmekzTt2p+MZuPa9ioiqqzNh//jlO3q7gZziHKrJrEwvSryA542ozo4ttH9ISaKRKKz8jJU6HX6L6YsSqAuhWHodEw+8AVYlsyRCSsGIGh2BGWjHOpk5B7A/h7DZnrx5+KPkzAUO1QZi44TQ/um1UJbJoXRxupM2wWTER9vuBWxhHhI4Z0Aebjz1gEe235DDbbjJEo6T8I+p5Fm8LVYmki+uZm8/ZrKe/L/JvvkLObxP5EVamR2vh7+fDFg26voHIuVLKa1pHVSKvPzPB9KnOZg2NEoID/PCovIYfYUUfE4kz6+PY9lOthY3D9lB1nzx7/w0WThoM4z/XuMdK/LhIjOzfG3WWRryrqcNPQ0J5TeuoSuSFjVPZuNlk06MjsEYfhdgRGoQvPoS1iVHMT4ekLccfImLZEdwnYzjNvvZQdSSb2LV0PP6YPxaaRYdYwqGWWfwMj3fooSWTFUeoQmTqnFG81DbGyTq83T0Xd7fMYsPHk7/0CAvy57X2UYVIKsAZfEmzjAztAQ2ZICjB4ctKIYHdkG5svqxpL9Vf6vFrB26GtQf2shItkEl6Ftkk0bJXIcsHq/YZkmxpKSw5O14ShHyiXQXPhjuKJIuyrK/cl1TIHd4O8BXPD/mGiFuwlQAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="3411.5" y="2510.5" width="57" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8C29IrL5bEE2ChdwDgKr-34" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#66B2FF,#EDEDED);startFill=0;" edge="1" parent="1" source="BiYMYhaf8bEkxf2rN7Kd-60" target="8C29IrL5bEE2ChdwDgKr-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3375" y="2631" as="sourcePoint" />
+            <mxPoint x="3430" y="2650" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
