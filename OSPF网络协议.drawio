@@ -4215,8 +4215,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kdjS0q00dYqlPs35oX6K-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;为什么太阳的背后会出现云层？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;在地球上的观察者，在视觉上，首先看见的是苍穹之上的云层，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;然后才是太阳，太阳运动速度在跟不上云层出现的位置，且视觉云层将在视觉投影&lt;/div&gt;&lt;div style=&quot;&quot;&gt;上&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1625" y="43" width="460" height="70" as="geometry" />
+        <mxCell id="kdjS0q00dYqlPs35oX6K-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;为什么太阳的背后会出现云层？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;在地球上的观察者，在视觉上，首先看见的是苍穹之上的云层，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;然后才是太阳，太阳运动速度在跟不上云层出现的位置，且视觉会把云层&lt;/div&gt;&lt;div style=&quot;&quot;&gt;投影到“&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;宇宙幕布&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”上，当太阳运动到“宇宙幕布”上云层的投影位置，那么太阳&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的背后将出现云层。这就是所谓的视觉差成像歧义。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1625" y="33" width="420" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
