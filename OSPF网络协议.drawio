@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="WLgGop0ci2irTizPN0dP">
-    <mxGraphModel dx="2361" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3066" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4178,49 +4178,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-13" value="太阳" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-1280" y="376.5" width="90" height="90" as="geometry" />
+          <mxGeometry x="-1250" y="384" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-16" value="云层&lt;div&gt;最先的&lt;/div&gt;&lt;div&gt;投影&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFE6CC;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="-1190" y="403" width="53" height="77" as="geometry" />
+          <mxGeometry x="-1200" y="320" width="53" height="77" as="geometry" />
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-18" value="云层&lt;div&gt;投影&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" parent="1" vertex="1">
-          <mxGeometry x="-1340" y="305" width="40" height="75" as="geometry" />
+          <mxGeometry x="-1310" y="282" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-20" value="云层" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="-1492" y="383" width="53" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="kdjS0q00dYqlPs35oX6K-22" value="云层&lt;div&gt;之后的&lt;/div&gt;&lt;div&gt;投影&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
-          <mxGeometry x="-1346.5" y="443.5" width="53" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="kdjS0q00dYqlPs35oX6K-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1210" y="453" as="sourcePoint" />
-            <mxPoint x="-1220" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1220" y="430" />
-              <mxPoint x="-1210" y="440" />
-              <mxPoint x="-1210" y="463" />
-              <mxPoint x="-1210" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1220" y="560.5" as="sourcePoint" />
-            <mxPoint x="-1250" y="650" as="targetPoint" />
+            <mxPoint x="-1200" y="467.5" as="sourcePoint" />
+            <mxPoint x="-1200" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1220" y="560.5" />
-              <mxPoint x="-1220" y="610" />
+              <mxPoint x="-1200" y="467.5" />
+              <mxPoint x="-1180" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kdjS0q00dYqlPs35oX6K-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;为什么太阳的背后会出现云层？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;在地球上的观察者，在视觉上，首先看见的是苍穹之上的云层，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;然后才是太阳，太阳运动速度在跟不上云层出现的位置，且视觉会把云层&lt;/div&gt;&lt;div style=&quot;&quot;&gt;投影到“&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;宇宙幕布&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”上，当太阳运动到“宇宙幕布”上云层的投影位置，那么太阳&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的背后将出现云层。这就是所谓的视觉差成像歧义。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1598.25" y="64" width="420" height="90" as="geometry" />
+        <mxCell id="kdjS0q00dYqlPs35oX6K-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;地平说论：&lt;/b&gt;为什么太阳的背后会出现云层？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;解：&lt;/b&gt;观察者，在地球大气层内的视觉顺序是：首先看见的是苍穹之上的云层，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;然后才是太阳，太阳运动速度在跟不上云层移动而改变其出现的位置时，此刻视觉会把云层&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;投影到“&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;宇宙幕布&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”上，当太阳运动到“宇宙幕布”上云层的投影位置，那么太阳&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的背后将出现云层。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;这就是所谓的视觉差成像歧义。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1598.25" y="59" width="550" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1430" y="360" as="sourcePoint" />
             <mxPoint x="-1350" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-z_1YAoNIUe__0g-hDz-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" target="kdjS0q00dYqlPs35oX6K-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1430" y="410" as="sourcePoint" />
+            <mxPoint x="-1200" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
