@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kdjS0q00dYqlPs35oX6K-25" value="太阳" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="kdjS0q00dYqlPs35oX6K-25" value="太阳时 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1285" y="241" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" parent="1" vertex="1">
@@ -4180,8 +4180,8 @@
         <mxCell id="kdjS0q00dYqlPs35oX6K-13" value="太阳" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1250" y="384" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kdjS0q00dYqlPs35oX6K-16" value="云层&lt;div&gt;最先的&lt;/div&gt;&lt;div&gt;投影&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFE6CC;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="-1200" y="320" width="53" height="77" as="geometry" />
+        <mxCell id="kdjS0q00dYqlPs35oX6K-16" value="云层&lt;div&gt;先于太阳达到的&lt;/div&gt;&lt;div&gt;投影&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFE6CC;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="-1120" y="318.5" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-18" value="云层&lt;div&gt;投影&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" parent="1" vertex="1">
           <mxGeometry x="-1310" y="282" width="40" height="75" as="geometry" />
@@ -4199,8 +4199,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kdjS0q00dYqlPs35oX6K-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;地平说论：&lt;/b&gt;为什么太阳的背后会出现云层？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;解：&lt;/b&gt;观察者，在地球大气层内的视觉顺序是：首先看见的是苍穹之上的云层，&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;然后才是太阳，太阳运动速度在跟不上云层移动而改变其出现的位置时，此刻视觉会把云层&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;投影到“&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;宇宙幕布&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”上，当太阳运动到“宇宙幕布”上云层的投影位置，那么太阳&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的背后将出现云层。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;这就是所谓的视觉差成像歧义。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1598.25" y="59" width="550" height="100" as="geometry" />
+        <mxCell id="kdjS0q00dYqlPs35oX6K-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;地平说论：&lt;/b&gt;为什么太阳的背后会出现云层？&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;解：&lt;/b&gt;观察者，在地球大气层内的视觉顺序是：首先看见的是苍穹之上的云层，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;然后才是太阳（比如：云层1与太阳时1）。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;如果，在云层背后没有其他空间物，那么云层会被投影到“宇宙深处”的“幕布”上。太阳运动速度在跟不上云层移动而改变其出现的位置时，此刻视觉会把云层&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;投影到“&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;宇宙幕布&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”上，当太阳运动到“宇宙幕布”上云层的投影位置，那么太阳&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的背后将出现云层（比如：云层2）。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;这就是所谓的视觉差成像歧义。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1598.25" y="59" width="870" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kdjS0q00dYqlPs35oX6K-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4213,6 +4213,12 @@
             <mxPoint x="-1430" y="410" as="sourcePoint" />
             <mxPoint x="-1200" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5-z_1YAoNIUe__0g-hDz-2" value="云层 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5-z_1YAoNIUe__0g-hDz-3" value="云层 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="343" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
