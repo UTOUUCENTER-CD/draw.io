@@ -4477,34 +4477,34 @@
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2830" y="-901.5" as="sourcePoint" />
-            <mxPoint x="3120" y="-901.5" as="targetPoint" />
+            <mxPoint x="2839" y="-901.5" as="sourcePoint" />
+            <mxPoint x="3129" y="-901.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2950" y="-781.5" as="sourcePoint" />
-            <mxPoint x="2950" y="-1061.5" as="targetPoint" />
+            <mxPoint x="2959" y="-781.5" as="sourcePoint" />
+            <mxPoint x="2959" y="-1061.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1lai0sXPtWntgKMgqNw-3" value="—— 偶函数的性质 ——" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="-1150" width="150" height="30" as="geometry" />
+        <mxCell id="z1lai0sXPtWntgKMgqNw-3" value="&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(70, 7, 242), rgb(237, 237, 237)); font-size: 18px;&quot;&gt;—— 偶函数的性质 ——&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2582" y="-1152" width="208" height="34" as="geometry" />
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-6" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2830" y="-1021.5" as="sourcePoint" />
-            <mxPoint x="3070" y="-1021.5" as="targetPoint" />
+            <mxPoint x="2876" y="-1037" as="sourcePoint" />
+            <mxPoint x="3036" y="-1037" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2870" y="-931.5" />
-              <mxPoint x="2990" y="-881.5" />
+              <mxPoint x="2905" y="-937" />
+              <mxPoint x="2986" y="-877" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z1lai0sXPtWntgKMgqNw-7" value="$$x$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="-891" width="60" height="30" as="geometry" />
+        <mxCell id="z1lai0sXPtWntgKMgqNw-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$x$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="-912" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1lai0sXPtWntgKMgqNw-8" value="$$y$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="-1091" width="60" height="30" as="geometry" />
+        <mxCell id="z1lai0sXPtWntgKMgqNw-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$y$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2929" y="-1091" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-9" value="1、如果函数&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;是偶函数，则下列哪个选项是正确的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2507" y="-1104" width="330" height="30" as="geometry" />
@@ -4541,6 +4541,33 @@
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-20" value="$$f(x+1)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2581.5" y="-973.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-21" value="$$f(x)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="-1059" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-22" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="2986" y="-911" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-23" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="-911" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="z1lai0sXPtWntgKMgqNw-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2920" y="-930" as="sourcePoint" />
+            <mxPoint x="2930" y="-860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-26" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=light-dark(#040cf6, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2910" y="-944" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2996" y="-931" as="sourcePoint" />
+            <mxPoint x="2996" y="-902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-29" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=light-dark(#040cf6, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="2986" y="-945" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
