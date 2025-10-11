@@ -4525,7 +4525,7 @@
           <mxGeometry x="2571.5" y="-1033.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-15" value="2、如果函数&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 是偶函数，则下列哪个选项是正确的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2505" y="-970" width="340" height="30" as="geometry" />
+          <mxGeometry x="2515" y="-971" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-16" value="A、" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2550" y="-925" width="40" height="30" as="geometry" />
@@ -4540,7 +4540,7 @@
           <mxGeometry x="2584" y="-892" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-20" value="$$f(x+1)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2571.5" y="-972.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="2581.5" y="-973.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
