@@ -4506,8 +4506,8 @@
         <mxCell id="z1lai0sXPtWntgKMgqNw-8" value="$$y$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2920" y="-1091" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z1lai0sXPtWntgKMgqNw-9" value="1、如果函数&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;是偶函数，则下列哪个是正确的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2510" y="-1104" width="300" height="30" as="geometry" />
+        <mxCell id="z1lai0sXPtWntgKMgqNw-9" value="1、如果函数&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;是偶函数，则下列哪个选项是正确的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2507" y="-1104" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-10" value="$$f(x)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2574" y="-1105" width="70" height="30" as="geometry" />
@@ -4523,6 +4523,24 @@
         </mxCell>
         <mxCell id="z1lai0sXPtWntgKMgqNw-14" value="$$f(x+1) = f(-x-1)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2571.5" y="-1033.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-15" value="2、如果函数&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 是偶函数，则下列哪个选项是正确的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2505" y="-970" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-16" value="A、" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="-925" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-17" value="B、" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="-889" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-18" value="$$f(x+1) = f(-x+1)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2584" y="-928" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-19" value="$$f(x+1) = f(-x-1)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2584" y="-892" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z1lai0sXPtWntgKMgqNw-20" value="$$f(x+1)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2571.5" y="-972.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
