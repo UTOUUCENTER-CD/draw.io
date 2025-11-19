@@ -1123,6 +1123,12 @@
             <mxPoint x="1279" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QfGKMQA_XLqxMl8OjbdB-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.6_point_star" vertex="1" parent="1">
+          <mxGeometry x="861" y="302" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QfGKMQA_XLqxMl8OjbdB-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="1223" y="416" width="100" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
