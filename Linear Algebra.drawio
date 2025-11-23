@@ -4674,6 +4674,39 @@
         <mxCell id="RR8o6mhluegGqNdb1t82-15" parent="RR8o6mhluegGqNdb1t82-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="1" vertex="1">
           <mxGeometry height="30" width="60" x="80" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
+          <mxGeometry height="30" width="60" x="2884.75" y="331.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;A&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2610" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;A`&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2628" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="创建全为1的4行3列的矩阵两个，形成一个三维矩阵：矩阵A = ones(4,3,2);" vertex="1">
+          <mxGeometry height="40" width="430" x="2496" y="242" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="对其进行切片操作：" vertex="1">
+          <mxGeometry height="30" width="230" x="2904" y="249.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
+          <mxGeometry height="30" width="60" x="2885.75" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
+          <mxGeometry height="30" width="60" x="2886.25" y="397" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6" vertex="1">
+          <mxGeometry height="30" width="60" x="2887.25" y="428.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8" vertex="1">
+          <mxGeometry height="30" width="60" x="2974.5" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8" vertex="1">
+          <mxGeometry height="30" width="60" x="3015.5" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="RR8o6mhluegGqNdb1t82-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8" vertex="1">
+          <mxGeometry height="30" width="60" x="3055.5" y="387" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
