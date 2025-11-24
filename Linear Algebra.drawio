@@ -4746,20 +4746,23 @@
         <mxCell id="RR8o6mhluegGqNdb1t82-45" parent="RR8o6mhluegGqNdb1t82-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="第二个维度&lt;br&gt;4×2的矩阵之和" vertex="1">
           <mxGeometry height="30" width="100" x="133" y="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一句话记住勾股定律下的所有勾股数：&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;奇数平方连续写；偶数半方加减一&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="38" width="349" x="2884.75" y="-746" as="geometry" />
+        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-6" connectable="0" parent="1" style="group;strokeColor=default;dashed=1;dashPattern=8 8;rounded=1;" value="" vertex="1">
+          <mxGeometry height="160" width="352.25" x="2884.75" y="-752" as="geometry" />
         </mxCell>
-        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}{3,4,5} \rightarrow\color{black}3^2 = 9 = 4+5 \rightarrow 3,4,5$$" vertex="1">
-          <mxGeometry height="45" width="269" x="2922" y="-712" as="geometry" />
+        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-1" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一句话记住勾股定律下的所有勾股数：&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;奇数平方连续写；偶数半方加减一&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="39.480519480519476" width="352.25" as="geometry" />
         </mxCell>
-        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue} 5,12,13\rightarrow\color{black}5^2 = 25 = 12+13 \rightarrow 5,12,13 $$" vertex="1">
-          <mxGeometry height="18" width="253" x="2941" y="-674" as="geometry" />
+        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-2" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}{3,4,5} \rightarrow\color{black}3^2 = 9 = 4+5 \rightarrow 3,4,5$$" vertex="1">
+          <mxGeometry height="46.75324675324675" width="271.5050143266476" x="37.59688395415473" y="35.32467532467532" as="geometry" />
         </mxCell>
-        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}8,15,17\rightarrow\color{black}8 ÷ 2 = 4 \rightarrow 4^2 \pm 1 \rightarrow8,15,17$$" vertex="1">
-          <mxGeometry height="28" width="287" x="2927" y="-652" as="geometry" />
+        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-3" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue} 5,12,13\rightarrow\color{black}5^2 = 25 = 12+13 \rightarrow 5,12,13 $$" vertex="1">
+          <mxGeometry height="18.7012987012987" width="255.3560171919771" x="56.77381805157594" y="74.8051948051948" as="geometry" />
         </mxCell>
-        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}10,24,26\rightarrow\color{black}10 ÷ 2 = 5 \rightarrow 5^2 \pm 1\rightarrow 10,24,26$$" vertex="1">
-          <mxGeometry height="32" width="227" x="2960" y="-624" as="geometry" />
+        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-4" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}8,15,17\rightarrow\color{black}8 ÷ 2 = 4 \rightarrow 4^2 \pm 1 \rightarrow8,15,17$$" vertex="1">
+          <mxGeometry height="29.090909090909086" width="289.6726361031519" x="42.64344555873926" y="97.66233766233765" as="geometry" />
+        </mxCell>
+        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-5" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}10,24,26\rightarrow\color{black}10 ÷ 2 = 5 \rightarrow 5^2 \pm 1\rightarrow 10,24,26$$" vertex="1">
+          <mxGeometry height="33.246753246753244" width="229.11389684813756" x="75.95075214899714" y="126.75324675324674" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
