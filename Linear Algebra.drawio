@@ -4582,19 +4582,19 @@
           <mxGeometry height="26" width="68" x="2858" y="-949" as="geometry" />
         </mxCell>
         <mxCell id="Vr5qju0Am_xni-WI_BwP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="416" width="271" x="2582" y="-843" as="geometry" />
+          <mxGeometry height="416" width="288" x="2579" y="-843" as="geometry" />
         </mxCell>
         <mxCell id="Vr5qju0Am_xni-WI_BwP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="134" width="26" x="2827" y="-822" as="geometry" />
+          <mxGeometry height="134" width="26" x="2842" y="-822" as="geometry" />
         </mxCell>
         <mxCell id="Vr5qju0Am_xni-WI_BwP-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="第&lt;br&gt;&lt;div&gt;一&lt;/div&gt;&lt;div&gt;章&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;绪&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;论&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="2812" y="-764" as="geometry" />
+          <mxGeometry height="30" width="60" x="2826" y="-764" as="geometry" />
         </mxCell>
         <mxCell id="Vr5qju0Am_xni-WI_BwP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="63" width="26" x="2828" y="-509" as="geometry" />
+          <mxGeometry height="63" width="26" x="2841" y="-509" as="geometry" />
         </mxCell>
         <mxCell id="Vr5qju0Am_xni-WI_BwP-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="回&lt;div&gt;到&lt;/div&gt;&lt;div&gt;顶&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="2813" y="-492.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="2826" y="-492.5" as="geometry" />
         </mxCell>
         <mxCell id="RR8o6mhluegGqNdb1t82-30" connectable="0" parent="1" style="group;strokeColor=default;dashed=1;" value="" vertex="1">
           <mxGeometry height="150.5" width="141" x="2668.5" y="331.5" as="geometry" />
@@ -4746,23 +4746,23 @@
         <mxCell id="RR8o6mhluegGqNdb1t82-45" parent="RR8o6mhluegGqNdb1t82-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="第二个维度&lt;br&gt;4×2的矩阵之和" vertex="1">
           <mxGeometry height="30" width="100" x="133" y="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-6" connectable="0" parent="1" style="group;strokeColor=default;dashed=1;dashPattern=8 8;rounded=1;" value="" vertex="1">
-          <mxGeometry height="160" width="352.25" x="2878" y="-744" as="geometry" />
+        <mxCell id="Nq5A9rpQpAFv-WCkt3m7-6" connectable="0" parent="1" style="group;strokeColor=none;dashed=1;dashPattern=8 8;rounded=0;" value="" vertex="1">
+          <mxGeometry height="220" width="168" x="2631" y="-757" as="geometry" />
         </mxCell>
         <mxCell id="Nq5A9rpQpAFv-WCkt3m7-1" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一句话记住勾股定律下的所有勾股数：&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;奇数平方写连续；偶数半方加减一&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="39.480519480519476" width="352.25" as="geometry" />
+          <mxGeometry height="54.285714285714285" width="168" as="geometry" />
         </mxCell>
         <mxCell id="Nq5A9rpQpAFv-WCkt3m7-2" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}{3,4,5} \rightarrow\color{black}3^2 = 9 = 4+5 \rightarrow 3,4,5$$" vertex="1">
-          <mxGeometry height="46.75324675324675" width="271.5050143266476" x="37.59688395415473" y="35.32467532467532" as="geometry" />
+          <mxGeometry height="64.28571428571428" width="129.48997134670486" x="17.931232091690543" y="48.571428571428555" as="geometry" />
         </mxCell>
         <mxCell id="Nq5A9rpQpAFv-WCkt3m7-3" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue} 5,12,13\rightarrow\color{black}5^2 = 25 = 12+13 \rightarrow 5,12,13 $$" vertex="1">
-          <mxGeometry height="18.7012987012987" width="255.3560171919771" x="56.77381805157594" y="74.8051948051948" as="geometry" />
+          <mxGeometry height="25.714285714285708" width="121.7879656160458" x="27.077363896848137" y="102.85714285714283" as="geometry" />
         </mxCell>
         <mxCell id="Nq5A9rpQpAFv-WCkt3m7-4" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}8,15,17\rightarrow\color{black}8 ÷ 2 = 4 \rightarrow 4^2 \pm 1 \rightarrow8,15,17$$" vertex="1">
-          <mxGeometry height="29.090909090909086" width="289.6726361031519" x="42.64344555873926" y="97.66233766233765" as="geometry" />
+          <mxGeometry height="39.99999999999999" width="138.15472779369628" x="20.338108882521492" y="134.28571428571428" as="geometry" />
         </mxCell>
         <mxCell id="Nq5A9rpQpAFv-WCkt3m7-5" parent="Nq5A9rpQpAFv-WCkt3m7-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\color{blue}10,24,26\rightarrow\color{black}10 ÷ 2 = 5 \rightarrow 5^2 \pm 1\rightarrow 10,24,26$$" vertex="1">
-          <mxGeometry height="33.246753246753244" width="229.11389684813756" x="75.95075214899714" y="126.75324675324674" as="geometry" />
+          <mxGeometry height="45.71428571428571" width="109.27220630372494" x="36.22349570200572" y="174.28571428571422" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
