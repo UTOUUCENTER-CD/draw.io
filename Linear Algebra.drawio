@@ -4998,7 +4998,7 @@
         <mxCell id="x9n29YJ6KXiN6nSE5aiq-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="G" vertex="1">
           <mxGeometry height="30" width="60" x="1928.74" y="-490.5" as="geometry" />
         </mxCell>
-        <mxCell id="x9n29YJ6KXiN6nSE5aiq-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$S_{\Delta ABE}=S_{\Delta ABF}$$" vertex="1">
+        <mxCell id="x9n29YJ6KXiN6nSE5aiq-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$S_{\Delta ABF}=S_{\Delta ABE}$$" vertex="1">
           <mxGeometry height="29" width="113" x="1745" y="-443" as="geometry" />
         </mxCell>
         <mxCell id="x9n29YJ6KXiN6nSE5aiq-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;div&gt;$$S_{\Delta BGE} = S_{\Delta BGD}$$&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -5051,6 +5051,9 @@
             <mxPoint x="1948.7399999999998" y="-578" as="sourcePoint" />
             <mxPoint x="1949" y="-601" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x9n29YJ6KXiN6nSE5aiq-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="也即：利用平行线间的顶点拉动，把不规则的阴影顶点拉进规则的正方形内" vertex="1">
+          <mxGeometry height="29" width="438" x="1664.5" y="-344" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
