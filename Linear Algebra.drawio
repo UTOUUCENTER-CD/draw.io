@@ -5154,15 +5154,15 @@
             <mxPoint x="2360" y="-440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSE8w_liTQlrGltN68mU-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="这个技巧在于以顶点D作DE垂直BC切割出&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;旋转移动补全后，得&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;到一个正方形，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;构造出了：&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cSE8w_liTQlrGltN68mU-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="这个技巧在于以顶点D作DE垂直BC切割出&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;旋转移动补全后，得&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;到一个正方形FBED，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;构造出了：&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="380" x="2101" y="-408" as="geometry" />
         </mxCell>
-        <mxCell id="cSE8w_liTQlrGltN68mU-38" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=#0000FF;" value="">
+        <mxCell id="cSE8w_liTQlrGltN68mU-38" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=0;strokeColor=#0000FF;dashed=1;dashPattern=8 4 1 4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="2219" y="-473" />
             </Array>
-            <mxPoint x="2333" y="-457" as="sourcePoint" />
+            <mxPoint x="2353" y="-455" as="sourcePoint" />
             <mxPoint x="2192" y="-571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -5170,7 +5170,7 @@
           <mxGeometry height="30" width="60" x="2316" y="-422.5" as="geometry" />
         </mxCell>
         <mxCell id="cSE8w_liTQlrGltN68mU-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: left;&quot;&gt;$$AB+BC=BF+BE=2\times BE$$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="222" x="2241" y="-393.5" as="geometry" />
+          <mxGeometry height="30" width="222" x="2264" y="-393.5" as="geometry" />
         </mxCell>
         <mxCell id="cSE8w_liTQlrGltN68mU-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: left;&quot;&gt;$$BE =BF = 30-16 = 14 \rightarrow \frac{14}{2} = 7$$&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="208" x="2111" y="-363.5" as="geometry" />
