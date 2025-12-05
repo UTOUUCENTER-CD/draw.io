@@ -5448,24 +5448,6 @@
             <mxPoint y="53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSE8w_liTQlrGltN68mU-118" edge="1" parent="1" source="cSE8w_liTQlrGltN68mU-86" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="cSE8w_liTQlrGltN68mU-91" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2702" y="922" as="sourcePoint" />
-            <mxPoint x="2752" y="872" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSE8w_liTQlrGltN68mU-119" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.014;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;" target="cSE8w_liTQlrGltN68mU-91" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2663" y="798" as="sourcePoint" />
-            <mxPoint x="2797" y="1152" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSE8w_liTQlrGltN68mU-120" edge="1" parent="1" source="cSE8w_liTQlrGltN68mU-86" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2639.5" y="795" as="sourcePoint" />
-            <mxPoint x="2629" y="788" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
