@@ -5595,15 +5595,6 @@
         <mxCell id="GM0-ZMznHcX4FWS69eZk-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$5$$" vertex="1">
           <mxGeometry height="20" width="30" x="3033.5" y="-593.98" as="geometry" />
         </mxCell>
-        <mxCell id="GM0-ZMznHcX4FWS69eZk-44" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="24" width="152" x="2998" y="-753" as="geometry" />
-        </mxCell>
-        <mxCell id="GM0-ZMznHcX4FWS69eZk-42" parent="GM0-ZMznHcX4FWS69eZk-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\triangle GFD = ?$$" vertex="1">
-          <mxGeometry height="19" width="103" x="49" y="2" as="geometry" />
-        </mxCell>
-        <mxCell id="GM0-ZMznHcX4FWS69eZk-43" parent="GM0-ZMznHcX4FWS69eZk-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;解题思路的关键点是：&lt;/b&gt;" vertex="1">
-          <mxGeometry height="24" width="128" x="-52" as="geometry" />
-        </mxCell>
         <mxCell id="GM0-ZMznHcX4FWS69eZk-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;已知：点&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 分别是&lt;/b&gt;" vertex="1">
           <mxGeometry height="28.5" width="135" x="2907" y="-533.5" as="geometry" />
         </mxCell>
@@ -5621,6 +5612,9 @@
         </mxCell>
         <mxCell id="GM0-ZMznHcX4FWS69eZk-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;$$求：四边形ABGD的面积$$&lt;/b&gt;" vertex="1">
           <mxGeometry height="26" width="104" x="2944" y="-485.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;$$解题思路的关键点是：\triangle GFD = ?$$&lt;/b&gt;" vertex="1">
+          <mxGeometry height="25" width="209" x="2956.5" y="-770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
