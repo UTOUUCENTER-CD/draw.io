@@ -5596,13 +5596,31 @@
           <mxGeometry height="20" width="30" x="3033.5" y="-593.98" as="geometry" />
         </mxCell>
         <mxCell id="GM0-ZMznHcX4FWS69eZk-44" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="23" width="152" x="2998" y="-750" as="geometry" />
+          <mxGeometry height="24" width="152" x="2998" y="-753" as="geometry" />
         </mxCell>
         <mxCell id="GM0-ZMznHcX4FWS69eZk-42" parent="GM0-ZMznHcX4FWS69eZk-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\triangle GFD = ?$$" vertex="1">
           <mxGeometry height="19" width="103" x="49" y="2" as="geometry" />
         </mxCell>
-        <mxCell id="GM0-ZMznHcX4FWS69eZk-43" parent="GM0-ZMznHcX4FWS69eZk-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;关键点是：&lt;/b&gt;" vertex="1">
-          <mxGeometry height="23" width="76" as="geometry" />
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-43" parent="GM0-ZMznHcX4FWS69eZk-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;解题思路的关键点是：&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24" width="128" x="-52" as="geometry" />
+        </mxCell>
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;已知：点&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 分别是&lt;/b&gt;" vertex="1">
+          <mxGeometry height="28.5" width="135" x="2907" y="-533.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="$$长方形ABCD$$" vertex="1">
+          <mxGeometry height="28" width="176" x="2994" y="-534.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$E、F$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2951" y="-535.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="相应两边的中点" vertex="1">
+          <mxGeometry height="25" width="105" x="3116.5" y="-532" as="geometry" />
+        </mxCell>
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;$$四边形GECF的面积是10$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2994" y="-511.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GM0-ZMznHcX4FWS69eZk-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;$$求：四边形ABGD的面积$$&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="104" x="2944" y="-485.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
