@@ -5629,7 +5629,7 @@
           <mxGeometry height="18" width="33" x="3196" y="-189.5" as="geometry" />
         </mxCell>
         <mxCell id="GM0-ZMznHcX4FWS69eZk-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$I$$" vertex="1">
-          <mxGeometry height="18" width="33" x="3200" y="-290" as="geometry" />
+          <mxGeometry height="18" width="33" x="3188" y="-291" as="geometry" />
         </mxCell>
         <mxCell id="GM0-ZMznHcX4FWS69eZk-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$所以：\sqrt {2x-1} \,\,就是正方形_{ABCD}的边长$$" vertex="1">
           <mxGeometry height="35" width="244" x="2852.5" y="-258.5" as="geometry" />
