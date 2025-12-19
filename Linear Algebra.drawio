@@ -6066,6 +6066,9 @@
         <mxCell id="cFw2RxBZWbizkntheUzJ-140" parent="cFw2RxBZWbizkntheUzJ-143" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="&lt;b&gt;5份&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-114" y="171" as="geometry" />
         </mxCell>
+        <mxCell id="cFw2RxBZWbizkntheUzJ-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="使用平均数法则，直接计算中间值" vertex="1">
+          <mxGeometry height="40" width="200" x="2800" y="-40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
