@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.2.7">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="1327" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="1277" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6068,6 +6068,27 @@
         </mxCell>
         <mxCell id="cFw2RxBZWbizkntheUzJ-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="使用平均数法则，直接计算中间值" vertex="1">
           <mxGeometry height="40" width="200" x="2800" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="In3fkNI3WSjfBlOVuSt3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;$$把 0.535535535535 \cdots 化为分数������&amp;nbsp;$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="3010" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="In3fkNI3WSjfBlOVuSt3-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="119" width="213.5" x="3044.75" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="In3fkNI3WSjfBlOVuSt3-2" parent="In3fkNI3WSjfBlOVuSt3-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$ 设：a = 0.535535535535\cdots \tag{1}$$" vertex="1">
+          <mxGeometry height="30" width="180" x="23" y="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="In3fkNI3WSjfBlOVuSt3-3" parent="In3fkNI3WSjfBlOVuSt3-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$1000a = 535.535535535 \cdots \tag{2}$$" vertex="1">
+          <mxGeometry height="20" width="180" x="27" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="In3fkNI3WSjfBlOVuSt3-4" parent="In3fkNI3WSjfBlOVuSt3-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;(2) - (1)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="2" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="In3fkNI3WSjfBlOVuSt3-5" parent="In3fkNI3WSjfBlOVuSt3-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$ \Rightarrow 999a = 535 \Rightarrow a = \frac{535}{999}$$" vertex="1">
+          <mxGeometry height="30" width="130" x="83.5" y="89" as="geometry" />
+        </mxCell>
+        <mxCell id="In3fkNI3WSjfBlOVuSt3-6" parent="In3fkNI3WSjfBlOVuSt3-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;解：&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
