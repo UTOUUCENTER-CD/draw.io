@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.2.9">
   <diagram id="-7mXHD-GepfTN9AgLk7E" name="Page-1">
-    <mxGraphModel dx="1433" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="1473" dy="1896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6182,6 +6182,12 @@
         </mxCell>
         <mxCell id="Dhr8VxE82WmDfDyRB1l3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(29, 29, 31); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, sans-serif; font-size: 16px; letter-spacing: -0.32px; text-align: start; white-space-collapse: preserve; background-color: rgb(247, 248, 252);&quot;&gt;A组3人，其中1名女生，B组5人，其中男生2名，从A、B两组中各选1名，能组成1男1女的概率是多少？&lt;/span&gt;" vertex="1">
           <mxGeometry height="55.5" width="391.24" x="539.02" y="-469.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$((((45)^{\frac{1}{2}})^{\frac{1}{2}})^{\cdots})^{65536} = ((45)^{\frac{1}{2^{15}}} )^{65536}= ((45)^{\frac{1}{2^{10}}\times\frac{1}{2^{5}}})^{65536}$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="1066.5" y="-364.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$=((45)^{\frac{1}{1024}\times\frac{1}{32}})^{65536} = ((45)^{\frac{1}{32768}})^{65536} = (45)^2 = 2025$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1081.5" y="-302" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
