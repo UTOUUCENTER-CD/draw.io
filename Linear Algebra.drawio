@@ -6237,10 +6237,10 @@
         <mxCell id="Dhr8VxE82WmDfDyRB1l3-12" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1021.26" y="-186.5" />
+              <mxPoint x="1014.26" y="-186.5" />
             </Array>
-            <mxPoint x="1011.26" y="-196.5" as="sourcePoint" />
-            <mxPoint x="1011.26" y="-156.5" as="targetPoint" />
+            <mxPoint x="1004.26" y="-196.5" as="sourcePoint" />
+            <mxPoint x="1004.26" y="-156.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dhr8VxE82WmDfDyRB1l3-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$\color{blue}{b}\color{black}{+\frac{1}{c+\frac{1}{d}} = \frac{147}{56} = 3+\frac{9}{46}}\Rightarrow \color{blue}{b = 3}$$&lt;/font&gt;" vertex="1">
