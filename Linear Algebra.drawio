@@ -6446,7 +6446,7 @@
         <mxCell id="Dhr8VxE82WmDfDyRB1l3-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$求蓝色部分面积 = ？$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1873" y="862" as="geometry" />
         </mxCell>
-        <mxCell id="Dhr8VxE82WmDfDyRB1l3-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$若：x^2 + y^2 = 16,\,\,\,求\sqrt{y^2 - 8y + 16}+\sqrt{xy - 5y + 4x + 20}$$&lt;/font&gt;" vertex="1">
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$若：x^2 + y^2 = 16,\,\,\,求\sqrt{y^2 - 8y + 16}+\sqrt{xy - 5y + 4x - 20}$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="120" x="665" y="1047" as="geometry" />
         </mxCell>
         <mxCell id="Dhr8VxE82WmDfDyRB1l3-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" value="" vertex="1">
@@ -6541,6 +6541,78 @@
         </mxCell>
         <mxCell id="Dhr8VxE82WmDfDyRB1l3-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="159" x="841" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1122.13" y="1172.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;9&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1200.39" y="1172.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;4&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1278.13" y="1172.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;7&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1122.39" y="1249.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;5&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1200.65" y="1249.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1278.39" y="1249.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 36px; color: rgb(51, 51, 255);&quot;&gt;6&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1122.13" y="1326.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1200.39" y="1326.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" value="&lt;font style=&quot;font-size: 36px; color: rgb(51, 51, 255);&quot;&gt;8&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="77" x="1278.13" y="1326.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;九宫格游戏：填上合适的数，使得每行每列&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 及对角线之和相等&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;解题思路，鸡飞蛋打换方法。弹弓拉点等于支点之和的一半。行上两数与列上两数之和相等&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59" width="400" x="1075.5" y="1092" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-118" edge="1" parent="1" source="Dhr8VxE82WmDfDyRB1l3-113" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.688;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.454;exitY=0.344;exitDx=0;exitDy=0;exitPerimeter=0;" target="Dhr8VxE82WmDfDyRB1l3-109" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1233.38" y="1295.75" as="sourcePoint" />
+            <mxPoint x="1283.38" y="1245.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-119" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.428;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dhr8VxE82WmDfDyRB1l3-109" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1183.38" y="1355.75" as="sourcePoint" />
+            <mxPoint x="1223.38" y="1455.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-120" edge="1" parent="1" source="Dhr8VxE82WmDfDyRB1l3-114" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.795;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1333.38" y="1835.75" as="sourcePoint" />
+            <mxPoint x="1313.38" y="1275.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-121" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=45;" value="和的一半" vertex="1">
+          <mxGeometry height="30" width="60" x="1253.88" y="1224.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$即：\frac{9+3}{2} =\color{blue}{6}\\[2ex] 4 + 9 = \color{blue}{6} +\fbox{\color{black}{7}}\\[2ex]4+3=\color{blue}{6}+\fbox{\color{black}{1}}\\[2ex]\frac{9+7}{2} = 8\\[2ex]$$" vertex="1">
+          <mxGeometry height="24.5" width="60" x="1398.5" y="1261.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-123" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1180" y="1277.75" as="sourcePoint" />
+            <mxPoint x="1230" y="1227.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-124" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;entryX=0.284;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dhr8VxE82WmDfDyRB1l3-116" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1180" y="1277.75" as="sourcePoint" />
+            <mxPoint x="1420" y="1367.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dhr8VxE82WmDfDyRB1l3-125" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=8 8;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="1227.75" as="sourcePoint" />
+            <mxPoint x="1300" y="1357.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
