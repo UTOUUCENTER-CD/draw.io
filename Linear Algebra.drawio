@@ -7414,61 +7414,67 @@
           <mxGeometry height="40" width="100" x="2592" y="1463" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$z = x^2+y^2$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2589" y="1558" as="geometry" />
+          <mxGeometry height="30" width="60" x="2589" y="1583" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$z = x^2 - y^2$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2589" y="1593" as="geometry" />
+          <mxGeometry height="30" width="60" x="2589" y="1618" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$x^2+y^2-z^2 = 1$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2608.5" y="1718" as="geometry" />
+          <mxGeometry height="30" width="60" x="2608.5" y="1743" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$x^2+y^2-z^2 = -1$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2615" y="1751" as="geometry" />
+          <mxGeometry height="30" width="60" x="2615" y="1776" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\frac{x^2}{a^2}+\frac{y^2}{b^2} = z^2$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2597" y="1516" as="geometry" />
+          <mxGeometry height="30" width="60" x="2597" y="1548" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$z = x^2$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2575" y="1624" as="geometry" />
+          <mxGeometry height="30" width="60" x="2575" y="1649" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$(\sqrt{x^2+y^2}-2)^2+z^2 = 1$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2640" y="1784" as="geometry" />
+          <mxGeometry height="30" width="60" x="2640" y="1809" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$z =x^3-3xy^2$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2600.25" y="1654" as="geometry" />
+          <mxGeometry height="30" width="60" x="2600.25" y="1679" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$z = 2e^{-(x^2+y^2)}$$" vertex="1">
-          <mxGeometry height="30" width="60" x="2600.25" y="1684" as="geometry" />
+          <mxGeometry height="30" width="60" x="2600.25" y="1709" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（椭球面）" vertex="1">
-          <mxGeometry height="20" width="69" x="2692" y="1473" as="geometry" />
+          <mxGeometry height="22" width="82" x="2692" y="1473" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（椭圆锥面）" vertex="1">
-          <mxGeometry height="26" width="75" x="2668.5" y="1518" as="geometry" />
+          <mxGeometry height="26" width="75" x="2668.5" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（旋转（或椭圆）抛物面）" vertex="1">
-          <mxGeometry height="22" width="151.01" x="2644.99" y="1562" as="geometry" />
+          <mxGeometry height="22" width="151.01" x="2644.99" y="1587" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（双曲抛物面（也叫马鞍面））" vertex="1">
-          <mxGeometry height="26" width="173" x="2649" y="1595" as="geometry" />
+          <mxGeometry height="26" width="173" x="2649" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（抛物柱面）" vertex="1">
-          <mxGeometry height="26" width="75" x="2617" y="1626" as="geometry" />
+          <mxGeometry height="26" width="75" x="2617" y="1651" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（三叶曲面（也叫猴鞍面））" vertex="1">
-          <mxGeometry height="20" width="163" x="2663.5" y="1659" as="geometry" />
+          <mxGeometry height="20" width="163" x="2663.5" y="1684" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（高斯曲面）" vertex="1">
-          <mxGeometry height="26" width="79.02" x="2662.98" y="1686" as="geometry" />
+          <mxGeometry height="26" width="79.02" x="2662.98" y="1711" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（单叶双面）" vertex="1">
-          <mxGeometry height="26" width="78" x="2686" y="1720" as="geometry" />
+          <mxGeometry height="26" width="78" x="2686" y="1745" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（双叶双曲面）" vertex="1">
-          <mxGeometry height="20" width="90" x="2700" y="1756" as="geometry" />
+          <mxGeometry height="20" width="90" x="2700" y="1781" as="geometry" />
         </mxCell>
         <mxCell id="j0h_YPvzkjMqdFPndXCH-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="（圆环面）" vertex="1">
-          <mxGeometry height="22" width="69" x="2742" y="1788" as="geometry" />
+          <mxGeometry height="22" width="69" x="2742" y="1813" as="geometry" />
+        </mxCell>
+        <mxCell id="850T3v7yt7ILJVw3b6VK-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\frac{x^2}{a^2}+\frac{y^2}{b^2} = 1$$" vertex="1">
+          <mxGeometry height="30" width="60" x="2595" y="1505" as="geometry" />
+        </mxCell>
+        <mxCell id="850T3v7yt7ILJVw3b6VK-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(椭圆柱面）" vertex="1">
+          <mxGeometry height="30" width="85" x="2655" y="1507" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
